@@ -1,0 +1,1108 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 6033,
+    "end": 6040,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 6858,
+    "end": 6865,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 23947,
+    "end": 23954,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 24734,
+    "end": 24741,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 546,
+    "end": 557,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6386
+      }
+    ],
+    "start": 848,
+    "end": 856,
+    "found_term": "Baukunst"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6386
+      }
+    ],
+    "start": 1312,
+    "end": 1320,
+    "found_term": "Baukunst"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 3796,
+    "end": 3807,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6508
+      },
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6233
+      }
+    ],
+    "start": 4311,
+    "end": 4327,
+    "found_term": "Innenarchitektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6646
+      }
+    ],
+    "start": 7044,
+    "end": 7066,
+    "found_term": "Architekturdarstellung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 7254,
+    "end": 7265,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 8070,
+    "end": 8081,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6429
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6348
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6556
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6425
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.8908
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.7299
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6075
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6186
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6325
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.653
+      }
+    ],
+    "start": 9194,
+    "end": 9202,
+    "found_term": "Fassaden"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 9425,
+    "end": 9436,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 17676,
+    "end": 17687,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 21977,
+    "end": 21988,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 22948,
+    "end": 22959,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6172
+      }
+    ],
+    "start": 23344,
+    "end": 23361,
+    "found_term": "baukünstlerischen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 25160,
+    "end": 25171,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 25229,
+    "end": 25240,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6386
+      }
+    ],
+    "start": 25419,
+    "end": 25427,
+    "found_term": "Baukunst"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 25568,
+    "end": 25579,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 26952,
+    "end": 26963,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 27528,
+    "end": 27539,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 27562,
+    "end": 27573,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 243,
+    "end": 252,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 1955,
+    "end": 1964,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 16065,
+    "end": 16074,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 427,
+    "end": 435,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 974,
+    "end": 982,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 3742,
+    "end": 3750,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 6141,
+    "end": 6149,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 24481,
+    "end": 24489,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 24594,
+    "end": 24602,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6607
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6056
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7814
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7136
+      }
+    ],
+    "start": 24686,
+    "end": 24697,
+    "found_term": "Holzgebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 12682,
+    "end": 12689,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 24770,
+    "end": 24777,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 2759,
+    "end": 2768,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6406
+      }
+    ],
+    "start": 398,
+    "end": 408,
+    "found_term": "Errichtung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6328
+      }
+    ],
+    "start": 1118,
+    "end": 1127,
+    "found_term": "Baukosten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6379
+      }
+    ],
+    "start": 5619,
+    "end": 5628,
+    "found_term": "Sanierung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6069
+      }
+    ],
+    "start": 6201,
+    "end": 6222,
+    "found_term": "Architektenwettbewerb"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6431
+      }
+    ],
+    "start": 6737,
+    "end": 6751,
+    "found_term": "Fertigstellung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6321
+      }
+    ],
+    "start": 7473,
+    "end": 7483,
+    "found_term": "Bauentwurf"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.7256
+      }
+    ],
+    "start": 12408,
+    "end": 12411,
+    "found_term": "Bau"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6328
+      }
+    ],
+    "start": 19492,
+    "end": 19501,
+    "found_term": "Baukosten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300000885,
+        "wd_id": "Q391414",
+        "search_term": "Bauteil",
+        "confidence": 0.6082
+      }
+    ],
+    "start": 4052,
+    "end": 4060,
+    "found_term": "Tragwerk"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6029
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6227
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6006
+      }
+    ],
+    "start": 5633,
+    "end": 5642,
+    "found_term": "Altbauten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 24793,
+    "end": 24804,
+    "found_term": "Grundfläche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.68
+      }
+    ],
+    "start": 5557,
+    "end": 5564,
+    "found_term": "Nischen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7009
+      }
+    ],
+    "start": 440,
+    "end": 449,
+    "found_term": "Bauwerken"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.722
+      }
+    ],
+    "start": 3913,
+    "end": 3921,
+    "found_term": "Bauwerke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.722
+      }
+    ],
+    "start": 3998,
+    "end": 4006,
+    "found_term": "Bauwerke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7009
+      }
+    ],
+    "start": 6154,
+    "end": 6163,
+    "found_term": "Bauwerken"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6052
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6254
+      }
+    ],
+    "start": 24889,
+    "end": 24898,
+    "found_term": "errichtet"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300076641,
+        "wd_id": "Q854429",
+        "search_term": "Portal",
+        "confidence": 1.0
+      }
+    ],
+    "start": 25152,
+    "end": 25158,
+    "found_term": "Portal"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7018
+      }
+    ],
+    "start": 8179,
+    "end": 8198,
+    "found_term": "Zweifamilienhäusern"
+  }
+]

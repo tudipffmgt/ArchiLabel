@@ -1,0 +1,95 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6176
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6065
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6663
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6292
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.648
+      }
+    ],
+    "start": 1388,
+    "end": 1400,
+    "found_term": "Kavalierhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 771,
+    "end": 777,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 1039,
+    "end": 1046,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.6027
+      }
+    ],
+    "start": 2363,
+    "end": 2371,
+    "found_term": "Altstadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2572,
+    "end": 2577,
+    "found_term": "Stadt"
+  }
+]

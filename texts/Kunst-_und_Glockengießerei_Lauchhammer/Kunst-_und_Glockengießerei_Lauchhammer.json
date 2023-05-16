@@ -1,0 +1,884 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300001749,
+        "wd_id": "Q268205",
+        "search_term": "Plinthe",
+        "confidence": 0.6153
+      },
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.7198
+      },
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6396
+      },
+      {
+        "aat_id": 300047230,
+        "wd_id": "Q245117",
+        "search_term": "Relief",
+        "confidence": 0.7009
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6843
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6394
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6477
+      }
+    ],
+    "start": 2883,
+    "end": 2895,
+    "found_term": "Reliefbüsten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 4840,
+    "end": 4846,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6383
+      }
+    ],
+    "start": 2212,
+    "end": 2225,
+    "found_term": "Ausstellungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6383
+      }
+    ],
+    "start": 4891,
+    "end": 4904,
+    "found_term": "Ausstellungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6935
+      }
+    ],
+    "start": 5249,
+    "end": 5260,
+    "found_term": "Ausstellung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.646
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6154
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6197
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6316
+      },
+      {
+        "aat_id": 300002613,
+        "wd_id": "Q657100",
+        "search_term": "Kolonnade",
+        "confidence": 0.7092
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6415
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6398
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6023
+      },
+      {
+        "aat_id": 300001280,
+        "wd_id": "Q12493",
+        "search_term": "Kuppel",
+        "confidence": 0.6332
+      },
+      {
+        "wd_id": "Q1501427",
+        "search_term": "Oktogon",
+        "confidence": 0.6312
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6508
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.657
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6942
+      }
+    ],
+    "start": 2414,
+    "end": 2425,
+    "found_term": "Säulenhalle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6182
+      },
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.7563
+      }
+    ],
+    "start": 3988,
+    "end": 4001,
+    "found_term": "Neptunbrunnen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6467
+      },
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 0.6419
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6477
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7544
+      }
+    ],
+    "start": 1617,
+    "end": 1628,
+    "found_term": "Schlosspark"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6319
+      }
+    ],
+    "start": 1692,
+    "end": 1703,
+    "found_term": "Parkanlagen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6133
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7796
+      }
+    ],
+    "start": 336,
+    "end": 341,
+    "found_term": "Büste"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6573
+      }
+    ],
+    "start": 1341,
+    "end": 1349,
+    "found_term": "Nachguss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6624
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6092
+      }
+    ],
+    "start": 1472,
+    "end": 1479,
+    "found_term": "Denkmal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6573
+      }
+    ],
+    "start": 1562,
+    "end": 1570,
+    "found_term": "Nachguss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6172
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6317
+      }
+    ],
+    "start": 1963,
+    "end": 1973,
+    "found_term": "Bronzeguss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.7032
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6439
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7902
+      }
+    ],
+    "start": 2063,
+    "end": 2076,
+    "found_term": "Bronzestatuen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6033
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6147
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6412
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7894
+      }
+    ],
+    "start": 2869,
+    "end": 2876,
+    "found_term": "Statuen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6007
+      }
+    ],
+    "start": 2986,
+    "end": 2994,
+    "found_term": "enthüllt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.7433
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7422
+      }
+    ],
+    "start": 3697,
+    "end": 3706,
+    "found_term": "Standbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6202
+      },
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6378
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6484
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7033
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6223
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.6593
+      }
+    ],
+    "start": 3806,
+    "end": 3819,
+    "found_term": "Figurengruppe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.613
+      }
+    ],
+    "start": 4575,
+    "end": 4584,
+    "found_term": "Medaillon"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6573
+      }
+    ],
+    "start": 4626,
+    "end": 4634,
+    "found_term": "Nachguss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6571
+      },
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.7077
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6383
+      },
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.7898
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6055
+      }
+    ],
+    "start": 4640,
+    "end": 4651,
+    "found_term": "Grabdenkmal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.7079
+      },
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6206
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7946
+      },
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.6077
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6876
+      }
+    ],
+    "start": 4759,
+    "end": 4772,
+    "found_term": "Bronzeplastik"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6096
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.655
+      }
+    ],
+    "start": 1242,
+    "end": 1252,
+    "found_term": "Bildhauern"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6458
+      },
+      {
+        "aat_id": 300047230,
+        "wd_id": "Q245117",
+        "search_term": "Relief",
+        "confidence": 0.7555
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6483
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6014
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6132
+      }
+    ],
+    "start": 2903,
+    "end": 2910,
+    "found_term": "Reliefs"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6565
+      }
+    ],
+    "start": 3851,
+    "end": 3864,
+    "found_term": "Tierplastiken"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.7114
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.8121
+      }
+    ],
+    "start": 7158,
+    "end": 7165,
+    "found_term": "Plastik"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 7170,
+    "end": 7181,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 282,
+    "end": 289,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 345,
+    "end": 352,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 1513,
+    "end": 1520,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2842,
+    "end": 2847,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.6502
+      }
+    ],
+    "start": 6102,
+    "end": 6117,
+    "found_term": "Stadtverwaltung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 6171,
+    "end": 6176,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7036
+      }
+    ],
+    "start": 3140,
+    "end": 3149,
+    "found_term": "Kunstwerk"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6071
+      }
+    ],
+    "start": 3934,
+    "end": 3944,
+    "found_term": "Kunstwerke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6071
+      }
+    ],
+    "start": 4544,
+    "end": 4554,
+    "found_term": "Kunstwerke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.7404
+      }
+    ],
+    "start": 4599,
+    "end": 4613,
+    "found_term": "Bismarckbrücke"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1979154",
+        "search_term": "Modell",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2016,
+    "end": 2022,
+    "found_term": "Modell"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7042
+      }
+    ],
+    "start": 2551,
+    "end": 2558,
+    "found_term": "Bauwerk"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.7941
+      }
+    ],
+    "start": 4021,
+    "end": 4033,
+    "found_term": "Mendebrunnen"
+  }
+]

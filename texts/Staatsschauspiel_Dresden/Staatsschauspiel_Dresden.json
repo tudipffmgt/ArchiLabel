@@ -1,0 +1,3994 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1251403",
+        "search_term": "Gasse",
+        "confidence": 0.6219
+      },
+      {
+        "aat_id": 300008077,
+        "wd_id": "Q1348006",
+        "search_term": "Häuserblock",
+        "confidence": 0.61
+      }
+    ],
+    "start": 10180,
+    "end": 10192,
+    "found_term": "Glacisstraße"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 10576,
+    "end": 10582,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 10595,
+    "end": 10601,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 1486,
+    "end": 1493,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 20584,
+    "end": 20591,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005734,
+        "wd_id": "Q16560",
+        "search_term": "Palast",
+        "confidence": 0.6152
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6253
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.7295
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6341
+      }
+    ],
+    "start": 598,
+    "end": 604,
+    "found_term": "Palais"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005734,
+        "wd_id": "Q16560",
+        "search_term": "Palast",
+        "confidence": 0.6286
+      }
+    ],
+    "start": 10536,
+    "end": 10546,
+    "found_term": "Tanzpalast"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6231
+      },
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6477
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6006
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.8464
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6805
+      }
+    ],
+    "start": 55,
+    "end": 71,
+    "found_term": "Skulpturengruppe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 227,
+    "end": 231,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 581,
+    "end": 585,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 1452,
+    "end": 1459,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 1877,
+    "end": 1883,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 2284,
+    "end": 2288,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 2619,
+    "end": 2625,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 5881,
+    "end": 5887,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 7068,
+    "end": 7072,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 7102,
+    "end": 7106,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 7667,
+    "end": 7671,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 7820,
+    "end": 7827,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 8613,
+    "end": 8619,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 10136,
+    "end": 10140,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 10149,
+    "end": 10153,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 10164,
+    "end": 10171,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 10256,
+    "end": 10260,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 10739,
+    "end": 10746,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 11030,
+    "end": 11034,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 12223,
+    "end": 12227,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6531
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6248
+      }
+    ],
+    "start": 1405,
+    "end": 1415,
+    "found_term": "Neubarocks"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6262
+      }
+    ],
+    "start": 1420,
+    "end": 1431,
+    "found_term": "Jugendstils"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 1550,
+    "end": 1561,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6566
+      },
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6399
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6239
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.663
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6614
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6355
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6837
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6151
+      }
+    ],
+    "start": 1601,
+    "end": 1617,
+    "found_term": "Schmuckelementen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6826
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.8081
+      }
+    ],
+    "start": 1650,
+    "end": 1660,
+    "found_term": "Skulpturen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6286
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6023
+      },
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6592
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7277
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6181
+      }
+    ],
+    "start": 5703,
+    "end": 5720,
+    "found_term": "Fassadensanierung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6826
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.8081
+      }
+    ],
+    "start": 8059,
+    "end": 8069,
+    "found_term": "Skulpturen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6826
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.8081
+      }
+    ],
+    "start": 8085,
+    "end": 8095,
+    "found_term": "Skulpturen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.628
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6072
+      },
+      {
+        "aat_id": 300004182,
+        "wd_id": "Q641406",
+        "search_term": "Terrasse",
+        "confidence": 0.6101
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6976
+      },
+      {
+        "aat_id": 300003228,
+        "wd_id": "Q12511",
+        "search_term": "Treppe",
+        "confidence": 0.6626
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6179
+      },
+      {
+        "aat_id": 300002588,
+        "wd_id": "Q170552",
+        "search_term": "Balkon",
+        "confidence": 1.0
+      }
+    ],
+    "start": 6465,
+    "end": 6471,
+    "found_term": "Balkon"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.6353
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6149
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6928
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.622
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6089
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.7277
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6106
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6411
+      }
+    ],
+    "start": 6715,
+    "end": 6720,
+    "found_term": "Wände"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6376
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6566
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6189
+      },
+      {
+        "aat_id": 300002613,
+        "wd_id": "Q657100",
+        "search_term": "Kolonnade",
+        "confidence": 0.6369
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.7084
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7327
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6509
+      },
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.6434
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6427
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.64
+      },
+      {
+        "aat_id": 300001280,
+        "wd_id": "Q12493",
+        "search_term": "Kuppel",
+        "confidence": 0.6204
+      },
+      {
+        "wd_id": "Q1501427",
+        "search_term": "Oktogon",
+        "confidence": 0.6458
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6701
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6835
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.7596
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.8741
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6538
+      }
+    ],
+    "start": 1580,
+    "end": 1587,
+    "found_term": "Arkaden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 1750,
+    "end": 1758,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6518
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6881
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.624
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.653
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7419
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.7367
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6274
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6141
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.7056
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.7295
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6081
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.7198
+      }
+    ],
+    "start": 6704,
+    "end": 6714,
+    "found_term": "verputzten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6241
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7458
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6762
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6273
+      }
+    ],
+    "start": 7619,
+    "end": 7631,
+    "found_term": "Operngebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.606
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q1431210",
+        "search_term": "Foyer",
+        "confidence": 0.8002
+      }
+    ],
+    "start": 9710,
+    "end": 9716,
+    "found_term": "Foyers"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7502
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.7743
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6917
+      },
+      {
+        "aat_id": 300002667,
+        "wd_id": "Q831691",
+        "search_term": "Geschoss",
+        "confidence": 0.6029
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7776
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.7636
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.7167
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6512
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6041
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6727
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.7004
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.7297
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6718
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.7303
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6001
+      }
+    ],
+    "start": 9850,
+    "end": 9861,
+    "found_term": "Gebäudeecke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7045
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.652
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6287
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6446
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6562
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7982
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6043
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7105
+      }
+    ],
+    "start": 10472,
+    "end": 10487,
+    "found_term": "Gebäudeensemble"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.755
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.686
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7527
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6808
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6312
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6024
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7904
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6242
+      }
+    ],
+    "start": 11217,
+    "end": 11225,
+    "found_term": "Gebäudes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6296
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6326
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.7127
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6353
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6683
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6804
+      }
+    ],
+    "start": 11455,
+    "end": 11464,
+    "found_term": "Dachstuhl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6447
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6014
+      },
+      {
+        "aat_id": 300004847,
+        "wd_id": "Q12518",
+        "search_term": "Turm",
+        "confidence": 0.6196
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.7337
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6987
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6948
+      },
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.6321
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.616
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6032
+      },
+      {
+        "aat_id": 300001280,
+        "wd_id": "Q12493",
+        "search_term": "Kuppel",
+        "confidence": 0.6327
+      },
+      {
+        "aat_id": 300002469,
+        "wd_id": "Q42948",
+        "search_term": "Mauer",
+        "confidence": 0.6061
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6332
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6404
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6195
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6417
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6748
+      }
+    ],
+    "start": 11476,
+    "end": 11487,
+    "found_term": "Außenmauern"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.755
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.686
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7527
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6808
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6312
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6024
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7904
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6242
+      }
+    ],
+    "start": 11741,
+    "end": 11749,
+    "found_term": "Gebäudes"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.669
+      }
+    ],
+    "start": 17466,
+    "end": 17476,
+    "found_term": "Dekorateur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6743
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6084
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6673
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6343
+      }
+    ],
+    "start": 6620,
+    "end": 6629,
+    "found_term": "vertäfelt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6109
+      },
+      {
+        "wd_id": "Q1431210",
+        "search_term": "Foyer",
+        "confidence": 0.6521
+      }
+    ],
+    "start": 9138,
+    "end": 9151,
+    "found_term": "Zuschauerraum"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6074
+      },
+      {
+        "wd_id": "Q1431210",
+        "search_term": "Foyer",
+        "confidence": 0.6763
+      }
+    ],
+    "start": 10392,
+    "end": 10396,
+    "found_term": "Saal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6109
+      },
+      {
+        "wd_id": "Q1431210",
+        "search_term": "Foyer",
+        "confidence": 0.6521
+      }
+    ],
+    "start": 10410,
+    "end": 10423,
+    "found_term": "Zuschauerraum"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 34,
+    "end": 48,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 124,
+    "end": 131,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 197,
+    "end": 211,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6099
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 1.0
+      }
+    ],
+    "start": 337,
+    "end": 347,
+    "found_term": "Hoftheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 549,
+    "end": 563,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 626,
+    "end": 640,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7242
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7161
+      }
+    ],
+    "start": 694,
+    "end": 710,
+    "found_term": "Schauspielhauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6098
+      }
+    ],
+    "start": 859,
+    "end": 872,
+    "found_term": "Theaterverein"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6098
+      }
+    ],
+    "start": 1066,
+    "end": 1079,
+    "found_term": "Theaterverein"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 1295,
+    "end": 1309,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6789
+      }
+    ],
+    "start": 2054,
+    "end": 2066,
+    "found_term": "Bühnenanlage"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6099
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2461,
+    "end": 2471,
+    "found_term": "Hoftheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7242
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7161
+      }
+    ],
+    "start": 2533,
+    "end": 2549,
+    "found_term": "Schauspielhauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 2593,
+    "end": 2607,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6099
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2926,
+    "end": 2936,
+    "found_term": "Hoftheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7107
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6347
+      }
+    ],
+    "start": 3680,
+    "end": 3692,
+    "found_term": "Theaterbühne"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6099
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4004,
+    "end": 4014,
+    "found_term": "Hoftheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7145
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.601
+      }
+    ],
+    "start": 4719,
+    "end": 4733,
+    "found_term": "Theaterbetrieb"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 5320,
+    "end": 5334,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6879
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 5398,
+    "end": 5412,
+    "found_term": "Theatergebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 5648,
+    "end": 5662,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 5680,
+    "end": 5694,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 5914,
+    "end": 5924,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7242
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7161
+      }
+    ],
+    "start": 6245,
+    "end": 6261,
+    "found_term": "Schauspielhauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 6805,
+    "end": 6812,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6156
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.746
+      }
+    ],
+    "start": 7111,
+    "end": 7125,
+    "found_term": "Staatstheaters"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 7153,
+    "end": 7163,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 7307,
+    "end": 7317,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 7466,
+    "end": 7476,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 7689,
+    "end": 7703,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 7984,
+    "end": 7998,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7242
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7161
+      }
+    ],
+    "start": 8689,
+    "end": 8705,
+    "found_term": "Schauspielhauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 9002,
+    "end": 9016,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6191
+      }
+    ],
+    "start": 9234,
+    "end": 9251,
+    "found_term": "Bühnenmaschinerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6156
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.746
+      }
+    ],
+    "start": 10782,
+    "end": 10796,
+    "found_term": "Staatstheaters"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7242
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7161
+      }
+    ],
+    "start": 10917,
+    "end": 10933,
+    "found_term": "Schauspielhauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 11058,
+    "end": 11068,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 11099,
+    "end": 11106,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 11311,
+    "end": 11318,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6624
+      }
+    ],
+    "start": 11640,
+    "end": 11650,
+    "found_term": "Probebühne"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 11825,
+    "end": 11832,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6047
+      }
+    ],
+    "start": 11958,
+    "end": 11969,
+    "found_term": "Seitenbühne"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6099
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 1.0
+      }
+    ],
+    "start": 12383,
+    "end": 12393,
+    "found_term": "Hoftheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6018
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6074
+      }
+    ],
+    "start": 13206,
+    "end": 13220,
+    "found_term": "Theatertreffen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6018
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6074
+      }
+    ],
+    "start": 13308,
+    "end": 13322,
+    "found_term": "Theatertreffen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6018
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6074
+      }
+    ],
+    "start": 13416,
+    "end": 13430,
+    "found_term": "Theatertreffen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6018
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6074
+      }
+    ],
+    "start": 13692,
+    "end": 13706,
+    "found_term": "Theatertreffen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6018
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6074
+      }
+    ],
+    "start": 13809,
+    "end": 13823,
+    "found_term": "Theatertreffen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 14305,
+    "end": 14315,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6626
+      }
+    ],
+    "start": 14338,
+    "end": 14355,
+    "found_term": "Theatergeschichte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 14989,
+    "end": 14996,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 15160,
+    "end": 15174,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 15207,
+    "end": 15214,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6265
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6034
+      }
+    ],
+    "start": 15322,
+    "end": 15332,
+    "found_term": "Schauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 15533,
+    "end": 15547,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6624
+      }
+    ],
+    "start": 15652,
+    "end": 15662,
+    "found_term": "Probebühne"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 16481,
+    "end": 16495,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7127
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6572
+      }
+    ],
+    "start": 17937,
+    "end": 17945,
+    "found_term": "Theaters"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 19136,
+    "end": 19150,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6977
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.736
+      }
+    ],
+    "start": 19549,
+    "end": 19563,
+    "found_term": "Schauspielhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 19596,
+    "end": 19603,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 19677,
+    "end": 19684,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7242
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7161
+      }
+    ],
+    "start": 19723,
+    "end": 19739,
+    "found_term": "Schauspielhauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 20267,
+    "end": 20274,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.663
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7135
+      }
+    ],
+    "start": 20318,
+    "end": 20335,
+    "found_term": "Societaetstheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 20390,
+    "end": 20397,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6879
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 20425,
+    "end": 20439,
+    "found_term": "Theatergebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6099
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 1.0
+      }
+    ],
+    "start": 20498,
+    "end": 20508,
+    "found_term": "Hoftheater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6592
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6921
+      }
+    ],
+    "start": 20532,
+    "end": 20541,
+    "found_term": "Opernhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6592
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6921
+      }
+    ],
+    "start": 20544,
+    "end": 20553,
+    "found_term": "Opernhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6592
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6921
+      }
+    ],
+    "start": 20571,
+    "end": 20580,
+    "found_term": "Opernhaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6004
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6219
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6207
+      },
+      {
+        "aat_id": 300001280,
+        "wd_id": "Q12493",
+        "search_term": "Kuppel",
+        "confidence": 0.6392
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6719
+      }
+    ],
+    "start": 6231,
+    "end": 6240,
+    "found_term": "Innenraum"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 10944,
+    "end": 10951,
+    "found_term": "schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 734,
+    "end": 739,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1213,
+    "end": 1218,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2912,
+    "end": 2917,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 5417,
+    "end": 5422,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 8289,
+    "end": 8294,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6343
+      }
+    ],
+    "start": 1592,
+    "end": 1600,
+    "found_term": "barocken"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.6548
+      }
+    ],
+    "start": 5897,
+    "end": 5909,
+    "found_term": "Doppelanlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.7788
+      }
+    ],
+    "start": 9469,
+    "end": 9476,
+    "found_term": "Anlagen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q309250",
+        "search_term": "Hof",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1243,
+    "end": 1246,
+    "found_term": "Hof"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6101
+      }
+    ],
+    "start": 6319,
+    "end": 6328,
+    "found_term": "Saaldecke"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6509
+      }
+    ],
+    "start": 1165,
+    "end": 1171,
+    "found_term": "Plänen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6116
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6236
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6132
+      }
+    ],
+    "start": 1432,
+    "end": 1438,
+    "found_term": "erbaut"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6477
+      }
+    ],
+    "start": 5864,
+    "end": 5876,
+    "found_term": "Wiederaufbau"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6477
+      }
+    ],
+    "start": 6125,
+    "end": 6137,
+    "found_term": "Wiederaufbau"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6379
+      }
+    ],
+    "start": 8194,
+    "end": 8203,
+    "found_term": "Sanierung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6137
+      }
+    ],
+    "start": 9578,
+    "end": 9592,
+    "found_term": "Außensanierung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 11167,
+    "end": 11179,
+    "found_term": "Baumaßnahmen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 11546,
+    "end": 11558,
+    "found_term": "Baumaßnahmen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.71
+      }
+    ],
+    "start": 11767,
+    "end": 11776,
+    "found_term": "Baubeginn"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6356
+      }
+    ],
+    "start": 10689,
+    "end": 10704,
+    "found_term": "Kirchengemeinde"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6356
+      }
+    ],
+    "start": 10996,
+    "end": 11011,
+    "found_term": "Kirchengemeinde"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q110811156",
+        "search_term": "Festhalle",
+        "confidence": 0.6129
+      }
+    ],
+    "start": 10492,
+    "end": 10500,
+    "found_term": "Tonhalle"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 1.0
+      }
+    ],
+    "start": 3094,
+    "end": 3100,
+    "found_term": "Brücke"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6941
+      }
+    ],
+    "start": 20557,
+    "end": 20568,
+    "found_term": "Taschenberg"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6135
+      }
+    ],
+    "start": 7809,
+    "end": 7819,
+    "found_term": "errichtete"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 1,
+    "end": 17,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 91,
+    "end": 107,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 237,
+    "end": 253,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7525
+      }
+    ],
+    "start": 272,
+    "end": 285,
+    "found_term": "Staatstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 434,
+    "end": 450,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.603
+      }
+    ],
+    "start": 2240,
+    "end": 2245,
+    "found_term": "Bühne"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6063
+      }
+    ],
+    "start": 2385,
+    "end": 2401,
+    "found_term": "Generalintendant"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.748
+      }
+    ],
+    "start": 4036,
+    "end": 4049,
+    "found_term": "Landestheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7525
+      }
+    ],
+    "start": 4075,
+    "end": 4088,
+    "found_term": "Staatstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7525
+      }
+    ],
+    "start": 5083,
+    "end": 5096,
+    "found_term": "Staatstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7003
+      }
+    ],
+    "start": 6923,
+    "end": 6935,
+    "found_term": "Volkstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6048
+      }
+    ],
+    "start": 7168,
+    "end": 7181,
+    "found_term": "Staatskapelle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6048
+      }
+    ],
+    "start": 7444,
+    "end": 7457,
+    "found_term": "Staatskapelle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 7496,
+    "end": 7512,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.661
+      }
+    ],
+    "start": 7521,
+    "end": 7531,
+    "found_term": "Staatsoper"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6161
+      }
+    ],
+    "start": 7637,
+    "end": 7647,
+    "found_term": "Semperoper"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.661
+      }
+    ],
+    "start": 9966,
+    "end": 9976,
+    "found_term": "Staatsoper"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 9981,
+    "end": 9997,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7525
+      }
+    ],
+    "start": 10036,
+    "end": 10049,
+    "found_term": "Staatstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7525
+      }
+    ],
+    "start": 10956,
+    "end": 10969,
+    "found_term": "Staatstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.603
+      }
+    ],
+    "start": 11329,
+    "end": 11334,
+    "found_term": "Bühne"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6444
+      }
+    ],
+    "start": 12153,
+    "end": 12162,
+    "found_term": "Intendanz"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6645
+      }
+    ],
+    "start": 12271,
+    "end": 12288,
+    "found_term": "Staatsschauspiels"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6017
+      }
+    ],
+    "start": 12359,
+    "end": 12370,
+    "found_term": "Intendanzen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.748
+      }
+    ],
+    "start": 12443,
+    "end": 12456,
+    "found_term": "Landestheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.7525
+      }
+    ],
+    "start": 12553,
+    "end": 12566,
+    "found_term": "Staatstheater"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 12970,
+    "end": 12986,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6645
+      }
+    ],
+    "start": 13656,
+    "end": 13673,
+    "found_term": "Staatsschauspiels"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 13990,
+    "end": 14006,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6007
+      }
+    ],
+    "start": 14206,
+    "end": 14217,
+    "found_term": "Schauspiels"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 14230,
+    "end": 14246,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 14531,
+    "end": 14547,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 14720,
+    "end": 14736,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 14773,
+    "end": 14789,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 14881,
+    "end": 14897,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 15123,
+    "end": 15139,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6652
+      }
+    ],
+    "start": 17012,
+    "end": 17024,
+    "found_term": "Theatermaler"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6063
+      }
+    ],
+    "start": 17916,
+    "end": 17932,
+    "found_term": "Generalintendant"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6645
+      }
+    ],
+    "start": 19233,
+    "end": 19250,
+    "found_term": "Staatsschauspiels"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 19512,
+    "end": 19528,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 19978,
+    "end": 19994,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 20130,
+    "end": 20146,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6161
+      }
+    ],
+    "start": 20305,
+    "end": 20315,
+    "found_term": "Semperoper"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6731
+      }
+    ],
+    "start": 20338,
+    "end": 20352,
+    "found_term": "Staatsoperette"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.697
+      }
+    ],
+    "start": 20363,
+    "end": 20379,
+    "found_term": "Staatsschauspiel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6087
+      }
+    ],
+    "start": 7873,
+    "end": 7877,
+    "found_term": "Dach"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6087
+      }
+    ],
+    "start": 10015,
+    "end": 10019,
+    "found_term": "Dach"
+  }
+]

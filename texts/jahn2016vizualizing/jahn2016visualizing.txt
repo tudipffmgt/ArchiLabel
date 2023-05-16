@@ -1,0 +1,1070 @@
+Virtual Palaces II. Virtual Palaces Part II: Lost Palaces and their Afterlife. Virtual Reconstruction between Science 
+and Media Proceedings of the European Science Foundation Research Networking Programme "PALATIUM" ‐ 
+Meeting at Munich, 13‐15 April 2012. ISBN 978‐94‐6018‐538‐0PALATIUM 
+
+Back to the Future 
+
+Visualizing the Planning and Building of the Dresden 
+Zwinger 
+
+Peter	Heinrich	Jahn	PhD	(art	and	architectural	historian,	lecturer,	Institut	
+für	Kunst‐	und	Musikwissenschft,	Technische	Universität	Dresden,	
+Germany)	
+
+Markus	Wacker	PhD	(prof.	of	computer	science,	computer	science/	
+mathematics	faculty,	Hochschule	für	Wirtschaft	und	Technik	Dresden,	
+Germany)	
+
+Dirk	Welich	PhD	(art	historian,	deputy	head	of	museum	department,	
+Staatliche	Schlösser,	Burgen	und	Gärten	Sachsen	gGmbH,	Dresden,	
+Germany)	
+
+ 
+
+In this article we1 present a long term project on the Dresden Zwinger (fig. 1, 2, 5, 6) using techniques 
+that  have  been  and  still  are  discussed  very  controversially  –  the  production  of  imagery  of 
+architecture with the possibilities of the computer. Since the very first thoughts on this topic, the 
+technical  requirements,  possibilities  and  ideas  about  what  can  be  achieved  with  the  help  of 
+computer  technique  have  changed  dramatically.  The  question,  for  which  application  area  the 
+computer  could  be  necessary,  is  still  important  today.  With  this  project  we  want  to  present  our 
+approach in using computer technique for the virtual three‐dimensional reconstruction of the history 
+of the Dresden Zwinger. 
+
+Fig. 1: View of the Dresden Zwinger, especially its buildings at the rear of the former fortification wall. 
+
+ 
+
+© University of Leuven, Institute of XXXXXXX and Authors 
+ISBN xxx‐xxxxxxxx‐xx‐x 
+
+ 
+
+1 
+
+ 
+
+Fig. 2: Arcaded gallery of the Dresden Zwinger along the fortification wall and moat, centered by a gateway tower (so‐called 
+
+Kronentor). 
+
+Initiated in 2007 for museum‐didactical purposes by the Saxon Administration of State‐owned 
+Castles and Gardens (Staatliche Schlösser, Burgen und Gärten Sachsen gGmbH) the project led to a 
+cooperation with the Dresden University of Applied Sciences (HTW – Hochschule für Wirtschaft und 
+Technik) which reflects the name ‘zwingerteam‘ in terms of a catch‐word. The basic intention of this 
+project  is  the  mediation  of  the  building  development  and  the  planning  history  of  the  Dresden 
+Zwinger for the use in a permanent exhibition. That means, the easily recognizable form of the virtual 
+three‐dimensional  representation  of  complex  ranged  construction  activities  will  be  used  for  the 
+teaching  of  architectural  knowledge  methodically  and  didactically,  as  a  help  for  the  visitors  to 
+manage the mental transfer from the historic two‐dimensional sources into the three‐dimensional 
+space.  For  giving  an  understandable  survey  the  complex  and  long  during  building  and  planning 
+development of the Zwinger has to be dispersed in a few well‐selected phases, our so‐called time‐
+cuts. So, the situation is not an art‐historical study of the architecture of the Dresden Zwinger, but a 
+practical application with the following main objectives:
+to explain the construction development in its temporal sequence, 
+
+to give an idea of selected complex range planning designs, 
+
+to force the understanding of the Baroque system architecture as well as 
+
+to force the sense for architectural proportions, façade elements and spatial relationships. 
+
+ 
+
+Introduction 
+
+The Dresden Zwinger is the most famous Baroque building in the city with a diverse history and of 
+art‐historical  importance.  It  started  in  1709  under  the  reign  of  Augustus  the  Strong  (at  that  time 
+prince elector of Saxony and king of Poland) as an orangery laid out on one of the city’s fortification 
+walls at the rear of the Residential Castle (fig. 3),2 and was extended due to the absolutist need for 
+
+2 
+
+ 
+
+representation  facilities  already  since  1711  (a  planning  example  in  fig.  4).  In  1728  construction 
+activities waned. From that year onwards the Zwinger buildings, meanwhile enclosing a courtyard at 
+three sides, were used as a museum for the royal collections. Finally, in the midst of the nineteenth 
+century, the gap on the north side was closed with the public picture gallery designed by Gottfried 
+Semper (fig. 5, 6). In the mere consideration of that long term building development an extensive 
+project grew out of an initially small task with increasing knowledge of the sources since 2007, such 
+that in the end fourteen construction and planning phases of the Dresden Zwinger (as listed below in 
+fig.  12)  were  virtually  reconstructed  respectively  simulated  in  detail  and  fitted  into  a  schematic 
+topographic model of the closer surroundings (examples in fig. 7 and 10). 
+
+Fig. 3: Sketch by August the Strong of an orangery laid out at the rear of the fortification wall beneath the residential castle 
+
+of Dresden (so‐called Zwinger area), in the project used as main source for time‐cut no. 1. 
+
+ 
+
+Fig. 4: Bird`s‐eye view of an unexecuted Zwinger extension designed by Pöppelmann 1712–13 (original lost since 1945), in 
+
+the project used as main source for time‐cut no. 3. 
+
+ 
+
+ 
+
+3 
+
+Fig. 5: Arial view of the Dresden Zwinger (at the right the court church and the residential castle with the adjoined 
+
+Taschenberg Palace is situated, above, between the Zwinger courtyard and the river Elbe, the 2nd court theatre, today 
+
+known as ‘Semper‐Oper’). 
+
+ 
+
+Fig. 6: Ground plan of the Dresden Zwinger (on the left the initial Ω‐shaped buildings at the rear of the fortification wall, on 
+the right the mirrored buildings nearby the residential castle and the city, at the bottom the gallery aisle centered by the 
+
+crowned gate and at the top the picture museum added in the 19th century). 
+
+ 
+
+ 
+
+ 
+
+4 
+
+Focus of the project 
+
+During a long processing time of more than five years the editing focus of the project has shifted 
+considerably from the pure construction history towards favouring the ideal type of design planning. 
+In these historic plans the Zwinger courtyard was not the sole subject of the draft, but rather part of 
+a court complex always connected with the residential castle, where it took the secondary role of an 
+integrated  garden  (examples  in  fig.  4,  9).  The  expansion  of  such  designs  would  range  far  into  the 
+contemporary urban space and overlap them inevitably. Their mediation by models gives the chance 
+that the future visitor can find out, to where the planned buildings locate, when they would be built. 
+He is able to get wind of dimensions an idea through his own physical experiences (fig. 7, 10). 
+
+ 
+
+Fig. 7: Virtual model of the building development 1712–18 (time‐cut no. 4; built structures in sandstone colour, a projected 
+wing, of which only the foundation could be laid, in white), fitted into a schematic virtual model of the historic surrounding 
+
+area. 
+
+In  fact,  this  link  between  the  built  architecture  of  the  Zwinger,  its  surroundings,  and  the 
+historic unexecuted designs is also an added value for architectural research – namely, a verifying 
+building  simulation  of  unexecuted  historic  designs  by  combination  with  reconstructed  building 
+phases.  Moreover,  a  review  of  the  pure  construction  history  of  the  Dresden  Zwinger  seems  quite 
+fragmentary  considering  the  fact  that  many  building  activities  must  be  regarded  as  a  partial 
+execution  of  more  extensive  designs.  Since  our  efforts  in  preparing  the  three‐dimensional 
+reconstructions and simulations of buildings had evidenced that within the historic source material 
+discrepancies,  especially  between  ground  plan  and  elevation,  are  more  the  rule  than  exception,  a 
+special problem posed the critical harmonisation of differing sources. A comparable problem to solve 
+was the question how gaps of documentation could be filled in a convincing way. The experience 
+made in the course of the modelling often led to a deeper understanding of a draft, and in the end to 
+a  critical  and  revising  historical  reflection  on  its  structure,  logic,  quality  and  the  possibility  of 
+realization. All these issues are of interest for the art‐historical view on the Dresden Zwinger. 
+
+To present the project results within an exhibition we have been taken in consideration the 
+form  of  a  teaching  video.  The  film  will  consist  of  the  historical  sources  combined  with  the 
+
+ 
+
+5 
+
+reconstruction  of  a  fictional  walk  through  the  different  states  of  the  Zwinger  building  including 
+adjacent areas of the town.3 
+
+Fig. 8: Virtual model of Pöppelmann’s design for the Dresden Zwinger 1722 (time‐cut no. 8) in card board optic with part of 
+
+the present Zwinger buildings and the residential castle in textured optic. 
+
+ 
+
+The sources 
+
+ 
+
+In  order  to  achieve  for  the  virtual  models  a  valuable  source  library,  our  research  consisted  in 
+assembling  all  visual  source  material  which  can  give  some  evidence  of  the  building  and  planning 
+history  of  the  Zwinger  area.  This  material  is  very  heterogeneously  composed  of  plans,  elevations, 
+perspective views, and photographs (examples in fig. 9 and 12). To make all of it accessible for our 
+project, the way of research led via the illustrations in relevant modern book publications into the 
+archives and collections in Dresden which preserve the majority of the originals.4 
+
+The next step was a revision of the common opinions about the building and planning history 
+of the Zwinger. As the most important result of this effort can be regarded a new reconstruction of 
+Matthäus Daniel Pöppelmann’s last vast garden project which has been only partially published in 
+the  so‐called  Zwingerstichwerk,  Pöppelmann’s  own  copperplate‐publication  of  his  architectural 
+inventions (fig. 9, 10).5 
+
+In the end, fourteen so‐called time‐cuts were distilled from the visual sources (fig. 11, 12). 
+They  represent  important  building  phases  or  design  states.  Our  selection  criteria  have  been  the 
+following: Primarily, the main building phases should be represented. According to that five time‐cuts 
+(nos. 2, 4, 7, 12 and 14) are dedicated to the real building development of the area. From the more 
+than 34 known projects, which had remained unexecuted, we subjectively selected the eight most 
+attractive  and  precious  ones  with  respect  to  their  urbanistic  importance  as  well  as  their 
+impressiveness.  For  pragmatic  reasons  we  decided  to  model  only  such  planning  phases  which  are 
+
+ 
+
+6 
+
+documented sufficiently by ground plans and elevations or which could be reconstructed without any 
+further problems (discussion below). We also decided to represent all architects who were involved 
+in the planning of the Zwinger area, beginning with Pöppelmann and ending with Gottfried Semper 
+including Zacharias Longuelune, Jean De Bodt and Gaetano Chiaveri. 
+
+At  last,  the  collected  visual  sources  for  the  chosen  fourteen  time‐cuts  were  digitized, 
+uploaded  and  organized  into  a  database  to  which  the  whole  team  had  online  access  (fig.  13; 
+http://www2.htw‐dresden.de/~zwinger/). 
+
+Fig. 9: Compiled sources for Pöppelmann’s vast garden project of 1716–18 (time‐cut no. 5). 
+
+ 
+
+ 
+
+7 
+
+ 
+
+Fig. 10: Virtual model of time‐cut no. 5 (cf. fig. 9) fitted into an adequate schematic 3D‐model of the surroundings. 
+
+Fig. 11: Overview of the chosen 14‐time‐cuts mirroring the development of the Dresden Zwinger, each represented by one 
+
+ 
+
+characteristic source. 
+
+ 
+
+1. Prince elector August the Strong 1709–10: sketched first idea (project) 
+Matthäus Daniel Pöppelmann: 
+
+2.  1711–13: Orangery at the back side of the fortification wall (building phase) 
+3.  1712–13: Extension of the orangery with garden and festivity areas (project) 
+4.  1713–18: Extension of the orangery with a central pavilion (‘Wallpavillon’) and a 
+
+towered gateway (‘Kronentor’) between galleries (building phase) 
+
+5.  1716: Extension of the orangery with a water theatre and a enclosed garden 
+
+(project) 
+
+6.  1716–18: Integration of the orangery in a vast new residential castle (project) 
+7.  1719: Mirroring of the orangery for obtaining a festivity yard and closing of the 
+
+latter with an ephemeral stand (building phase; the last main one of the Baroque 
+era) 
+
+8.  1722: Extension of the festivity yard with museum halls and a central pavilion 
+
+(project) 
+
+Followers of Pöppelmann: 
+
+ 
+
+8 
+
+9. Zacharias Longuelune 1728: Extension of the Zwinger courtyard with a new residential 
+
+castle (project) 
+
+10. Jean De  Bodt 1736–37: Extension  of the Zwinger courtyard  with a new residential 
+
+castle (project) 
+
+11.  Gaetano  Chiaveri  1746–47:  Extension  of  the  Zwinger  courtyard  with  a  new 
+
+residential castle (project) 
+
+12. Anonymus before 1800: Provisory closing of the Zwinger courtyard with an arcaded 
+wall (building phase; the wall was substituted for a new one and finally since 1847 for 
+the picture gallery) 
+
+19th century: Gottfried Semper: 
+
+13.    1842:  Extension  of  the  Baroque  Zwinger  courtyard  into  a  forum  with  picture 
+
+gallery and court theatre (project) 
+
+14.    1847–69:  Closing  of  the  Baroque  Zwinger  courtyard  with  a  picture  gallery  in 
+addition  of  the  already  erected  court  theatre  (building  phase;  the  theatre  was 
+destroyed 1869 by fire) 
+
+Fig. 12: List of the 14 chosen time‐cuts mirroring the development of the Dresden Zwinger with date and main architect. 
+
+Fig. 13: Web‐based database and project page at http://www2.htw‐dresden.de/~zwinger/. 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+
+Modelling 
+
+In order to produce the virtual models in the computer, students of the HTW Dresden were recruited 
+from  the  Media  Computer  Science  degree  program.  In  total  27  students  have  participated  in  the 
+project  to  model  the  different  time‐cuts.6  We  started  with  the  modelling  tool  3D  Studio  Max  7, 
+upgraded  almost  every  year  to  a  new  version  (fig.  14)  which  imposed  a  considerable  amount  of 
+conversion work (actual version: 3D Studio Max 2014). Moreover we also integrated the outstanding 
+expertise of some members of the group with other modelling tools like Cinema 4D and Blender (cf. 
+fig. 18 right) for which we had to find an exchange format and also an exchange workflow (at the end 
+the file format ‘obj’ and adaption by hand worked best). Moreover the changing and replacement of 
+team members (we called the ‘student generations’) were a big issue in our team which was tackled 
+by intensive meeting and integration phases. 
+
+ 
+
+Fig. 14: Virtual model of time‐cut no. 6 uploaded in the modelling software Autodesk 3D Studio Max 9. 
+
+Regarding the creation of the models, an immense amount of hand work has to be done to 
+achieve the present state of each model accompanied by intensive inspection and revision meetings 
+(discussed below). Nevertheless some basic key modelling steps are presented next in order to give 
+an idea of the modelling work. Here we concentrate on two main techniques: the box modelling and 
+the spline modelling. Both start with orthogonal projected representations of the desired building 
+such as the ground and elevation plan. But before that, as preparation, the information content of 
+the compiled sources had to be sorted for assigning the elevations to a ground plan. Special diagrams 
+of those correlations had been arranged for each time‐cut to give the modellers a kind of guide line. 
+The  one  shown  in  figure  15,  prepared  for  modelling  time‐cut  no.  11,  i.e.  the  castle  designed  by 
+Gaetano Chiaveri, exemplifies in another aspect also a sufficient providing with source material. The 
+dealing of more problematic cases for the reconstruction, in which sources has been lacking, will be 
+discussed below. 
+
+10 
+
+ 
+
+ 
+
+Fig. 15: Diagram of the correlating source material (ground plan and elevations) provided for the modeller of time‐cut 
+
+no. 11, i.e. Chiaveri’s castle project of 1746–47, and corresponding virtual model. 
+
+Before  explaining  the  two  modelling  techniques, 
+
+it  must  be  pointed  out  that  the 
+‘zwingerteam’  project  focuses  only  on  the  cubic  structure  and  the  façades  of  the  buildings,  while 
+their  internal  structure  is  not  modelled.7  The  formal  execution  of  architectonic  elements  varies 
+depending on the specific quality and availability of the source material between the different time‐
+cuts. Within a time‐cut, however, a homogeneous level of detail has been pursued. The gradation of 
+abstraction  results  from  a  steady  and  regular  simplification  of  forms.  In  the  course  of  abstraction 
+considerable attention is paid to the compliance with the architectonic system. 
+
+The box modelling technique (fig. 16) starts with very simple geometry such as a box for main 
+buildings or cylinders for pillars. They are adapted in shape to the right dimensions and placed at the 
+right position in the model (Fehler! Verweisquelle konnte nicht gefunden werden.fig. 16 left). By 
+this approach a rough outline of the desired object is quickly achieved and the cubature becomes 
+visible. Afterwards a very time consuming process of subdivision and adaptation of the representing 
+mesh (i.e. its vertices) follows to approach the model to details of the architecture (fig. 16Fehler! 
+Verweisquelle  konnte  nicht  gefunden  werden.  right).  Often  predefined  tools  and  modifiers  (e.g. 
+local shrinking, bending) can be used but in the end extensive work by hand is inevitable to achieve 
+even finest details. 
+
+ 
+
+11 
+
+Fig. 16: Box modelling (left) and virtual model over the ground plan and in front of an elevation plan (right), exemplified by 
+
+time‐cut no. 11, i.e. Chiaveri’s castle project of 1746–47. 
+
+The  spline  modelling  technique  (fig.  17)  consists  of  drawing  lines  (e.g.  splines)  for  the 
+contours of the building in some main directions on the plans. This process ends up with a line cage 
+which can then be transformed into a mesh which is then processed as described above to model the 
+details. 
+
+ 
+
+Fig. 17: Phases of the spline modelling technique exemplified by a cupola design taken out from the source material for 
+
+time‐cut no. 9 (cf. above fig. 11, no. 9). 
+
+ 
+
+ 
+
+Presenting mode of the models 
+
+The inhomogeneous source material also required a longer readjustment process in regard to visuals 
+because the aesthetic appearance of the reconstruction directly affects its understanding in terms of 
+the intended knowledge transfer. On the one hand, we would like to show the current state of the 
+Zwinger and its construction phases. On the other hand, we want to present unexecuted designs as 
+well  as  building  elements  of  a  certain  time  period  which  do  not  exist  anymore.  For  the 
+representation of the existing building substance a richly‐detailed, polygonal model is being used in 
+order to create an impression of the present state as authentic as possible (fig. 18 right, 19). 
+
+ 
+
+12 
+
+ 
+
+Fig. 18: Inner staircase of the western central pavilion (so‐called Wallpavillon) of the Dresden Zwinger. Left: photograph of 
+
+the original building. Right: rendering of a textured polygon model. 
+
+Regarding the representation of designs, the general aim is to interpret the historical image 
+
+sources as little as possible. It was therefore an attempt to transfer the source directly to the raw 
+cubature of a building (fig. 8). However, the result distorts the visitor's spatial understanding since 
+the components are extracted from the original context of the source image. Ultimately, the decision 
+for the graphic realization was made for an architectonic model made out of cardboard which is the 
+generally known type (see for example the model in fig. 15). Due to this display mode all levels of 
+abstraction can be represented easily, the status of the modelling seems clear and the distinction or 
+separation from the existing Zwinger buildings is obvious (fig. 8, 10; cf. also as variant fig. 19). 
+
+Fig. 19: Virtual model of the actual Dresden Zwinger (time‐cut no. 14) contrasting the Baroque buildings with the added 
+
+picture gallery of the 19th century by using textured and cardboard appearance. 
+
+If  sources  for  a  complete  reconstruction  are  missing,  the  gap  will  either  be  bridged  by 
+deducing  analogies  from  the  current  architectonic  system  (as  discussed  below)  or  by  closing  it 
+neutrally, in form of either naked cubature (fig. 20) or plastically modelled ground plan in the sense 
+of  foundation  runs  (fig.  21).8  This  approach  guarantees  that  the  layout  of  every  building  is 
+represented in the model, even if there are no indications of any detail. 
+
+ 
+
+ 
+
+13 
+
+Fig. 20: Part of the virtual model of time‐cut no. 5 with neutrally closed structure in form of naked cubatures (polygonal 
+
+pavilion with projections in cross‐form located on the wall terrace along the riverside; its form can be taken solely from the 
+
+ground plan of the project; cf. fig. 9). 
+
+ 
+
+ 
+
+Fig. 21: Detail of the ground plan source for time‐cut no. 6 and related virtual model. Because of the lack of any further 
+information the area (towered water theatre of the Zwinger garden with an aviary at the rear and adjacent rounded 
+
+pavilions) is modelled neutrally in form of a plastic ground plan. 
+
+A further modelling step consists in the integration of the Zwinger buildings and projects into 
+topographic models of the surroundings to establish correlations with the urban space. The layout of 
+the surrounding buildings has to be conformable to the historic topographic situation of each time‐
+cut. Their models are reduced to a neutral cubic volume to contrast with the Zwinger architecture, 
+but accented with a few significant architectonic details for easier identification (see above fig. 7, 10). 
+
+ 
+
+Control of the models 
+
+One very time consuming and intensive task in the project was the control and revision of the models 
+by comparison with the sources .Monthly meetings with the modellers in Dresden at the HTW made 
+it possible to discuss the  development of the models and their exactness intensively. Protocols of 
+each session, which have been archived internally, supported the control work and will give future 
+possibility  to  reconstruct  the  genesis  of  every  modelled  time‐cut.9  Our  primary  media  of 
+communication were renderings, i.e. computer generated photo shots of the models from different 
+perspectives or views. For preparing such a meeting the actual renderings were also uploaded into 
+the  online‐database  (folder  ‘Modelle’  above  in  fig.  13).  During  the  control  sessions  double 
+
+14 
+
+ 
+
+projections  of  the  rendered  model  and  the  related  source  on  the  wall  gave  the  possibility  of 
+comparison (fig. 22). A whiteboard was used for explaining difficult structural problems by drawing 
+(fig. 23); even sometimes we projected the rendering of the model on this whiteboard so that we 
+could  draw  on  it  to  augment  or  comment  the  projection  (fig.  24).  Between  the  meetings  some 
+modellers also communicated via e‐mail with the heads of the project to solve problems as soon as 
+possible. 
+
+Fig. 22: Double projection of a rendered virtual model (left) and the related source (right), exemplified by Pöppelmann’s 
+castle project of time‐cut no. 6 (in detail the complex curved and structured centre pavilion of the main cour d’honneur). 
+
+Both images show the building in a mostly correlating view. 
+
+ 
+
+Fig. 23: Whiteboard in the conference room at HTW Dresden, used for drawn explanations of modelling problems (the 
+
+violet stripe above derives from the projection light of the video beamer). 
+
+ 
+
+ 
+
+15 
+
+ 
+
+Fig. 24: Projection of a rendered virtual model (detail of time‐cut no. 13, i.e. garden façade of the proposed picture gallery) 
+
+on the whiteboard seen in fig. 23 for the possibility of drawing corrections over the model. 
+
+In some cases typological references were used to explain an insufficiently documented part 
+of a time‐cut. A good example gives time‐cut no. 3: The bird’s‐eye view as the main source is lost 
+since World War II and only documented by an archive photograph in black‐and‐white (see above fig. 
+4), with the effect that the three rounded pavilions which can be seen in its background are hardly 
+recognizable.  To  give  the  modeller  a  better  imagination  of  the  buildings  we  used  a  comparable 
+pavilion which is located in the Hermitage Garden of Bayreuth (fig. 25). 
+
+Fig. 25: Insufficiently documented pavilion of time‐cut no. 3 (left, cf. fig. 4), being substituted by the Temple of the Sun in 
+
+the Hermitage Garden of Bayreuth (middle) as pattern for the virtual model (right). 
+
+Only in the last phase of the project the actual models were directly controlled and corrected 
+together with the  modeller in the modelling software (see above fig. 14).  For handling  the at last 
+
+ 
+
+ 
+
+16 
+
+immense  data  masses  in  real  time  we  had  to  use  the  high  performance  computer  of  the  HTW’s 
+motion‐capture‐system. 
+
+ 
+
+Work and problems with the sources 
+
+As mentioned above, the visual sources for each time‐cut consist of different media types and also of 
+different quality. High  definition scans  of original drawings and  blurry scans from black and white 
+book illustrations mark the two extremes of quality with which the modellers were confronted. We 
+normally used book illustrations if either the originals are lost since World War II10 or an archive has 
+not been able to deliver digital images of the originals. Nevertheless, book illustrations bear some 
+general advantages compared to the reproduced originals: they are not only easier to access but also 
+easier to handle because of comparatively small dimensions, and often free of any distortions. In the 
+recourse to book illustrations customary scan techniques can be used in most cases unscrupulously 
+und very quickly because problems of conservation connected with the originals are avoided. In fact, 
+decisions  whether  book  illustrations  or  originals  should  be  digitized  sometimes  had  been  taken 
+pragmatically  in  consideration  of  the  respective  source  situation,  efficiency  and  the  modellers’ 
+special needs for detailed information. Nevertheless, the preparation of the source material was led 
+by the general wish to make it as comfortable as possible for the modellers. 
+
+An  extreme  example  exhibits  time‐cut  no.  9:  This  impressive  virtual  model  of  a  castle 
+designed by  Zacharias Longuelune for the area between the Zwinger  courtyard and  the river Elbe 
+(fig. 27; for the location see above fig. 5) is based on some scanned book illustrations in black and 
+white of small size and poor quality (fig. 26). In this case, the original plan drawings are not lost but of 
+large size with the effect that the preserving archives have had no practicable possibility to digitize it 
+without any distortions.11 So, unfortunately, we had to recourse on the available book illustrations 
+published  in  the  early  1950ies.  The  advantage  of  their  use  lied  in  the  lack  of  distortions,  the 
+disadvantage in the  deficiency of clearness in regard to details.  But in the end the latter problem 
+could be compensated by digital photographs of representative details taken directly of the originals. 
+
+Fig. 26: Book illustrations of Baroque plan drawings, edited in a quarto volume, taken as source for time‐cut no. 9. 
+
+ 
+
+17 
+
+ 
+
+Fig. 27: Virtual model of Zacharias Longuelune’s castle project of 1728 (time‐cut no. 9). 
+
+ 
+
+ 
+
+Fig. 28: Reconstruction in Photoshop of a lacking elevation for time‐cut no. 9, done by using elements of the elevations 
+depicted in fig. 24. For the virtual model generated on basis of the reconstructed elevation see fig. 27 in the foreground. 
+
+The most striking problems during the definition of time‐cuts regarding unexecuted projects 
+were  either  the  partial  lack  of  visual  sources  or  the  discrepancy  of  measured  ground  plans  and 
+elevations – or both. For this reason reconstructions have seemed to be indispensable in order to 
+avoid any larger gaps which could the recipient of the virtual models irritate or even disillusion the 
+recipient  of  the  virtual  model.  To  fill  those  gaps  in  a  believable  way  it  is  necessary  to  base  the 
+reconstruction on different critical principles. One of them is the deduction from the documented 
+parts of the building project itself. In the case of the just mentioned time‐cut no. 9, for example, one 
+front elevation is lacking, namely that of the gallery wing located at the rear of the castle along the 
+riverside.  The  reconstruction  could  be  deduced  on  the  one  hand  from  the  existing  ground  plan 
+together  with  the  sections  of  this  building  wing  and  on  the  other  hand  from  the  homogenous 
+architectonic system which allowed the borrowing of elements from the documented façades. The 
+strict orthogonal projection of the existing plans gave the possibility to produce easily an elevation as 
+instruction  tool  for  the  modeller,  because  the  usable  façade  elements  could  be  brought  in  a  new 
+order with the help of Photoshop software (fig. 28). While this comfortable method of reconstruction 
+was the preferred one, in the worst case, if orthogonal projected plans have been completely lacking, 
+
+ 
+
+18 
+
+elevations or ground plans had to be reconstructed in form of schematic drawings (with the problem 
+that  none  of  the  leading  team  members  is  a  professional  draughtsman)  if,  in  the  worst  case, 
+orthogonal  projected  plans  have  been  completely  lacking.  For  this  issue  the  following  problem  of 
+reconstruction will give an example: 
+
+A  missing  ground  plan  is  of  no  further  problem  if  one  has  to  deal  with  cubic  architecture. 
+However,  it  turned  out  to  be  a  big  one  for  the  modellers  if  the  buildings  show  curvatures  and 
+complex  systems  of  columns,  pilasters,  or  lesenes  since  in  orthogonal  projected  elevations  these 
+aspects are not sufficiently readable. As an example for this problem we can take one of the tower 
+buildings of time‐cut no. 5: The situation plan shows schematic and inaccurate ground plans for two 
+gateway  towers  and  one  fountain  tower  (see  above  fig.  9).  Two  final  planning  states  of  these 
+buildings had been published in elevations by Pöppelmann in his own copperplate edition about the 
+Zwinger.12  Unfortunately,  their  basement  level  differs  in  its  form  so  much  from  the  situation  plan 
+that the reconstruction could not be limited to the buildings itself but also had to include the course 
+of the connecting colonnades. A schematically drawn ground plan was necessary to instruct precisely 
+the modeller (fig. 29). 
+
+ 
+
+Fig. 29: From elevation via a sketched reconstruction of the ground plan to the virtual model, exemplified by a gateway 
+
+tower of time‐cut no. 5 (cf. above fig. 9). 
+
+The lack of a ground plan can also lead to great difficulties if as elevation only a perspective 
+view of a project has survived like in time‐cut no. 3 (see above fig. 4). In this case an existing ground 
+plan correlates only partially with the bird’s‐eye view taken as the main source for the virtual model 
+(fig. 30). Further complication causes that the area of inadequateness in the ground plan is solely 
+depicted at a half in the elevation source: One can recognize there a tilt‐yard flanked by one half of 
+an edifice serving for festivities. The gap, consisting first of all in a second yard nearby the riverside, 
+was  closed  by  repeating  some  recognizable  elements  from  that  tilt‐yard  like  the  monumental 
+gateway,  outside  staircase  and  retaining  wall,  while  the  building  was  completed  by  mirroring  the 
+depicted half. Common building logic gave evidence for the addition of a huge symmetrical staircase 
+hall at the rear of the edifice; the latter naturally conform to the architectonic system of the front 
+façade. Finally the proportions of all the unexecuted buildings had to be found for lack of measured 
+elevations in adjustment with the existing Zwinger architecture. 
+
+ 
+
+19 
+
+ 
+
+Fig. 30: Confrontation of sources (bird’s‐eye view of fig. 4 and relatable ground plan) and virtual model for time‐cut no. 3. 
+The red frames mark a zone of insufficient and inconsistent documentation which had to be modelled partially as a free 
+
+interpretation but consistently to the architectural system depicted in the elevation source. 
+
+Comparable  to  the  so  far  exemplified  deductive  methods  of  critical  reconstruction  is  the 
+borrowing of forms from typologically related buildings or designs of the same architect. This was 
+done, for example, in time‐cut no. 13 which represents Gottfried Semper’s grand forum project. The 
+elevation of the proposed museum building is documented only by a perspective visualization of the 
+project which shows the building on the left with its main façade of the garden side in an extremely 
+shortened view in which all details are unrecognizably upset (fig. 31). And while nothing of the other 
+main façade on the town side can be seen, only one narrow side of the building is depicted frontally. 
+So in this case, both main façades including the monumental staircase projection on the town side 
+had to be reconstructed. As measured source material only a ground plan published by Semper exists 
+which  could  give  some  orientation.13  Patterns  usable  for  the  reconstruction  had  been  fortunately 
+found in the context of Semper’s alternative designs for the Zwinger area. So, the staircase projection 
+of the town façade could be deduced mostly without any alterations from a preparatory sketch for 
+the museum project which proposes for a first time the finally chosen building site (fig. 32). More 
+difficult the ground storey of the façades was to reconstruct because in the source, at this zone one 
+can only recognize the shadows of some cornices, the arcades and above them some obscure dark 
+spots which have been interpreted as medallions. All these motifs are assembled again at the outer 
+main  façade  of  Semper’s  executed  museum  building  but  there  in  a  varied  combination.  As  often 
+done, the modeller undertook their recombination by some trial‐and‐error‐attempts and supported 
+by a sketched elevation drawing (fig. 33). 
+
+ 
+
+20 
+
+Fig. 31: Details of the main elevation source for time‐cut no. 13 (cf. above fig. 11, no. 13), showing in extreme perspective 
+
+distortion Gottfried Semper’s proposal for a picture gallery which is laid out in front of the residential castle. 
+
+ 
+
+Fig. 32: Sketched design of Gottfried Semper for a picture gallery used as pattern for the virtual reconstruction of an 
+
+insufficiently documented alternative design (time‐cut no. 13; cf. fig. 31), namely for the staircase projection at the town 
+
+side. 
+
+ 
+
+ 
+
+Fig. 33: Reconstruction of the ground storey of Gottfried Semper’s design for a picture gallery in front of the residential 
+castle (time‐cut no. 13; cf. fig. 31) by borrowing motifs (medallions, cornices, pillar arcades) from the outer façade of the 
+
+executed building. 
+
+ 
+
+21 
+
+A further used deductive principle of critical reconstruction, the deduction of forms and structures 
+from typologically and stylistically related buildings, was already mentioned above in the case of the 
+octagonal pavilions of time‐cut no. 3 which are documented only by an unclear perspective view of 
+small size (see above fig. 25). 
+
+Another guideline of critical reconstruction was based on the baroque architectural principle 
+of symmetry. This principle proved to be very successful in the reconstruction of time‐cut no. 6 which 
+represents Pöppelmann’s so‐called Grand Castle Project which reduces the Zwinger courtyard to a 
+secret garden of a gigantic residential area with three cour d’honneurs. From this ambitious project 
+we  only  have  the  situation  plan  (fig.  34)  and  an  impressive  perspective  view  of  the  main  cour 
+d’honneur (fig. 35). The remaining two cour d’honneurs on the rear can be completed in most parts 
+by mirroring one side wing of the depicted corps de logis, first to the left side and from there inside 
+the court, then along the rear front to the right side, afterwards inside the right court  and finally 
+along both outer side façades as shown in the diagram of fig. 34. In addition, the position of colossal 
+columns  could  be  read  out  of  the  situation  plan  by  comparison  of  diameters  because  in  the 
+perspective view some of those colossal columns are depicted and therefore locatable. The result of 
+this reconstruction attempt is an impressive virtual model which allows experiencing plastically the 
+vast dimensions of an excessive Baroque building project (fig. 36). 
+
+Fig. 34: Situation plan of Pöppelmann’s Grand Castle Project 1716–18 (time‐cut no. 6). The yellow frame marks the area 
+depicted in fig. 35. Red arrows together with red lines as symmetry axes mark the ten mirroring steps which had been 
+
+necessary to reconstruct virtually the complete building cubature of the castle. 
+
+ 
+
+ 
+
+22 
+
+Fig. 35: Perspective view in the main cour d’honneur of Pöppelmann’s Grand Castle Project 1716–18, being the one and 
+
+only elevation source for time‐cut no. 6. 
+
+ 
+
+ 
+
+Fig. 36: Virtual model of Pöppelmann’s Grand Castle Project 1716–18 (time‐cut no. 6). 
+
+23 
+
+ 
+
+ 
+
+Scientific results 
+
+The virtual reconstruction of the Dresden Zwinger developed during the described project gives us a 
+deeper  analytic  insight  into  the  historic  planning  process  and  its  inherent  problems.  For  example, 
+from  rectifying  the  perspective  view  of  time‐cut  number  6  we  were  able  to  learn  how  much  the 
+historic media of architectural visualization can deceive us: If you count the axes strictly according to 
+the ground plan, the virtual model turns out that some parts of the side facades show a somewhat 
+strange disproportion while they do not appear so in the perspective distorted view (fig. 37). 
+
+ 
+
+Fig. 37: Perspective distorted detail in the elevation source for time‐cut no. 6 (cf. fig. 35) and its rectifying by the virtual 
+
+model. The axes of the architecture appear slender in the historic depiction but broad and portly in the model. 
+
+Taking into consideration the many discrepancies between ground plans and elevations we 
+have to ask if this is the result of a fragmentary conservation or of a drafting process which continues 
+during  the  drawing  process.  In  our  opinion  it  is  plausible  that,  while  an  elevation  plan  was  being 
+drawn, alterations to an already existing ground plan could be invented by the architect and directly 
+integrated  into  the  new  elevation  drawing.  In  fact,  before  the  acceptance  of  a  project  it  was  not 
+really necessary that all the plans made for it correspond to each other since discrepancies could be 
+taken in a positive sense as alternative proposals. A need for coordination was only given if the plans 
+would have had to fulfil a function on an actual construction site. The refusing of a draft must have 
+let seem such coordination work as an additional and in the end senseless toil, with the effect that 
+partially not correlating plans could be archived. 
+
+Very  illuminating  was  the  possibility  to  combine  the  castle  projects  of  Pöppelmann’s 
+successors with the Zwinger courtyard erected by him. In the eighteenth century, such a combination 
+was obviously mostly done in two‐dimensional situation plans but only seldomly in elevations. One 
+fine example is the central polygonal pavilion of Zacharias Longuelune’s castle project (time‐cut no. 
+9) which was supposed to become the counterpart  of Pöppelmann’s crowned gateway tower (so‐
+called  Kronentor;  see  above  fig.  2).  As  an  isolated  form  in  the  elevation  plan  the  pavilion  looks 
+precious  and  delicate  (see  above  fig.  26,  middle  column).  In  combination  with  Pöppelmann’s 
+architecture, however, it takes on a monstrous aspect. The Zwinger courtyard almost appears like the 
+front garden of a somewhat oversized castle (fig. 36, cf. also fig. 27). 
+
+ 
+
+24 
+
+Fig. 38: Virtual model of Zacharias Longuelune’s castle project 1728 (time‐cut no. 9) in addition to the already existing 
+
+Zwinger courtyard. 
+
+ 
+
+ 
+
+Conclusion 
+
+The  ‘zwingerteam’  project,  initiated  by  the  Saxon  Administration  of  State‐owned  Castles  and 
+Gardens,  had  begun  with  a  certain  museum‐didactic  aim:  the  building  development  and  planning 
+history  of  the  Dresden  Zwinger  should  be  modelled  virtually  for  instructing  future  visitors  of  that 
+famous Baroque building. But in the course of project progress it has achieved in the end also some 
+scientific  results  of  diverse  value.  As  primary  output  fourteen  more  or  less  complex  virtual  three‐
+dimensional models of construction and planning phases (so‐called time‐cuts) have been produced 
+including  a  richly‐detailed  one  of  the  existing  buildings  as  well  as  fourteen  schematic  ones  of  the 
+historic correlating surroundings. This result must be taken as the admirable work of more than two 
+dozens of students who participated in the degree program of Media Computer Science taught at the 
+Dresden University of Applied Sciences (HTW). The scientific output on the one hand consists in the 
+remarkable number of image and plan sources which were, as preparation, collected and in parts 
+newly arranged, on the other hand in the elucidating new information which the virtual models can 
+give about the truthfulness of an historic image source as well as in the case of a not realized draft 
+about its structure, logic, correlation, quality and possibility of realization. Correlation in context with 
+the latter means the interaction between such a draft and the adjacent not only historic, but also 
+actual  urban  space.  As  to  say  in  terms  of  a  catch‐word:  verification  with  the  help  of  virtual 
+reconstruction and building simulation. 
+
+ 
+
+25 
+
+Meanwhile, the fourteen virtual models are waiting in a raw state for the production of an 
+adequate presentation form because, as already mentioned, in the end the visitors of the famous 
+Dresden Zwinger shall be their  primary recipients.  A first attempt has already been  made when a 
+video film including the time cuts 1 to 8, 12 and 13 was produced for the exhibition ‘Pöppelmann 3D 
+–  Bücher,  Pläne,  Raumwelten’  presented  in  Dresden  in  the  Saxon  State  and  University  Library 
+(Sächsische Landes‐ und Universitätsbibliothek – SLUB) from 16 May until 1 September 2013.14 The 
+reactions  of  the  audience  were  mostly  surprised  because  of  having  seen  in  the  film  so  many 
+unknown  aspects  about  such  a  familiar  building  as  the  Zwinger  is  commonly  supposed.  It  goes 
+without saying that the building simulation of Pöppelmann’s stupendous unexecuted drafts created a 
+great amazement. As expected, our project reveals that a looking back in history via virtual models to 
+obtain results for future knowledge really works! 
+
+ 
+
+Bibliography 
+Preliminary remark: It is only given a selected bibliography concerning the architectural history of the 
+Dresden Zwinger. Complementary to the topic of this article see Jahn and Welich 2009. 
+
+Ermisch, Hubert Georg, Der Dresdner Zwinger. Mit einer Einleitung von Hubert Mohr, Schriften des 
+Instituts für Theorie und Geschichte der Baukunst der Deutschen Bauakademie, 2nd edn (Dresden, 
+1954). 
+
+Franz, Heinrich Gerhard, Zacharias Longuelune und die Baukunst des 18. Jahrhunderts in Dresden, 
+(Berlin, 1953). 
+
+Franz, Heinrich Gerhard, ‘Matthäus Daniel Pöppelmann (1662–1736) und die Architektur des 
+Zwingers in Dresden. Zur Genese des barocken Bauwerks’, Kunsthistorisches Jahrbuch Graz, 22 
+(1986), pp. 5–77. 
+
+Franz, Heinrich Gerhard, ‘Der Kaskadenhof – ein unbeachtetes Projekt Matthäus Daniel Pöppelmanns 
+zum Dresdener Zwinger’, Dresdener Kunstblätter, 34 (1990), pp. 137–148. 
+
+Heckmann, Hermann, M. D. Pöppelmann als Zeichner (Dresden, 1954). 
+
+Heckmann, Hermann, Matthäus Daniel Pöppelmann. Leben und Werk (Munich and Berlin, 1972). 
+
+Heckmann, Hermann, Matthäus Daniel Pöppelmann und die Barockbaukunst in Dresden (Berlin and 
+Stuttgart, 1986). 
+
+Hempel, Eberhard, Gaetano Chiaveri. Der Architekt der katholischen Hofkirche zu Dresden. Mit 
+bautechnischen und zeichnerischen Beiträgen von Walter Krönert (Dresden, 1955). 
+
+Hempel, Eberhard, Der Zwinger zu Dresden. Grundzüge und Schicksale seiner künstlerischen 
+Gestaltung, Jahresgabe des Deutschen Vereins für Kunstwissenschaft (Berlin, 1961). 
+
+Jahn, Peter Heinrich and Welich, Dirk, ‘Zurück in die Zukunft – Die Visualisierung planungs‐ und 
+baugeschichtlicher Aspekte des Dresdner Zwingers’, Staatliche Schlösser, Burgen und Gärten Sachsen 
+Jahrbuch, 16 (2009), pp. 51–72. 
+
+ 
+
+26 
+
+Karge, Henrik (Ed.), Gottfried Semper – Dresden und Europa. Die moderne Renaissance der Künste. 
+Akten des Internationalen Kolloquiums der Technischen Universität Dresden aus Anlass des 200. 
+Geburtstages von Gottfried Semper (Munich and Berlin, 2007). 
+
+Kirsten, Michael, ‘Der Dresdener Zwinger’, Jahrbuch der Staatlichen Kunstsammlungen Dresden, 19 
+(1987), pp. 53–76. 
+
+Kuke, Hans‐Joachim, Jean de Bodt 1670–1745. Architekt und Ingenieur im Zeitalter des Barock 
+(Worms 2002). 
+
+Löffler, Fritz, Das alte Dresden. Geschichte seiner Bauten, 6th edn (Leipzig, 1981/82). 
+
+Löffler, Fritz, Dresden im 18. Jahrhundert – Bernardo Bellotto genannt Canaletto (Würzburg 1988). 
+
+Löffler, Fritz, Der Zwinger in Dresden. Herausgegeben von Michael Kirsten, 4th edn (Leipzig, 1992). 
+
+Mallgrave, Harry Francis, Gottfried Semper. Ein Architekt des 19. Jahrhunderts (Zurich, 2001). 
+
+Marx, Harald (ed.), Matthäus Daniel Pöppelmann. Der Architekt des Dresdner Zwingers, 2nd edn 
+(Leipzig, 1990). 
+
+Marx, Harald, Matthäus Daniel Pöppelmann. Der Dresdner Zwinger. Vom Festsaalbau zum Museum, 
+kunststück (Frankfurt am Main, 2000). 
+
+Nerdinger, Winfried and Oechslin, Werner (eds.), Gottfried Semper 1803 – 1879. Architektur und 
+Wissenschaft (Munich, Berlin, London, New York and Zurich, 2003). 
+
+Sponsel, Jean Louis, Der Zwinger[,] die Hoffeste und die Schloßbaupläne zu Dresden (Dresden, 1924). 
+
+Staatliche Kunstsammlungen Dresden (ed.), Matthäus Daniel Pöppelmann 1662–1736. Ein Architekt 
+des Barocks in Dresden. Ausstellung zum 250. Todestag und zum 325. Geburtstag des Erbauers des 
+Dresdner Zwingers, Albertinum an der Brühlschen Terasse, 13. März 1987 bis 13. Mai 1987 (Dresden, 
+1987). 
+
+Welich, Dirk, Der Zwinger. Dresdens berühmter Festbau (Leipzig, 2002). 
+
+ 
+
+Illustrations 
+Preliminary and general remark: For all virtual models depicted in the illustrations (fig. 8, 10, 14–22, 
+24, 25, 27, 29, 30, 32, 33, 36–38) and any reproductions of them the copyright is hold by Staatliche 
+Schlösser, Burgen und Gärten Sachsen gGmbH, Dresden. In the following for these illustrations only 
+the names of the modellers have to be named as additional information. 
+
+Fig. 1–2, and 5 Dresden, Staatliche Schlösser, Burgen und Gärten Sachsen gGmbH. 
+
+Fig. 3 Dresden, Sächsisches Staatsarchiv, Hauptstaatsarchiv, Rißfach 99, Nr. 14. 
+
+Fig. 4 Dresden, Sächsische Landes‐ und Universitätsbibliothek – SLUB, Deutsche Fotothek, 
+
+Hauptkatalog 0095526. 
+
+27 
+
+ 
+
+Fig. 6 Dresden, Staatsbetrieb Sächsisches Immobilien‐ und Baumanagement – SIB, IS‐Objekt‐Nr. G 
+001442, Plannr. 05. 
+
+Fig. 7 Modellers: Philipp Hackbarth (Zwinger buildings), Romy Ebert (surroundings), Rainer Uhlemann 
+(adjusting of both models). 
+
+Fig. 8 Modeller: Markus Zönnchen. 
+
+Fig. 9 Photomontage by Peter H. Jahn of a ground plan (Dresden, Sächsisches Staatsarchiv, 
+Hauptstaatsarchiv, OHMA P, Cap. I A, Nr. 26, Bl. 1–3), an elevation drawing (Dresden, Sächsische 
+Landes‐ und Universitätsbibliothek – SLUB, Kartensammlung B 1978), and three printed elevations 
+(Matthäus Daniel Pöppelmann, Vorstellung und Beschreibung [...] Der Königl.[ichen] Orangerie zu 
+Dreßden [Dresden, 1729]). 
+
+Fig. 10 Modellers: Philipp Hackbarth (Zwinger buildings in beige colour), Chris Leister (Zwinger 
+buildings in white colour), Romy Ebert (surroundings), Rainer Uhlemann (adjusting of the models). 
+
+Fig. 11 Photomontage by Peter H. Jahn of different image sources mostly preserved in the archives 
+mentioned in endnote 4. Exceptions are no. 8, which shows a painting in possession of Staatliche 
+Kunstsammlungen Dresden, Gemäldegalerie Alte Meister, and no. 13; for the latter see below fig. 31. 
+Detailed information about no. 6 is given below at fig. 35 and about no. 9 at fig. 26. 
+
+Fig. 12 Written by Peter H. Jahn. 
+
+Fig. 13 See impressum of the webpage: 
+http://www2.htw‐dresden.de/~zwinger/webs/impress.html. 
+
+Fig. 14 Screenshot of a virtual model uploaded in the modelling software (Modeller: Anne Weinert). 
+
+Fig. 15 Photomontage by Peter H. Jahn of a diagram (author: Loreen Pogrzeba) and a virtual model 
+(modeller: Josephin Seibt). 
+
+Fig. 16 Photomontage by Markus Wacker (modeller: Josephin Seibt). 
+
+Fig. 17 Photomontage by Markus Wacker basing on three screenshots of a virtual model (modeller: 
+Rainer Uhlemann). 
+
+Fig. 18 Photomontage by Markus Wacker of a photograph (photographer unknown) and a rendering 
+of a virtual model (modeller: Steve Kuttig). 
+
+Fig. 19 Modellers: Philipp Hackbarth (Baroque Zwinger buildings), Michael Marschner (picture 
+gallery), Steve Kuttig (texturing). 
+
+Fig. 20 Modeller: Chris Leister. 
+
+Fig. 21 Photomontage by Peter H. Jahn of details of fig. 34 and the model depicted in fig. 36 
+(modeller: Conny Coburger). 
+
+Fig. 22 Modeller: Anne Weinert; for the depicted source at the right half see fig. 35. 
+
+Fig. 23 Dresden, Hochschule für Wirtschaft und Technik. 
+
+ 
+
+28 
+
+Fig. 24 Dresden, Hochschule für Wirtschaft und Technik (modeller: Michael Marschner). 
+
+Fig. 25 Photomontage by Peter H. Jahn of a detail of fig. 4, an own photograph and a screenshot of a 
+virtual model (modeller: Rainer Uhlemann). 
+
+Fig. 26 Franz 1953, plates I–III, fig. 1–7. 
+
+Fig. 27 Modeller: Rainer Uhlemann. 
+
+Fig. 28 Photomontage by Peter H. Jahn, using details of Franz 1953, plates II and III, fig. 3, 5 and 6. 
+
+Fig. 29 Photomontage by Peter H. Jahn, using a printed elevation (M. D. Pöppelmann, Vorstellung 
+und Beschreibung [...] Der Königl.[ichen] Orangerie zu Dreßden [Dresden, 1729]), an own drawn 
+pencil sketch and a rendering of a virtual model (modeller: Chris Leister). 
+
+Fig. 30 Photomontage by Peter H. Jahn of fig. 4, a ground plan (Dresden, Sächsisches Staatsarchiv, 
+Hauptstaatsarchiv, OHMA P, Cap. I A, Nr. 25a, Bl. 1–3) and a rendering of a virtual model (modeller: 
+Rainer Uhlemann). 
+
+Fig. 31 Zurich, Eidgenössische Technische Hochschule (ETH), Institut für Geschichte und Theorie der 
+Architektur (gta), estate of Gottfried Semper, n. 20‐052‐1/MV 52‐1‐1. 
+
+Fig. 32 Photomontage by Peter H. Jahn of a sketched architectonic draft (Dresden, Sächsisches 
+Landesamt für Denkmalpflege, Plansammlung, M 52. C. Bl. 15 / MV 89 g‐ 41‐5) and a rendering of a 
+virtual model (modeller: Michael Marschner). 
+
+Fig. 33 Photomontage by Peter H. Jahn of a photography (photographer: Uwe Miersch, Oßling) and a 
+rendering of a virtual model (modeller: Michael Marschner). 
+
+Fig. 34 Photomontage by Peter H. Jahn basing on a ground plan (Dresden, Sächsisches Staatsarchiv, 
+Hauptstaatsarchiv, Ing. Corps Dresden Nr. 35e). 
+
+Fig. 35 Dresden, Sächsisches Staatsarchiv, Hauptstaatsarchiv, Ing. Corps Dresden Nr. 35c. 
+
+Fig. 36 Modellers: Conny Coburger and Anne Weinert. 
+
+Fig. 37 Photomontage by Peter H. Jahn of a detail of fig. 35 and a rendering of a virtual model 
+(modeller: Conny Coburger). 
+
+Fig. 38 Modellers: Philipp Hackbarth (Zwinger courtyard), Romy Ebert (surroundings), Rainer 
+Uhlemann (castle; adjusting of all models). 
+
+                                                            
+1 As authorship is divided conform to the leading responsibilities within the project, parts of the text concerning 
+to  its  conception  are  written  by  Dirk  Welich,  those  to  technical  aspects  of  computer  modelling  by  Markus 
+Wacker  and  those  to  preparatory  and  accompanying  architectural  historic  research  and  its  results  by  Peter 
+Heinrich Jahn. The latter had done the editorial work by following Markus Wacker’s proposal for organizing the 
+arguments. Thanks for partial preliminary copy‐editing to Anne Kleiner as well as to Jessica Buskirk and Bertram 
+Kaschek. – Heads of the project have been Mr Welich as representative of the commissioning institution and 
+Mr Wacker as that of the cooperating one. 
+2 The name of the building derives from this special location: ‘Zwinger’ means the outer courtyard between a 
+castle and its outer wall. 
+
+ 
+
+29 
+
+                                                                                                                                                                                          
+3 A first attempt of such a teaching video will be mentioned at the end of this text. 
+4  The  four  most  important  of  these  archives  have  been:  Sächsisches  Staatsarchiv,  Hauptstaatsarchiv  (Saxon 
+Main State Archives), Sächsisches Landesamt für Denkmalpflege, Plansammlung (Plan Collection of the Saxon 
+State Bureau of Monument Protection), Sächsische Landes‐ und Universitätsbibliothek – SLUB (Saxon State and 
+University  Library),  and  Staatliche  Kunstsammlungen,  Kupferstichkabinett  (Graphical  Cabinet  of  the  State‐
+owned  Art‐collections).  Detailed  references  to  used  sources  and  secondary  literature  for  time‐cuts  1–8  are 
+already given by Jahn and Welich 2009. A continuing article concerning on time‐cuts 9–14 is still a desideratum. 
+5  Matthäus  Daniel  Pöppelmann,  Vorstellung  und  Beschreibung  Des  von  S[eine]r.  Königl.[ichen]  Majestät  in 
+Pohlen,  Churf[ürst]l.[ichen]  Durchl.[aucht]  zu  Sachßen/  erbauten  so  genannten  Zwinger=Gartens  Gebäuden, 
+Oder Der Königl.[ichen] Orangerie zu Dreßden (Dresden: self‐published by the author, 1729). For a commented 
+facsimile‐reprint reduced to small size take: Harald Keller (ed)., Matthäus Daniel Pöppelmann. Vorstellung und 
+Beschreibung des Zwingergartens zu Dresden. Nachdruck des Stichwerks von 1729. Mit einem Nachwort und 
+Erläuterungen, Die bibliophilen Taschenbücher n. 151 (Dortmund, 1980). 
+6 For a list of all modellers see the webpage of the project: 
+http://www2.htw‐dresden.de/~zwinger/webs/mitwirk.html. 
+7 With the exception of some diaphanous gateway buildings like that of time‐cut no. 5 (cf. fig. 10, 29). 
+8  If  the  insufficiently  documented  structure  had  been  too  complex,  the  modelling  of  a  ground  plan  was 
+preferred. 
+9 The protocols had been written until May 2009 by Loreen Pogrzeba, and from then on by Conny Coburger and 
+Anne Weiner. 
+10 This is still a serious problem in Dresden. Sources were either burnt by fire during air raids or they are missing 
+as a result of evacuation paired with misplacement or even displacement. 
+11 It is meant the Plan Collection of the Saxon State Bureau of Monument Protection (for the official German 
+name see above note 4). The same procedure was necessary for modelling time‐cut no. 11. In this case the plan 
+sources must had been taken from Sponsel 1924, plates 87–91 (cf. fig. 15). 
+12 Cited above in note 5. 
+13 Gottfried Semper, Das königliche Hoftheater zu Dresden (Braunschweig: Vieweg, 1849), plate I. 
+14  Implemented  as  a  cooperation  between  ENBaCH  –  European  Network  for  Baroque  Cultural  Heritage, 
+represented by the Institute of Romance Philology of the Technical University Dresden, Faculty of Philology and 
+Cultural Humanities (Institut für Romanistik der Technischen Universität Dresden, Fakultät Sprach‐, Literatur‐ 
+und Kulturwissenschaften), SLUB (as fully named above in the text) and Saxon Administration of State‐owned 
+Castles and Gardens (Staatliche Schlösser, Burgen und Gärten Sachsen gGmbH). The mentioned teaching video 
+was produced by Rainer Uhlemann. A work of the same is also a demo‐trailer of 2012 which was shown at 
+public presentations of the ‘zwingerteam’ project, one time within the ‘Mitschnitt‐Festival’ of the HTW Dresden 
+in 19 July 2012 and another time during a press conference dedicated to the project in 12 March 2013; both 
+events had been held at the ‘ufa‐Palast’ cinema in Dresden. While at this time a future public presentation of 
+the exhibition film is quite unclear, the demo‐trailer can be seen online: http://vimeo.com/46621228. 
+
+ 
+
+30 
+
+

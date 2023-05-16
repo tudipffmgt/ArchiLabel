@@ -1,0 +1,28 @@
+
+Library of Congress Control NumberDie Library of Congress Control Number (LCCN) ist ein Identifikator für einen katalogisierten Datensatz, der von der Library of Congress vergeben wird. Die LCCN, ursprünglich „Library of Congress Catalog Card Number“, ist das Datenbank-Kennzeichen (Satznummer) eines Eintrages in der amerikanischen Nationalbibliographie einschließlich der Normdaten; es wird in Feld 010 (und 001) der MARC-Dateien geführt. Ab 1901 bis zur Einführung des MARC-Dienstes konnten die amerikanischen Bibliotheken unter dieser Nummer Katalogkarten bei der Kongressbibliothek bestellen, darum finden sich diese Nummern häufig im Impressum amerikanischer Bücher (vgl. heute Cataloging in Publication).
+Das System ist seit 1898 in Gebrauch. Es ist unabhängig vom Inhalt eines Buches und sollte nicht mit der Library of Congress Classification (LCC) verwechselt werden. Auch die Library of Congress Authorities (LCAuth), ein Pendant zur Gemeinsamen Normdatei (GND), greifen auf die Struktur der LCCN zurück.
+Struktur
+LCAuth (Bildschirmfoto)
+In seiner heutigen Form, die 2001 eingeführt wurde, besteht das Kennzeichen aus einem zweistelligen alphabetischen Präfix, das nur für Normdaten (Personen und Schlagwörter) gebraucht wird, gefolgt von der vierstelligen Jahreszahl und einer sechsstelligen Ordnungszahl. Letztere wird zur besseren Lesbarkeit häufig gekürzt und mit Divis abgetrennt dargestellt.
+Beispiele:
+␣␣␣92022183 (92-22183) Knapp: Elliptic curves (Buch)
+␣␣2002024184 (2002-024184) Marker: Model theory (Buch)
+n␣␣50036535 (n50-36535) Guy Davenport (Person)
+n␣␣94112934 (n94-112934) Barack Obama (Person)
+no2008168642 (no2008-168642) United States. President (2009-: Obama) (Person)
+sh␣85092242 (sh85-92242) Noncommutative rings (Schlagwort)
+Das MARC-Präfix benennt den Ersteller des Datensatzes. Bei Personen steht „n“ für die Library of Congress, „nb“ für die British Library, „no“ für das Online Computer Library Center (OCLC), „nr“ für das Research Libraries Information Network (RLIN) und „ns“ für die Datenbank Sky River.[1]
+Bis zum Jahre 2000 wurde nur eine zweistellige Jahreszahl benutzt. Für die mehrdeutigen Jahre 1998, 1999 und 2000 beginnen die anhängenden fortlaufenden Nummern bei einem festgelegten Versatz. Eine Besonderheit gilt für Zahlen, die mit einer 7 beginnen, wegen eines abgebrochenen Experiments aus den Jahren 1969 bis 1972.
+Die fortlaufenden Nummern innerhalb eines Jahres bestehen aus sechs Ziffern mit führenden Nullen. Der in die Zahl eingefügte Bindestrich ist optional und soll entsprechend jüngsten Vorgaben der Library of Congress nicht mehr verwendet werden.
+Siehe auch
+Library of Congress Subject Headings (Thesaurus für die Verschlagwortung)
+Weblinks
+Structure of the LC Control Number (englisch)
+Search the catalog of The Library of Congress (englisch)
+Library of Congress Authorities (englisch)
+WorldCat Identities; Suchmaske für Autoren und deren zugehörige Library of Congress Control Number.
+Einzelnachweise
+↑  010 – Library of Congress Control Number (NR), Abfragedatum: 3. März 2016.
+
+
+

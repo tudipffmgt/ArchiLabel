@@ -1,0 +1,1384 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6165
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7469
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6965
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6692
+      }
+    ],
+    "start": 2983,
+    "end": 2994,
+    "found_term": "Pfarrkirche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6383
+      }
+    ],
+    "start": 4560,
+    "end": 4573,
+    "found_term": "Ausstellungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6115
+      }
+    ],
+    "start": 4643,
+    "end": 4655,
+    "found_term": "Druckgraphik"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6115
+      }
+    ],
+    "start": 5759,
+    "end": 5771,
+    "found_term": "Druckgraphik"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6935
+      }
+    ],
+    "start": 5785,
+    "end": 5796,
+    "found_term": "Ausstellung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6115
+      }
+    ],
+    "start": 7975,
+    "end": 7987,
+    "found_term": "Druckgraphik"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6422
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6275
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6506
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7156
+      }
+    ],
+    "start": 311,
+    "end": 324,
+    "found_term": "Barockgartens"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6351
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7549
+      },
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.67
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6109
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6178
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6988
+      }
+    ],
+    "start": 1961,
+    "end": 1973,
+    "found_term": "Gartenanlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6351
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7549
+      },
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.67
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6109
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6178
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6988
+      }
+    ],
+    "start": 2827,
+    "end": 2839,
+    "found_term": "Gartenanlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.7761
+      },
+      {
+        "aat_id": 300006819,
+        "wd_id": "Q276173",
+        "search_term": "Pavillon",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6569
+      }
+    ],
+    "start": 2906,
+    "end": 2914,
+    "found_term": "Pavillon"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6988
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6468
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6562
+      },
+      {
+        "aat_id": 300006819,
+        "wd_id": "Q276173",
+        "search_term": "Pavillon",
+        "confidence": 0.6569
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6603
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 1.0
+      }
+    ],
+    "start": 3584,
+    "end": 3593,
+    "found_term": "Orangerie"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6379
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6473
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6944
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7401
+      }
+    ],
+    "start": 3872,
+    "end": 3884,
+    "found_term": "Barockgarten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6379
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6473
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6944
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7401
+      }
+    ],
+    "start": 4005,
+    "end": 4017,
+    "found_term": "Barockgarten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6169
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6111
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6903
+      }
+    ],
+    "start": 4449,
+    "end": 4464,
+    "found_term": "Tuileriengarten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6351
+      }
+    ],
+    "start": 210,
+    "end": 225,
+    "found_term": "Gartengestalter"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6633
+      }
+    ],
+    "start": 240,
+    "end": 255,
+    "found_term": "Gartenarchitekt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6224
+      }
+    ],
+    "start": 338,
+    "end": 344,
+    "found_term": "jardin"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6424
+      }
+    ],
+    "start": 406,
+    "end": 417,
+    "found_term": "Gartenkunst"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6008
+      }
+    ],
+    "start": 593,
+    "end": 601,
+    "found_term": "Gärtners"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 933,
+    "end": 940,
+    "found_term": "Gärtner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 1259,
+    "end": 1266,
+    "found_term": "Gärtner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 1381,
+    "end": 1387,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 1441,
+    "end": 1447,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 1479,
+    "end": 1486,
+    "found_term": "Gärtner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 2121,
+    "end": 2127,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 2285,
+    "end": 2291,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 2497,
+    "end": 2503,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 2608,
+    "end": 2614,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6351
+      }
+    ],
+    "start": 3176,
+    "end": 3191,
+    "found_term": "Gartengestalter"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 3453,
+    "end": 3460,
+    "found_term": "Gärtner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7394
+      },
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.6213
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6495
+      }
+    ],
+    "start": 3980,
+    "end": 3993,
+    "found_term": "Gartenanlagen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6224
+      }
+    ],
+    "start": 4122,
+    "end": 4128,
+    "found_term": "Jardin"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 4374,
+    "end": 4380,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 4407,
+    "end": 4413,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6224
+      }
+    ],
+    "start": 4528,
+    "end": 4534,
+    "found_term": "Jardin"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 4616,
+    "end": 4622,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 4942,
+    "end": 4948,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 5519,
+    "end": 5526,
+    "found_term": "Gärtner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 5732,
+    "end": 5738,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6424
+      }
+    ],
+    "start": 5823,
+    "end": 5834,
+    "found_term": "Gartenkunst"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 5941,
+    "end": 5948,
+    "found_term": "Gärtner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6315
+      }
+    ],
+    "start": 6775,
+    "end": 6795,
+    "found_term": "Landschaftsgärtnerin"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 7373,
+    "end": 7379,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 7948,
+    "end": 7954,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6351
+      }
+    ],
+    "start": 8474,
+    "end": 8489,
+    "found_term": "Gartengestalter"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6133
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7796
+      }
+    ],
+    "start": 2962,
+    "end": 2967,
+    "found_term": "Büste"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6133
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7796
+      }
+    ],
+    "start": 3017,
+    "end": 3022,
+    "found_term": "Büste"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 2861,
+    "end": 2865,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 1212,
+    "end": 1223,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004182,
+        "wd_id": "Q641406",
+        "search_term": "Terrasse",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300003228,
+        "wd_id": "Q12511",
+        "search_term": "Treppe",
+        "confidence": 0.6282
+      },
+      {
+        "aat_id": 300002613,
+        "wd_id": "Q657100",
+        "search_term": "Kolonnade",
+        "confidence": 0.6043
+      },
+      {
+        "aat_id": 300002588,
+        "wd_id": "Q170552",
+        "search_term": "Balkon",
+        "confidence": 0.6101
+      }
+    ],
+    "start": 2220,
+    "end": 2228,
+    "found_term": "Terrasse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6115
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6105
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6871
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6202
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6069
+      }
+    ],
+    "start": 4934,
+    "end": 4941,
+    "found_term": "barocke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 1161,
+    "end": 1168,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 1610,
+    "end": 1617,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 1978,
+    "end": 1985,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 3829,
+    "end": 3836,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 3889,
+    "end": 3896,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 3940,
+    "end": 3947,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4022,
+    "end": 4029,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4161,
+    "end": 4168,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4192,
+    "end": 4199,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4219,
+    "end": 4226,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4350,
+    "end": 4357,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4427,
+    "end": 4434,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4657,
+    "end": 4664,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 4757,
+    "end": 4764,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 5835,
+    "end": 5842,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6163
+      }
+    ],
+    "start": 4634,
+    "end": 4642,
+    "found_term": "barocker"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6163
+      }
+    ],
+    "start": 5750,
+    "end": 5758,
+    "found_term": "barocker"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6163
+      }
+    ],
+    "start": 7966,
+    "end": 7974,
+    "found_term": "barocker"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 3031,
+    "end": 3040,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6431
+      }
+    ],
+    "start": 2797,
+    "end": 2811,
+    "found_term": "Fertigstellung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.6944
+      }
+    ],
+    "start": 2930,
+    "end": 2934,
+    "found_term": "Grab"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.7207
+      }
+    ],
+    "start": 4073,
+    "end": 4081,
+    "found_term": "Castello"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6936
+      }
+    ],
+    "start": 4324,
+    "end": 4332,
+    "found_term": "Pamphilj"
+  }
+]

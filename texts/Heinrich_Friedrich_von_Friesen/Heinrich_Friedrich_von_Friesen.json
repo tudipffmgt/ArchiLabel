@@ -1,0 +1,33 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 2050,
+    "end": 2057,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q309250",
+        "search_term": "Hof",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1157,
+    "end": 1160,
+    "found_term": "Hof"
+  }
+]

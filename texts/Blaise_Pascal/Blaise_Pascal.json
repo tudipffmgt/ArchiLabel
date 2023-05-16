@@ -1,0 +1,551 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 3617,
+    "end": 3623,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 15288,
+    "end": 15294,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6165
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7469
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6965
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6692
+      }
+    ],
+    "start": 16143,
+    "end": 16154,
+    "found_term": "Pfarrkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 24115,
+    "end": 24121,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 28529,
+    "end": 28535,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6594
+      }
+    ],
+    "start": 15351,
+    "end": 15361,
+    "found_term": "Totenmaske"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6594
+      }
+    ],
+    "start": 16645,
+    "end": 16655,
+    "found_term": "Totenmaske"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 15169,
+    "end": 15173,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6317
+      },
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.7057
+      }
+    ],
+    "start": 16248,
+    "end": 16255,
+    "found_term": "Epitaph"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.7057
+      },
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 1.0
+      }
+    ],
+    "start": 16314,
+    "end": 16323,
+    "found_term": "Grabstein"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2535,
+    "end": 2540,
+    "found_term": "Basis"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 17172,
+    "end": 17181,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 23674,
+    "end": 23683,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.6036
+      },
+      {
+        "aat_id": 300002803,
+        "wd_id": "Q36794",
+        "search_term": "Tür",
+        "confidence": 0.6139
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6443
+      }
+    ],
+    "start": 15034,
+    "end": 15038,
+    "found_term": "wand"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 11653,
+    "end": 11658,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300001571,
+        "wd_id": "Q4817",
+        "search_term": "Säule",
+        "confidence": 1.0
+      }
+    ],
+    "start": 16296,
+    "end": 16301,
+    "found_term": "Säule"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.7639
+      },
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6879
+      }
+    ],
+    "start": 31841,
+    "end": 31848,
+    "found_term": "Theater"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 0.6299
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.7213
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6284
+      }
+    ],
+    "start": 14393,
+    "end": 14404,
+    "found_term": "Schlösschen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2855,
+    "end": 2860,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.6944
+      }
+    ],
+    "start": 24103,
+    "end": 24107,
+    "found_term": "Grab"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.695
+      },
+      {
+        "aat_id": 300000994,
+        "wd_id": "Q12277",
+        "search_term": "Bogen",
+        "confidence": 0.6783
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6073
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6015
+      }
+    ],
+    "start": 19934,
+    "end": 19939,
+    "found_term": "Bögen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 21494,
+    "end": 21502,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 21881,
+    "end": 21889,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 26447,
+    "end": 26455,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6582
+      }
+    ],
+    "start": 5660,
+    "end": 5667,
+    "found_term": "Kloster"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6582
+      }
+    ],
+    "start": 7848,
+    "end": 7855,
+    "found_term": "Kloster"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.7657
+      }
+    ],
+    "start": 8441,
+    "end": 8451,
+    "found_term": "Einsiedler"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6179
+      }
+    ],
+    "start": 8536,
+    "end": 8544,
+    "found_term": "Klosters"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6582
+      }
+    ],
+    "start": 16664,
+    "end": 16671,
+    "found_term": "Kloster"
+  }
+]

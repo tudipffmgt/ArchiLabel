@@ -1,0 +1,241 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6699
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6271
+      }
+    ],
+    "start": 4662,
+    "end": 4669,
+    "found_term": "Bildnis"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.6317
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7594
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.8078
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6521
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6575
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6068
+      }
+    ],
+    "start": 1090,
+    "end": 1095,
+    "found_term": "Altar"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6297
+      }
+    ],
+    "start": 3306,
+    "end": 3317,
+    "found_term": "plastischen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6372
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.638
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.644
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6899
+      }
+    ],
+    "start": 4883,
+    "end": 4893,
+    "found_term": "geschmückt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 242,
+    "end": 248,
+    "found_term": "Fresko"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047230,
+        "wd_id": "Q245117",
+        "search_term": "Relief",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4928,
+    "end": 4934,
+    "found_term": "Relief"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6774
+      }
+    ],
+    "start": 1717,
+    "end": 1728,
+    "found_term": "Chiaramonti"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 839,
+    "end": 846,
+    "found_term": "Heilige"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6141
+      }
+    ],
+    "start": 2657,
+    "end": 2664,
+    "found_term": "verehrt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6356
+      }
+    ],
+    "start": 4415,
+    "end": 4421,
+    "found_term": "heilig"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 5084,
+    "end": 5091,
+    "found_term": "heilige"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6158
+      }
+    ],
+    "start": 7463,
+    "end": 7472,
+    "found_term": "Aphrodite"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6022
+      }
+    ],
+    "start": 4836,
+    "end": 4848,
+    "found_term": "geschmücktem"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.6122
+      }
+    ],
+    "start": 2755,
+    "end": 2765,
+    "found_term": "verkörpert"
+  }
+]

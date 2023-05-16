@@ -1,0 +1,3541 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300001749,
+        "wd_id": "Q268205",
+        "search_term": "Plinthe",
+        "confidence": 0.6158
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6199
+      }
+    ],
+    "start": 8881,
+    "end": 8887,
+    "found_term": "Sockel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.667
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6143
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6875
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6223
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6232
+      },
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6168
+      }
+    ],
+    "start": 890,
+    "end": 903,
+    "found_term": "Klosterkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.667
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6143
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6875
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6223
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6232
+      },
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6168
+      }
+    ],
+    "start": 1188,
+    "end": 1201,
+    "found_term": "Klosterkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 6906,
+    "end": 6912,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 9836,
+    "end": 9842,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6154
+      }
+    ],
+    "start": 10647,
+    "end": 10657,
+    "found_term": "Kathedrale"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6243
+      }
+    ],
+    "start": 290,
+    "end": 304,
+    "found_term": "Gemäldegalerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.632
+      }
+    ],
+    "start": 337,
+    "end": 352,
+    "found_term": "Kunstsammlungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.632
+      }
+    ],
+    "start": 3106,
+    "end": 3121,
+    "found_term": "Kunstsammlungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6935
+      }
+    ],
+    "start": 9590,
+    "end": 9601,
+    "found_term": "Ausstellung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.632
+      }
+    ],
+    "start": 9644,
+    "end": 9659,
+    "found_term": "Kunstsammlungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6935
+      }
+    ],
+    "start": 12643,
+    "end": 12654,
+    "found_term": "Ausstellung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.632
+      }
+    ],
+    "start": 12782,
+    "end": 12797,
+    "found_term": "Kunstsammlungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.7138
+      }
+    ],
+    "start": 13293,
+    "end": 13312,
+    "found_term": "Ausstellungskatalog"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6104
+      },
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6447
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 13980,
+    "end": 13993,
+    "found_term": "Sempergalerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.632
+      }
+    ],
+    "start": 14062,
+    "end": 14077,
+    "found_term": "Kunstsammlungen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.7138
+      }
+    ],
+    "start": 14705,
+    "end": 14724,
+    "found_term": "Ausstellungskatalog"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6243
+      }
+    ],
+    "start": 17115,
+    "end": 17129,
+    "found_term": "Gemäldegalerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6172
+      }
+    ],
+    "start": 17410,
+    "end": 17418,
+    "found_term": "Gallerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6243
+      }
+    ],
+    "start": 17619,
+    "end": 17633,
+    "found_term": "Gemäldegalerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6243
+      }
+    ],
+    "start": 18973,
+    "end": 18987,
+    "found_term": "Gemäldegalerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 0.6935
+      }
+    ],
+    "start": 21983,
+    "end": 21994,
+    "found_term": "Ausstellung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6395
+      },
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 0.6506
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6803
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6475
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.8486
+      }
+    ],
+    "start": 11399,
+    "end": 11415,
+    "found_term": "Orangerieschloss"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6395
+      },
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 0.6506
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6803
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6475
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.8486
+      }
+    ],
+    "start": 21263,
+    "end": 21279,
+    "found_term": "Orangerieschloss"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6395
+      },
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 0.6506
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6803
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6475
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.8486
+      }
+    ],
+    "start": 21458,
+    "end": 21474,
+    "found_term": "Orangerieschloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 21364,
+    "end": 21370,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6008
+      }
+    ],
+    "start": 21476,
+    "end": 21489,
+    "found_term": "Kübelpflanzen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 21563,
+    "end": 21569,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 12612,
+    "end": 12618,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.6089
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.8661
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7888
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.8471
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6199
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6689
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6453
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6141
+      }
+    ],
+    "start": 876,
+    "end": 885,
+    "found_term": "Hochaltar"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6218
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6471
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6113
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6672
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6649
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6133
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.6275
+      }
+    ],
+    "start": 507,
+    "end": 520,
+    "found_term": "Puttenfiguren"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6317
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6266
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6793
+      }
+    ],
+    "start": 12835,
+    "end": 12849,
+    "found_term": "Neorenaissance"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6017
+      }
+    ],
+    "start": 14252,
+    "end": 14267,
+    "found_term": "Hochrenaissance"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 6434,
+    "end": 6443,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.6641
+      }
+    ],
+    "start": 3286,
+    "end": 3296,
+    "found_term": "Verglasung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.6182
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.808
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6957
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7964
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.7152
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6456
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6022
+      },
+      {
+        "wd_id": "Q1501427",
+        "search_term": "Oktogon",
+        "confidence": 0.6423
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6775
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6483
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6276
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6295
+      }
+    ],
+    "start": 4783,
+    "end": 4791,
+    "found_term": "Chorraum"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.6015
+      },
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.6787
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6692
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6658
+      },
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.6129
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6721
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.8045
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.8005
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6347
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.7124
+      }
+    ],
+    "start": 8903,
+    "end": 8909,
+    "found_term": "Gebälk"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4663,
+    "end": 4668,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6185
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.624
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6366
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6628
+      }
+    ],
+    "start": 10268,
+    "end": 10278,
+    "found_term": "verzierten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q392371",
+        "search_term": "Kreuz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 7707,
+    "end": 7712,
+    "found_term": "Kreuz"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q392371",
+        "search_term": "Kreuz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 8182,
+    "end": 8187,
+    "found_term": "Kreuz"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q392371",
+        "search_term": "Kreuz",
+        "confidence": 0.805
+      }
+    ],
+    "start": 9983,
+    "end": 9990,
+    "found_term": "Kreuzes"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q747567",
+        "search_term": "Risalit",
+        "confidence": 0.8111
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6523
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6738
+      },
+      {
+        "aat_id": 300002674,
+        "wd_id": "Q958148",
+        "search_term": "Mezzanin",
+        "confidence": 0.6185
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.7256
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6657
+      },
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.6442
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6758
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6133
+      },
+      {
+        "wd_id": "Q1501427",
+        "search_term": "Oktogon",
+        "confidence": 0.6185
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.7052
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.8432
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.9574
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.7353
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.7308
+      }
+    ],
+    "start": 8889,
+    "end": 8898,
+    "found_term": "Pilastern"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6379
+      },
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6606
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6354
+      },
+      {
+        "wd_id": "Q1431210",
+        "search_term": "Foyer",
+        "confidence": 0.6017
+      }
+    ],
+    "start": 11631,
+    "end": 11642,
+    "found_term": "Raffaelsaal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6612
+      },
+      {
+        "aat_id": 300004044,
+        "wd_id": "Q180516",
+        "search_term": "Zimmer",
+        "confidence": 0.71
+      }
+    ],
+    "start": 12052,
+    "end": 12065,
+    "found_term": "Arbeitszimmer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6361
+      },
+      {
+        "aat_id": 300004044,
+        "wd_id": "Q180516",
+        "search_term": "Zimmer",
+        "confidence": 0.7579
+      }
+    ],
+    "start": 12316,
+    "end": 12326,
+    "found_term": "Wohnzimmer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6032
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.7046
+      },
+      {
+        "aat_id": 300001280,
+        "wd_id": "Q12493",
+        "search_term": "Kuppel",
+        "confidence": 0.6548
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6056
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.7473
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6168
+      }
+    ],
+    "start": 12443,
+    "end": 12448,
+    "found_term": "Decke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6141
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7058
+      }
+    ],
+    "start": 804,
+    "end": 817,
+    "found_term": "Marienbildnis"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7819
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7805
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7578
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6134
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6086
+      }
+    ],
+    "start": 3905,
+    "end": 3914,
+    "found_term": "Altarbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6286
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6907
+      }
+    ],
+    "start": 4126,
+    "end": 4135,
+    "found_term": "Jesuskind"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7594
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6057
+      }
+    ],
+    "start": 4478,
+    "end": 4486,
+    "found_term": "Kruzifix"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.636
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6281
+      }
+    ],
+    "start": 4490,
+    "end": 4497,
+    "found_term": "Lettner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.841
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6948
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6966
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6227
+      }
+    ],
+    "start": 4702,
+    "end": 4708,
+    "found_term": "Altars"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7594
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6057
+      }
+    ],
+    "start": 4732,
+    "end": 4740,
+    "found_term": "Kruzifix"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7594
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6057
+      }
+    ],
+    "start": 4753,
+    "end": 4761,
+    "found_term": "Kruzifix"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.636
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6281
+      }
+    ],
+    "start": 4766,
+    "end": 4773,
+    "found_term": "Lettner"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7594
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6057
+      }
+    ],
+    "start": 7571,
+    "end": 7579,
+    "found_term": "Kruzifix"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7819
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7805
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7578
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6134
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6086
+      }
+    ],
+    "start": 8279,
+    "end": 8288,
+    "found_term": "Altarbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7176
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.723
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7377
+      }
+    ],
+    "start": 8437,
+    "end": 8452,
+    "found_term": "Hochaltarbildes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7819
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7805
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7578
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6134
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6086
+      }
+    ],
+    "start": 9183,
+    "end": 9192,
+    "found_term": "Altarbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6718
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.8791
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6507
+      }
+    ],
+    "start": 9742,
+    "end": 9752,
+    "found_term": "Kruzifixes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7819
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7805
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7578
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6134
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6086
+      }
+    ],
+    "start": 9791,
+    "end": 9800,
+    "found_term": "Altarbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7466
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6938
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7261
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.646
+      }
+    ],
+    "start": 12960,
+    "end": 12971,
+    "found_term": "Tabernakels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7819
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7805
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7578
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6134
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6086
+      }
+    ],
+    "start": 16273,
+    "end": 16282,
+    "found_term": "Altarbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7819
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7805
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7578
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6134
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6086
+      }
+    ],
+    "start": 20665,
+    "end": 20674,
+    "found_term": "Altarbild"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 13,
+    "end": 20,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 115,
+    "end": 122,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 180,
+    "end": 187,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6937
+      }
+    ],
+    "start": 1389,
+    "end": 1404,
+    "found_term": "Madonnenbildnis"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 1806,
+    "end": 1813,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 1970,
+    "end": 1977,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 3615,
+    "end": 3622,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6526
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6504
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6456
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6347
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6691
+      }
+    ],
+    "start": 3826,
+    "end": 3837,
+    "found_term": "Engelsköpfe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 4110,
+    "end": 4117,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 4503,
+    "end": 4510,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.608
+      }
+    ],
+    "start": 4913,
+    "end": 4924,
+    "found_term": "Jesuskindes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 5206,
+    "end": 5213,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 5591,
+    "end": 5598,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 5779,
+    "end": 5786,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 6888,
+    "end": 6895,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.608
+      }
+    ],
+    "start": 7479,
+    "end": 7490,
+    "found_term": "Jesuskindes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 7923,
+    "end": 7930,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 8096,
+    "end": 8103,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 8267,
+    "end": 8274,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 8312,
+    "end": 8319,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 8498,
+    "end": 8505,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.608
+      }
+    ],
+    "start": 8514,
+    "end": 8525,
+    "found_term": "Jesuskindes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 9374,
+    "end": 9381,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 9619,
+    "end": 9626,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.608
+      }
+    ],
+    "start": 9905,
+    "end": 9916,
+    "found_term": "Jesuskindes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 9925,
+    "end": 9932,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 10205,
+    "end": 10212,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 10481,
+    "end": 10488,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 11000,
+    "end": 11007,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 11162,
+    "end": 11169,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 11569,
+    "end": 11576,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 11673,
+    "end": 11680,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 12506,
+    "end": 12513,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 12709,
+    "end": 12716,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 13179,
+    "end": 13186,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 13356,
+    "end": 13363,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 13564,
+    "end": 13571,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 13697,
+    "end": 13704,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 13917,
+    "end": 13924,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 14454,
+    "end": 14461,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 14643,
+    "end": 14650,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 14759,
+    "end": 14766,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 14889,
+    "end": 14896,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 15140,
+    "end": 15147,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 15362,
+    "end": 15369,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 15592,
+    "end": 15599,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 15795,
+    "end": 15802,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 15926,
+    "end": 15933,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 16261,
+    "end": 16268,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 16318,
+    "end": 16325,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 16890,
+    "end": 16897,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 16999,
+    "end": 17006,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 17080,
+    "end": 17087,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 17184,
+    "end": 17191,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 17316,
+    "end": 17323,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 17484,
+    "end": 17491,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 17761,
+    "end": 17768,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 17903,
+    "end": 17910,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 18848,
+    "end": 18855,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 18963,
+    "end": 18970,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 19167,
+    "end": 19174,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 19362,
+    "end": 19369,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 19504,
+    "end": 19511,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.646
+      }
+    ],
+    "start": 19603,
+    "end": 19614,
+    "found_term": "Jesusknaben"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 19696,
+    "end": 19703,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 19801,
+    "end": 19808,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 19885,
+    "end": 19892,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 20281,
+    "end": 20288,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 20653,
+    "end": 20660,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 20710,
+    "end": 20717,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 20788,
+    "end": 20795,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 20898,
+    "end": 20905,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 20994,
+    "end": 21001,
+    "found_term": "Madonna"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1122,
+    "end": 1127,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6
+      }
+    ],
+    "start": 7598,
+    "end": 7610,
+    "found_term": "Chorschranke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6
+      }
+    ],
+    "start": 9770,
+    "end": 9782,
+    "found_term": "Chorschranke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7036
+      }
+    ],
+    "start": 11931,
+    "end": 11940,
+    "found_term": "Kunstwerk"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7036
+      }
+    ],
+    "start": 15164,
+    "end": 15173,
+    "found_term": "Kunstwerk"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 16427,
+    "end": 16436,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7036
+      }
+    ],
+    "start": 20305,
+    "end": 20314,
+    "found_term": "Kunstwerk"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006891,
+        "wd_id": "Q23413",
+        "search_term": "Burg",
+        "confidence": 0.6108
+      },
+      {
+        "aat_id": 300006888,
+        "wd_id": "Q57821",
+        "search_term": "Befestigung",
+        "confidence": 0.6077
+      }
+    ],
+    "start": 2608,
+    "end": 2615,
+    "found_term": "Festung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.626
+      },
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6048
+      }
+    ],
+    "start": 1345,
+    "end": 1352,
+    "found_term": "geweiht"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6708
+      }
+    ],
+    "start": 1913,
+    "end": 1924,
+    "found_term": "Renovierung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004044,
+        "wd_id": "Q180516",
+        "search_term": "Zimmer",
+        "confidence": 0.7088
+      }
+    ],
+    "start": 12086,
+    "end": 12093,
+    "found_term": "Wohnung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 542,
+    "end": 550,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 1380,
+    "end": 1388,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6281
+      }
+    ],
+    "start": 1583,
+    "end": 1588,
+    "found_term": "Della"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6095
+      }
+    ],
+    "start": 1589,
+    "end": 1595,
+    "found_term": "Rovere"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 1792,
+    "end": 1800,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 3188,
+    "end": 3196,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 5030,
+    "end": 5038,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 8982,
+    "end": 8990,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 10815,
+    "end": 10823,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 11499,
+    "end": 11507,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 12719,
+    "end": 12727,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 13156,
+    "end": 13164,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6299
+      }
+    ],
+    "start": 13609,
+    "end": 13615,
+    "found_term": "Vicolo"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 13895,
+    "end": 13903,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 14145,
+    "end": 14153,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 14868,
+    "end": 14876,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 15117,
+    "end": 15125,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 15571,
+    "end": 15579,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 15774,
+    "end": 15782,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 15905,
+    "end": 15913,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 17658,
+    "end": 17666,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 17881,
+    "end": 17889,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 18785,
+    "end": 18793,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 19289,
+    "end": 19297,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 19483,
+    "end": 19491,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 19780,
+    "end": 19788,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6062
+      }
+    ],
+    "start": 20258,
+    "end": 20266,
+    "found_term": "Raffaels"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6963
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.639
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6021
+      }
+    ],
+    "start": 4689,
+    "end": 4697,
+    "found_term": "Rückwand"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6277
+      }
+    ],
+    "start": 1213,
+    "end": 1222,
+    "found_term": "Reliquien"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 1311,
+    "end": 1319,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 1496,
+    "end": 1504,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 4213,
+    "end": 4221,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 4383,
+    "end": 4390,
+    "found_term": "heilige"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 4577,
+    "end": 4584,
+    "found_term": "heilige"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6463
+      }
+    ],
+    "start": 5084,
+    "end": 5086,
+    "found_term": "hl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6463
+      }
+    ],
+    "start": 5180,
+    "end": 5182,
+    "found_term": "hl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.6463
+      }
+    ],
+    "start": 5285,
+    "end": 5287,
+    "found_term": "hl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 5408,
+    "end": 5416,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 5502,
+    "end": 5510,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 5548,
+    "end": 5556,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 8773,
+    "end": 8781,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 10341,
+    "end": 10349,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 17328,
+    "end": 17336,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6081
+      }
+    ],
+    "start": 4230,
+    "end": 4239,
+    "found_term": "flankiert"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.646
+      }
+    ],
+    "start": 6738,
+    "end": 6744,
+    "found_term": "Putten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6156
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 1.0
+      }
+    ],
+    "start": 5275,
+    "end": 5280,
+    "found_term": "Figur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6582
+      }
+    ],
+    "start": 1337,
+    "end": 1344,
+    "found_term": "Kloster"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6372
+      }
+    ],
+    "start": 1871,
+    "end": 1877,
+    "found_term": "Mönche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6179
+      }
+    ],
+    "start": 1931,
+    "end": 1939,
+    "found_term": "Klosters"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6582
+      }
+    ],
+    "start": 2430,
+    "end": 2437,
+    "found_term": "Kloster"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6372
+      }
+    ],
+    "start": 4796,
+    "end": 4802,
+    "found_term": "Mönche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.8095
+      }
+    ],
+    "start": 4250,
+    "end": 4257,
+    "found_term": "Figuren"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.8095
+      }
+    ],
+    "start": 4863,
+    "end": 4870,
+    "found_term": "Figuren"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.8095
+      }
+    ],
+    "start": 8425,
+    "end": 8432,
+    "found_term": "Figuren"
+  }
+]

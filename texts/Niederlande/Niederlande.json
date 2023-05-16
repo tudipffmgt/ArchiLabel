@@ -1,0 +1,1732 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1251403",
+        "search_term": "Gasse",
+        "confidence": 0.6207
+      }
+    ],
+    "start": 64329,
+    "end": 64335,
+    "found_term": "Straße"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6481
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6353
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6056
+      }
+    ],
+    "start": 14701,
+    "end": 14709,
+    "found_term": "Basilika"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 15952,
+    "end": 15958,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 16757,
+    "end": 16763,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6663
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6254
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6384
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6111
+      }
+    ],
+    "start": 16842,
+    "end": 16850,
+    "found_term": "Urkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 16975,
+    "end": 16981,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 17021,
+    "end": 17027,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 17666,
+    "end": 17672,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 18291,
+    "end": 18297,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.6268
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6008
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7111
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.7548
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.7593
+      }
+    ],
+    "start": 19331,
+    "end": 19337,
+    "found_term": "Kirche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005734,
+        "wd_id": "Q16560",
+        "search_term": "Palast",
+        "confidence": 0.6196
+      }
+    ],
+    "start": 50130,
+    "end": 50144,
+    "found_term": "Friedenspalast"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 4141,
+    "end": 4147,
+    "found_term": "Hauses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 4472,
+    "end": 4476,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 28924,
+    "end": 28928,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 28973,
+    "end": 28977,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 29344,
+    "end": 29348,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 29398,
+    "end": 29402,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 29456,
+    "end": 29460,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 29503,
+    "end": 29507,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 29566,
+    "end": 29570,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 34910,
+    "end": 34914,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6104
+      }
+    ],
+    "start": 36133,
+    "end": 36137,
+    "found_term": "Haus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005433,
+        "wd_id": "Q3947",
+        "search_term": "Haus",
+        "confidence": 0.6104
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.7553
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6247
+      },
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6486
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.62
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6045
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6404
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.8091
+      }
+    ],
+    "start": 77899,
+    "end": 77906,
+    "found_term": "Gebäude"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1180262",
+        "search_term": "Residenzstadt",
+        "confidence": 0.6023
+      }
+    ],
+    "start": 1166,
+    "end": 1176,
+    "found_term": "Hauptstadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1180262",
+        "search_term": "Residenzstadt",
+        "confidence": 0.6023
+      }
+    ],
+    "start": 2985,
+    "end": 2995,
+    "found_term": "Hauptstadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1180262",
+        "search_term": "Residenzstadt",
+        "confidence": 0.6023
+      }
+    ],
+    "start": 3023,
+    "end": 3033,
+    "found_term": "Hauptstadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1180262",
+        "search_term": "Residenzstadt",
+        "confidence": 0.6023
+      }
+    ],
+    "start": 3931,
+    "end": 3941,
+    "found_term": "Hauptstadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1180262",
+        "search_term": "Residenzstadt",
+        "confidence": 0.6023
+      }
+    ],
+    "start": 6692,
+    "end": 6702,
+    "found_term": "Hauptstadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 76299,
+    "end": 76310,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 76427,
+    "end": 76438,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 76519,
+    "end": 76530,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 76971,
+    "end": 76982,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 77669,
+    "end": 77680,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 77951,
+    "end": 77962,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 1.0
+      }
+    ],
+    "start": 24487,
+    "end": 24492,
+    "found_term": "Basis"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 56502,
+    "end": 56511,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 0.6318
+      }
+    ],
+    "start": 19844,
+    "end": 19851,
+    "found_term": "Plätzen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28191,
+    "end": 28196,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28229,
+    "end": 28234,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28274,
+    "end": 28279,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28318,
+    "end": 28323,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28353,
+    "end": 28358,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28405,
+    "end": 28410,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28489,
+    "end": 28494,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28527,
+    "end": 28532,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28563,
+    "end": 28568,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 56869,
+    "end": 56874,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 59070,
+    "end": 59075,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 59176,
+    "end": 59181,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 60189,
+    "end": 60194,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 0.6727
+      }
+    ],
+    "start": 63997,
+    "end": 64004,
+    "found_term": "belegte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 64032,
+    "end": 64037,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 65466,
+    "end": 65471,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 79439,
+    "end": 79444,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 82587,
+    "end": 82592,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008304,
+        "wd_id": "Q174782",
+        "search_term": "Platz",
+        "confidence": 1.0
+      }
+    ],
+    "start": 82625,
+    "end": 82630,
+    "found_term": "Platz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6174
+      },
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6785
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.633
+      }
+    ],
+    "start": 15001,
+    "end": 15011,
+    "found_term": "abgerissen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6363
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.7669
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.7032
+      }
+    ],
+    "start": 60844,
+    "end": 60852,
+    "found_term": "Gebäuden"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 1.0
+      }
+    ],
+    "start": 67203,
+    "end": 67208,
+    "found_term": "Küche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 1.0
+      }
+    ],
+    "start": 67241,
+    "end": 67246,
+    "found_term": "Küche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 1.0
+      }
+    ],
+    "start": 67343,
+    "end": 67348,
+    "found_term": "Küche"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.6023
+      }
+    ],
+    "start": 67567,
+    "end": 67572,
+    "found_term": "Soßen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.6008
+      }
+    ],
+    "start": 67695,
+    "end": 67708,
+    "found_term": "Spezialitäten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 67900,
+    "end": 67912,
+    "found_term": "kulinarische"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.686
+      }
+    ],
+    "start": 68258,
+    "end": 68269,
+    "found_term": "Zubereitung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007117,
+        "wd_id": "Q24354",
+        "search_term": "Theatergebäude",
+        "confidence": 0.6253
+      }
+    ],
+    "start": 70078,
+    "end": 70089,
+    "found_term": "Konzerthaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6115
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6105
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6871
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6202
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6069
+      }
+    ],
+    "start": 70380,
+    "end": 70387,
+    "found_term": "barocke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.7255
+      }
+    ],
+    "start": 10177,
+    "end": 10183,
+    "found_term": "Städte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 10294,
+    "end": 10299,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.7255
+      }
+    ],
+    "start": 10738,
+    "end": 10744,
+    "found_term": "Städte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.7255
+      }
+    ],
+    "start": 30502,
+    "end": 30508,
+    "found_term": "Städte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.6738
+      }
+    ],
+    "start": 52582,
+    "end": 52589,
+    "found_term": "Städten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 57049,
+    "end": 57054,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.7255
+      }
+    ],
+    "start": 65538,
+    "end": 65544,
+    "found_term": "Städte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 78728,
+    "end": 78733,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1137365",
+        "search_term": "Eingang",
+        "confidence": 1.0
+      }
+    ],
+    "start": 26731,
+    "end": 26738,
+    "found_term": "Eingang"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.608
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6692
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.7042
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6404
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 1.0
+      }
+    ],
+    "start": 14979,
+    "end": 14993,
+    "found_term": "Kirchengebäude"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 64412,
+    "end": 64419,
+    "found_term": "Brücken"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.6912
+      }
+    ],
+    "start": 64517,
+    "end": 64528,
+    "found_term": "Drehbrücken"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7961
+      }
+    ],
+    "start": 8246,
+    "end": 8252,
+    "found_term": "Flüsse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7961
+      }
+    ],
+    "start": 8302,
+    "end": 8308,
+    "found_term": "Flüsse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 8482,
+    "end": 8492,
+    "found_term": "Grenzfluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7961
+      }
+    ],
+    "start": 8736,
+    "end": 8742,
+    "found_term": "Flüsse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7961
+      }
+    ],
+    "start": 8789,
+    "end": 8795,
+    "found_term": "Flüsse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6659
+      }
+    ],
+    "start": 8871,
+    "end": 8877,
+    "found_term": "fließt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7961
+      }
+    ],
+    "start": 8967,
+    "end": 8973,
+    "found_term": "Flüsse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 1.0
+      }
+    ],
+    "start": 9710,
+    "end": 9715,
+    "found_term": "Fluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7961
+      }
+    ],
+    "start": 64665,
+    "end": 64671,
+    "found_term": "Flüsse"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 1815,
+    "end": 1823,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 5582,
+    "end": 5590,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 29905,
+    "end": 29913,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1979154",
+        "search_term": "Modell",
+        "confidence": 1.0
+      }
+    ],
+    "start": 42434,
+    "end": 42440,
+    "found_term": "Modell"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6052
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6254
+      }
+    ],
+    "start": 32206,
+    "end": 32215,
+    "found_term": "errichtet"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6052
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6254
+      }
+    ],
+    "start": 80860,
+    "end": 80869,
+    "found_term": "errichtet"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6135
+      }
+    ],
+    "start": 6844,
+    "end": 6854,
+    "found_term": "errichtete"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1623285",
+        "search_term": "Hofstelle",
+        "confidence": 0.601
+      }
+    ],
+    "start": 76390,
+    "end": 76395,
+    "found_term": "Mühle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1431210",
+        "search_term": "Foyer",
+        "confidence": 0.6203
+      }
+    ],
+    "start": 46563,
+    "end": 46573,
+    "found_term": "Plenarsaal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6803
+      }
+    ],
+    "start": 15225,
+    "end": 15232,
+    "found_term": "Kirchen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6803
+      }
+    ],
+    "start": 17899,
+    "end": 17906,
+    "found_term": "Kirchen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6803
+      }
+    ],
+    "start": 18430,
+    "end": 18437,
+    "found_term": "Kirchen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6803
+      }
+    ],
+    "start": 19233,
+    "end": 19240,
+    "found_term": "Kirchen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6803
+      }
+    ],
+    "start": 41292,
+    "end": 41299,
+    "found_term": "Kirchen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6087
+      }
+    ],
+    "start": 25773,
+    "end": 25777,
+    "found_term": "Dach"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300076641,
+        "wd_id": "Q854429",
+        "search_term": "Portal",
+        "confidence": 1.0
+      }
+    ],
+    "start": 84454,
+    "end": 84460,
+    "found_term": "Portal"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6747
+      }
+    ],
+    "start": 76400,
+    "end": 76406,
+    "found_term": "Häuser"
+  }
+]

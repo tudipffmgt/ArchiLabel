@@ -1,0 +1,250 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300005734,
+        "wd_id": "Q16560",
+        "search_term": "Palast",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6001
+      }
+    ],
+    "start": 502,
+    "end": 508,
+    "found_term": "Palast"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 1256,
+    "end": 1262,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6133
+      },
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6679
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6913
+      }
+    ],
+    "start": 1587,
+    "end": 1595,
+    "found_term": "Skulptur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6134
+      }
+    ],
+    "start": 1665,
+    "end": 1674,
+    "found_term": "figuraler"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6345
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6259
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6037
+      }
+    ],
+    "start": 2729,
+    "end": 2743,
+    "found_term": "Figurengruppen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6413
+      }
+    ],
+    "start": 1675,
+    "end": 1682,
+    "found_term": "Schmuck"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 2612,
+    "end": 2621,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047230,
+        "wd_id": "Q245117",
+        "search_term": "Relief",
+        "confidence": 1.0
+      }
+    ],
+    "start": 52,
+    "end": 58,
+    "found_term": "Relief"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6595
+      }
+    ],
+    "start": 2859,
+    "end": 2863,
+    "found_term": "Ufer"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6053
+      }
+    ],
+    "start": 95,
+    "end": 102,
+    "found_term": "Nereide"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 1.0
+      }
+    ],
+    "start": 125,
+    "end": 131,
+    "found_term": "Nymphe"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 412,
+    "end": 422,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 2779,
+    "end": 2786,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.7875
+      }
+    ],
+    "start": 1616,
+    "end": 1631,
+    "found_term": "Tritonenbrunnen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.8356
+      }
+    ],
+    "start": 1687,
+    "end": 1694,
+    "found_term": "Brunnen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6156
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1490,
+    "end": 1495,
+    "found_term": "Figur"
+  }
+]

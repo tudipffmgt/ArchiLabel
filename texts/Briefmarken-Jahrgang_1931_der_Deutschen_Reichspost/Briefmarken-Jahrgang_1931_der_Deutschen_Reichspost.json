@@ -1,0 +1,100 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 2109,
+    "end": 2116,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 2271,
+    "end": 2278,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 3996,
+    "end": 4001,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1412205",
+        "search_term": "Zeughaus",
+        "confidence": 0.6095
+      },
+      {
+        "aat_id": 300006054,
+        "wd_id": "Q543654",
+        "search_term": "Rathaus",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2190,
+    "end": 2197,
+    "found_term": "Rathaus"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.722
+      }
+    ],
+    "start": 2088,
+    "end": 2096,
+    "found_term": "Bauwerke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.722
+      }
+    ],
+    "start": 3054,
+    "end": 3062,
+    "found_term": "Bauwerke"
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6242
+      },
+      {
+        "wd_id": "Q1789892",
+        "search_term": "Kronentor",
+        "confidence": 1.0
+      }
+    ],
+    "start": 17,
+    "end": 26,
+    "found_term": "Kronentor"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6242
+      },
+      {
+        "wd_id": "Q1789892",
+        "search_term": "Kronentor",
+        "confidence": 1.0
+      }
+    ],
+    "start": 68,
+    "end": 77,
+    "found_term": "Kronentor"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6242
+      },
+      {
+        "wd_id": "Q1789892",
+        "search_term": "Kronentor",
+        "confidence": 1.0
+      }
+    ],
+    "start": 216,
+    "end": 225,
+    "found_term": "Kronentor"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 1608,
+    "end": 1615,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 1728,
+    "end": 1735,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6424
+      }
+    ],
+    "start": 1158,
+    "end": 1169,
+    "found_term": "Gartenkunst"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.7114
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.8121
+      }
+    ],
+    "start": 1774,
+    "end": 1781,
+    "found_term": "Plastik"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6484
+      },
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6218
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6183
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.643
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6032
+      }
+    ],
+    "start": 1790,
+    "end": 1803,
+    "found_term": "Deckenmalerei"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6372
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.638
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.644
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6899
+      }
+    ],
+    "start": 335,
+    "end": 345,
+    "found_term": "geschmückt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6071
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6315
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6348
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6152
+      }
+    ],
+    "start": 1249,
+    "end": 1262,
+    "found_term": "Zwischendecke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6359
+      },
+      {
+        "aat_id": 300004044,
+        "wd_id": "Q180516",
+        "search_term": "Zimmer",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1405,
+    "end": 1411,
+    "found_term": "Zimmer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6337
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6335
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6319
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6337
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6622
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6054
+      }
+    ],
+    "start": 1493,
+    "end": 1506,
+    "found_term": "Deckengemälde"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 117,
+    "end": 123,
+    "found_term": "Fresko"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 271,
+    "end": 277,
+    "found_term": "Fresko"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6128
+      }
+    ],
+    "start": 108,
+    "end": 116,
+    "found_term": "barockes"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.8668
+      }
+    ],
+    "start": 91,
+    "end": 99,
+    "found_term": "Zwingers"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.8668
+      }
+    ],
+    "start": 1416,
+    "end": 1424,
+    "found_term": "Zwingers"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 501,
+    "end": 508,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 576,
+    "end": 583,
+    "found_term": "Nymphen"
+  }
+]

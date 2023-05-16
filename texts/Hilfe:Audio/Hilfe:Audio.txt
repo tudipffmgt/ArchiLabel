@@ -1,0 +1,157 @@
+
+Hilfe:Audio
+
+
+Hilfe
+
+Navigation
+Benutzerkonto
+Bearbeiten
+Wikisyntax
+Seitenverwaltung
+Bausteine
+Bild und Ton
+Einsteigertutorial
+Hochladen
+Bilder einbinden
+Galerie
+Imagemap
+Medienbetrachter
+Audio abspielen
+Video abspielen
+Dateien
+Medieneinbindung
+Wikimedia Commons
+Diagramme und Karten
+Karten
+Kommunikation
+Technik
+
+Index – Infos von A bis Z
+Alle Hilfeseiten
+Glossar
+
+
+Verhalten im Notfall
+
+
+HilfeBild und Ton
+Audio
+
+In der Wikipedia finden sich neben Texten und Bildern auch Audio- und Videodaten, die im Containerformat Ogg oder als MIDI-Steuerdaten vorliegen. Letzteres sollte tunlichst vermieden werden, weil sie die Barrierefreiheit unterlaufen und Zusatzsoftware erfordern. VLC kann damit nichts anfangen. Diese Seite erklärt, wie man mit den in der Wikipedia angebotenen Audio-Daten umgehen kann. Für Video-Daten siehe Hilfe:Video.
+Abspielen der Audio-Dateien
+Direktes Abspielen im Browser
+Mozilla Firefox unterstützt ab Version 3.5 das HTML5-Element <audio> und kann Ogg-Vorbis-Audiodateien direkt im Browser ohne Plugins abspielen. Allerdings ist aus Sicherheits- und urheberrechtlichen Gründen die Verwendung dieses Elements in einer Wiki-Seite unterbunden; es können nur Dateien aus einem Wiki-Projekt mittels [<nowiki />[Datei:…]] zum Abspielen eingebunden werden.
+Java-Applet: Die Audio-Dateien können durch einen Klick auf das blaue Dreieck direkt abgespielt werden. Dazu muss lediglich die Java-Laufzeitumgebung auf dem Rechner vorhanden sein. Separate Abspielprogramme sind nicht notwendig.
+Beim erstmaligen Aufruf der Funktion pro PC entsteht eine kleine Wartezeit, da erst ein JavaScript geladen werden muss.
+Externe Programme
+Man kann sich die Datei auch lokal auf seinem Computer abspeichern. Zum Anhören muss dann jedoch ein Programm installiert sein, das das Dateiformat der Audio-Datei unterstützt. Dies sind in der Wikipedia, wie schon erwähnt, Dateien in den Formaten MIDI und Ogg Vorbis. Das Abspielen von MIDI stellt meist – außer auf Mac OS – kein Problem dar, bei Ogg Vorbis ist unter Windows oder Mac OS bestimmte Software oder ein Plug-in nötig, das ebenfalls Ogg-Vorbis-Dateien wiedergeben kann. Im Folgenden ist eine Auswahl gegeben:
+Java-Laufzeitumgebung (plattformunabhängig): aTunes, JOrbisPlayer
+Windows: Coolplayer (FLOSS), foobar2000, IrfanView (u. U. Plugin nötig), VLC media player, Zinf, Quintessential Player, Windows Media Player mit Plugin (englische Website), Realplayer-Plugin (experimentell), QuickTime-Plugin, Winamp, jetAudio, musikcube, MediaMonkey, Audacity, AIMP
+macOS:
+Ogg-Vorbis-Dateien: VLC media player, QuickTime-Plugin
+MIDI-Dateien: MuseScore, Timidity++, QuickTime 7. Im Browser können keine MIDI-Dateien abgespielt werden, seit mit Mac OS X 10.8 QuickTime kein MIDI mehr unterstützt. VLC für Mac unterstützt ebenfalls kein MIDI .
+Unix / Linux: Amarok, Audacious, Banshee, Beep Media Player, Exaile, MPlayer, Ogg123, Quod Libet, Rhythmbox, VLC media player, XMMS, Zinf
+PalmOS: TCPMP, The Magic Lantern
+Windows CE / Windows Mobile: TCPMP, MortPlayer, VLC Media Player
+Einbinden in Wikipedia-Artikel
+Auf Wikimedia Commons vorhandene Audiodateien im Ogg-Format können direkt in Artikel eingebunden werden. Vorlagen und weitere Informationen zum Einbinden von Audiodateien in Wikipedia-Artikel gibt es auch unter Wikipedia:Textbausteine/Multimedia.
+
+
+Beispiel mit Syntax
+
+Einfache Standard-Formatierung rechts- oder linksbündig
+
+[[Datei:Beethoven_concerto4_2.ogg|mini|Klavierkonzert von Beethoven]]
+Klavierkonzert von Beethoven
+
+[[Datei:Beethoven_concerto4_2.ogg|mini|links|Klavierkonzert von Beethoven]]
+Klavierkonzert von Beethoven
+
+Audioeinbindung links ausgerichtet, Anzeigenbreite 125px und ohne Legende (mini)
+
+[[Datei:Beethoven_concerto4_2.ogg|links|125px]]
+[1]
+
+[[Datei:Beethoven_concerto4_2.ogg|links|125px]]
+Textsegment
+[[Datei:Beethoven_concerto4_2.ogg|links|125px]]
+
+
+Textsegment
+[1]
+
+Anzeigenbreite verstellen, um nur ein Play-Icon anzuzeigen
+
+Hier klicken [[Datei:Beethoven_concerto4_2.ogg|40px]] Textsegment
+Hier klicken  Textsegment[2]
+
+Anzeigenbreite verstellen, um das komplette Menü mit Schieberegler anzuzeigen (ab 240px)
+
+[[Datei:Beethoven_concerto4_2.ogg|400px]]
+[2]
+
+Mehrere Einbindungen hintereinander ohne weitere Angaben
+
+[[Datei:Beethoven_concerto4_2.ogg]] [[Datei:Beethoven_concerto4_2.ogg]]
+ [3]
+
+
+
+Alternative Einbindung durch Vorlagen
+
+Einbindung über {{AudioSymbol}}
+
+{{AudioSymbol|tooltip=Klavierkonzert von Beethoven|verweis=Beethoven_concerto4_2.ogg}}
+[4]
+
+Einbindung über die {{Audio}}
+
+Fließtext {{Audio|Beethoven_concerto4_2.ogg|Klavierkonzert von Beethoven}} Fließtext
+Fließtext  Klavierkonzert von Beethoven?/i Fließtext
+
+Einbindung über die {{Bild mit Audio}}
+
+{{Bild mit Audio
+ | Audio = Beethoven_concerto4_2.ogg
+ | Bild = Klavier Bogs und Voigt 05small.JPG
+ | Beschreibung = Klavierkonzert von [[Ludwig van Beethoven|Beethoven]]
+}}
+
+
+
+
+
+
+
+
+Klavierkonzert von Beethoven
+
+Veraltete Parameter
+Die Software TimedMediaHandler, die zum Abspielen verwendet wird bzw. wurde, verwendete noch drei weitere Parameter:
+noicon – mittlerweile funktionslos
+noplayer – mittlerweile funktionslos und nicht mehr im ANR vorhanden
+disablecontrols  – nicht mehr empfohlen, vermutlich zukünftig ebenfalls wirkungslos.
+Erstellen von Audiodateien
+Zulässige Audio-Formate und geeignete Programme
+Das übliche Dateiformat für alle Arten von Audio-Dateien in der Wikipedia ist das Containerformat Ogg. Außerdem ist das MIDI-Format möglich, eine Art digitaler Notensatz zum Ansteuern von Keyboards, PC-Soundkarten usw.
+Dies hat den Grund, dass diese im Gegensatz zu vielen anderen verbreiteten Formaten (WMA, AAC usw.) vollständig offengelegt und frei nutzbar sind: Für ihre Nutzung muss die Wikipedia keine Lizenz- oder Patentkosten zahlen. Auch ist ein Nutzer nicht an ein bestimmtes Betriebssystem oder an die Software einer bestimmten Firma gebunden.
+Zu beachten ist bei Ogg, dass die enthaltenen Audio-Daten je nach Qualitätsanspruch mit verschiedenen Codecs komprimiert werden können: dabei ist Vorbis für allgemeine Fälle, Speex für Sprach-Aufnahmen, und FLAC für verlustfreie Aufnahmen gedacht. Siehe hierzu auch die Richtlinien-Seite Commons:File types auf Wikimedia Commons.
+Hilfsmittel zur Erzeugung von Ogg-Vorbis-Dateien:
+Audacity ist ein Open-Source-Tonbearbeitungsprogramm für Windows, Linux, Mac und Unix. Es kann Tondateien unterschiedlicher Formate abspielen, bearbeiten oder aufnehmen. Zum Erzeugen von Ogg-Dateien wird zusätzlich ein Kodierprogramm benötigt, bitte konsultiere dafür beispielsweise die Audacity-Hilfe.
+Ein minimalistischer Kodierer ist Oggdrop[5] (nur für Windows verfügbar).
+Lizenz und Hochladen
+Alle Audio-Dateien müssen unter einer freien Lizenz wie der GFDL oder Creative Commons stehen (siehe Wikipedia:Urheberrechte beachten). Dateien, die nicht den Lizenzbestimmungen genügen oder unzureichende Quellangaben haben, werden gelöscht.
+Dateien sollten möglichst auf dem zentralen Medien-Repository Wikimedia Commons hochgeladen werden. Es ist dort möglich, Audiodateien bis zu 100 MB hochzuladen, was bei gesprochenem Text in etwa der Dauer von 2,5 Stunden bei guter Qualität entspricht.
+Downloads
+www.mutopiaproject.org – Quelle für PD-Musik
+Weitere Informationen
+Hilfe:Medieneinbindung – Wikisyntax
+Hilfe:Notensatz – Darstellung musikalischer Notation
+Wikipedia:Technik/Medien – Liste externer Software
+meta:Multimedia – allgemeine Diskussionen zu Multimedia (englisch)
+Portal „Gesprochene Wikipedia“
+Anmerkungen
+1 2  Nachteil, die Abspielleiste rutscht nach oben und überschneidet sich mit dem Rand einer Tabelle oder Texte können verschoben angezeigt werden1 2  Nachteil, die Abspielleiste rutscht automatisch in die nächste Zeile, nachfolgender Text wird ebenfalls umgebrochen↑  Nachteil, die Elemente werden umgebrochen und überlagern sich↑  Nachteil, die Datei lässt sich nicht direkt im Artikel abspielen.↑  Download-Seite für OggdropXPd
+
+

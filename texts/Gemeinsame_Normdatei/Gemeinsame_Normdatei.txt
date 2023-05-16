@@ -1,0 +1,365 @@
+
+Gemeinsame Normdatei
+
+
+GND ist eine Weiterleitung auf diesen Artikel. Weitere Bedeutungen sind unter GND (Begriffsklärung) aufgeführt.
+
+
+Die Gemeinsame Normdatei (GND) ist eine Normdatei für Personen, Körperschaften, Kongresse, Geografika, Sachschlagwörter und Werktitel, die vor allem zur Katalogisierung von Literatur in Bibliotheken dient, zunehmend aber auch von Archiven, Museen, Projekten und in Web-Anwendungen genutzt wird. Sie wird von der Deutschen Nationalbibliothek (DNB), allen deutschsprachigen Bibliotheksverbünden, der Zeitschriftendatenbank (ZDB) und zahlreichen weiteren Institutionen kooperativ geführt. Normdaten erleichtern die Katalogisierung, bieten eindeutige Sucheinstiege und die Möglichkeit der Vernetzung unterschiedlicher Informationsressourcen.
+Die GND löste am 19. April 2012 die bis dahin getrennt geführten Verzeichnisse Personennamendatei (PND), Gemeinsame Körperschaftsdatei (GKD), Schlagwortnormdatei (SWD) und Einheitssachtitel-Datei des Deutschen Musikarchivs (DMA-EST) ab. Seit Juli 2014 werden die Normdaten nach den RDA-Regeln erfasst, die unter anderem auch von der Library of Congress verwendet werden.[1]
+Grundlagen
+Beispiel Personendaten (Screenshot, Mai 2012)
+Die Gemeinsame Normdatei wurde von 2009 bis 2012 in einem gemeinsamen Projekt der Deutschen Nationalbibliothek, der deutschsprachigen Bibliotheksverbünde sowie der Zeitschriftendatenbank entwickelt. Ziel des Projekts war die Zusammenführung der bisher getrennt geführten Normdateien GKD, PND und SWD sowie der DMA-EST-Datei. Dabei sollten ein gemeinsames Datenformat realisiert und die vorhandenen Regelwerksunterschiede harmonisiert werden.
+Der Erstellung von Normdatensätzen lagen früher unterschiedliche Regelwerke zugrunde. Dies waren die „Regeln für die alphabetische Katalogisierung“ (RAK-WB und RAK-Musik) für die Formalerschließung sowie die „Regeln für den Schlagwortkatalog“ (RSWK) für die Inhaltserschließung. Die uneinheitlichen Regeln zur Bildung der Vorzugsbenennung für die Formal- und Inhaltserschließung führten insbesondere im Bereich Körperschaften, Kongresse und Geografika zu redundanten Datensätzen in der GKD und der SWD. Daher wurden für die GND für die Fälle, in denen die Regeln der Formal- und Inhaltserschließung voneinander abweichen, Übergangsregeln erarbeitet, die eine gemeinsame Nutzung der Normdatensätze ermöglichen. Die Übergangsregeln berücksichtigten so weit wie möglich bereits die Regelungen der RDA (Resource Description and Access).
+Auch die Datenformate der Normdateien, sowohl die Internformate als auch die Austauschformate, unterschieden sich teilweise beträchtlich. Das Austauschformat der GND basiert auf MARC 21 Authority. Durch die Zusammenführung aller Normdatensätze in der GND konnten die zuvor bestehenden Formatunterschiede überwunden werden. Bereits vorhandene parallele Datensätze aus den unterschiedlichen Normdateien können jedoch erst im Laufe der Zeit zusammengeführt werden.
+Im Projekt Virtual International Authority File (VIAF) wird die GND mit anderen Normdateien virtuell zu einer internationalen Normdatei verbunden.
+Inhalt
+Die Daten bestehen aus Entitäten und Aussagen zu diesen. Jede Entität hat einen Entitätstyp und mindestens einen Identifikator.
+Eigenschaften eines Datensatzes
+Jeder Datensatz beschreibt eine Entität.
+Entitätentypen
+Die hier aufgeführten Entitätentypen entsprechen in Bibliotheken sogenannten Satzarten (Datensatzart).
+In der Gemeinsamen Normdatei wird zu jeder Entitätenbeschreibung eine eindeutige Identifikationsnummer (IDN oder PPN; Grundlage für den Uniform Resource Identifier im Produktionssystem), eine normierte Vorzugsbenennung (früher auch: Ansetzungsform), abweichende Namensformen (Synonyme) und verschiedene beschreibende Attribute verzeichnet. Die Attribute werden möglichst als Relationen zu anderen Normdatensätzen abgelegt, wobei die Art der Beziehung jeweils codiert ist.[2] Beispiele für relationierte Attribute sind Geburts- und Sterbeorte von Personen sowie ihre Berufe. Für Körperschaften können u. a. Vorgänger- und Nachfolgerbeziehungen, aber auch administrative Überordnungen angegeben werden. Bei Sachbegriffen werden Oberbegriffe und verwandte Begriffe verknüpft. Dadurch kann bei der Suche in einem Bibliothekskatalog auch Literatur zu angrenzenden Themen gefunden werden. Eine reichhaltige und treffende semantische und thematische (je nach Fach auch: an der Dogmatik orientierte) Aufarbeitung der GND-Einträge zueinander kommt der Qualität des Retrievals zugute. 
+Auf diese Weise entsteht ein semantisches Netz von miteinander in Beziehung stehenden Datensätzen (Linked Data), das sich besonders für die Nutzung im Web eignet, die Navigation innerhalb der Normdatei erlaubt und somit die Recherchemöglichkeiten für Nutzer verbessert.
+Ende August 2019 wurde die Ansetzung von Tn-Sätzen für Personennamen eingestellt.[3] Ein Jahr später, ab dem 19. Juni 2020, wurden die Verknüpfungen der Tn-Sätze in den Titeldaten rückwirkend gelöscht. Grund dafür war die überwiegend schlechte Qualität der Tn-Sätze. Viele lagen nur auf einem sehr niedrigen Katalogisierungslevel vor. Oft war unklar, welcher Person ein Datensatz zuzurechnen wäre, es fehlte also an der Disambiguierung der Daten. Es gab Doubletten und fehlerhafte Verknüpfungen mit Titeldaten. Statt der Verknüpfungen gibt es in den Titeldaten nun nur noch Textstrings. Seit Juli 2020 sind die Namensdatensätze nicht mehr Bestandteil der Gemeinsamen Normdatei.[4]
+Entitätenuntertypen
+Abgesehen von Personennamen kann jede Satzart durch die Angabe eines Entitätencodes[5] in sich weiter differenziert werden. So kann ein Geografikum beispielsweise ein Staat oder ein Bauwerk sein. Insgesamt stehen sechs Entitätentypen zur Verfügung, die sich in rund 50 Untertypen gliedern.
+Entitätencodierung
+
+
+CodeDefinition[6]
+
+gGeografika
+
+gibBauwerke und Bauensembles, Monumentalplastiken, Denkmäler, Grabmäler u. ä. gemäß RSWK §730,1
+
+gif; gikGliedstaaten (sie werden immer mit „gik“ doppelt codiert)
+
+gikGebietskörperschaften und Verwaltungseinheiten
+
+gil; gikLänder, Staaten (selbstständig) (sie werden immer mit „gik“ doppelt codiert)
+
+ginNatürliche geografische Einheiten, biogeografische und paläografische Einheiten, Namen von geografischen Teileinheiten mit Himmelsrichtung bzw. mit anderen Wendungen gemäß RSWK § 205, 1 und 2
+
+gioKleinräumige Geografika innerhalb eines Ortes, ausgenommen Bauwerke und Bauensembles
+
+gir; gikGeistliche Reichsfürstentümer (bis 1803), Verwaltungseinheiten der Ostkirche (sie werden immer mit „gik“ doppelt codiert)
+
+giv; gikVerwaltungseinheiten, die gemäß der EH-G-03 einen instantiellen Oberbegriff von dem Gattungsbegriff der Verwaltungseinheit bekommen (sie werden immer mit „gik“ doppelt codiert)
+
+giwGrenzen, Wege, Linien
+
+gixEstraterrestrika
+
+gizAlle geografischen Namen, die sich keinem der anderen Entitäten-Untertypen zuordnen lassen, Regionen und Gebiete gem. RSWK § 204a, einschließlich des Umlands einzelner Städte und Gemeinden
+
+gxzFiktive Orte
+
+kKörperschaften
+
+kifFirmen (ab Januar 2016)
+
+kimMusikalische Körperschaften (ab Januar 2016)
+
+kioOrgane von Gebietskörperschaften
+
+kipProjekte und projektähnliche Vorhaben und Programme
+
+kiv; kirReligiöse Verwaltungseinheiten (z. B. Diözesen der Katholischen Kirche; Ausnahme: Verwaltungseinheiten der Ostkirche, Verwaltungseinheiten der Ostkirche werden mit „gir“ und „gik“ codiert) (sie werden immer mit „kir“ doppelt codiert) (ab Januar 2016)
+
+kizAlle übrigen Körperschaften, die keinem anderen speziellen Entitätentyp zugehören
+
+kxzFiktive Körperschaften
+
+pPersonen
+
+pifFamilien
+
+pikRegierende Fürsten, Mitglieder regierender Fürstenhäuser
+
+pipPseudonyme
+
+pisSammelpseudonyme
+
+pizPersonennamen, die keinem anderen speziellen Entitätentyp zugehören
+
+pxgGötter
+
+pxlLiterarische Gestalten, Sagengestalten
+
+pxsGeister
+
+sSachbegriffe
+
+sab; sazMusikalische Besetzung (gemäß RDA 6.15) (sie werden immer mit „saz“ doppelt codiert) (ab Januar 2016)
+
+sad; sazDatenträger (gemäß RDA 3.4.1.3 D-A-CH) (sie werden immer mit „saz“ doppelt codiert)
+
+saf; sazFormangaben zu Art des Inhalts (gemäß RDA 7.2.1.3 D-A-CH) (sie werden immer mit „saz“ doppelt codiert)
+
+sag; sazMusikalisches Genre (gemäß RDA 6.14.2.5.2 D-A-CH) (sie werden immer mit „saz“ doppelt codiert) (ab Januar 2016)
+
+sam; sazMusikalische Ausgabeform (gemäß RDA 7.20.1.3 D-A-CH) (sie werden immer mit „saz“ doppelt codiert)
+
+sazAllgemeinbegriffe, d. h. alle Sachschlagwörter, die keinem anderen speziellen Entitätentyp zugehören
+
+sieEthnografika
+
+sifVerkehrsmittel mit Individualnamen
+
+sihHistorische Einzelereignisse
+
+sipProdukte und Markennamen außer Softwareprodukte („siw“)
+
+sisSprachen
+
+siuPersonengruppen, die keine Körperschaft sind
+
+siwSoftwareprodukte
+
+sizAlle individuellen Sachverhalte, die als Sachbegriffe erfasst werden und sich keinem der anderen Entitäten-Untertypen zuordnen lassen, z. B. Wettbewerbe
+
+slzBuchstaben, Morpheme, Wörter als Gegenstand linguistischer Untersuchungen
+
+snzNomenklatur Biologie – Chemie
+
+sxzFiktive Sachbegriffe
+
+szzAlle Zweifelsfälle für alle Entitäten
+
+u
+
+uizUnkörperschaften (nur in Altdaten)
+
+vKonferenzen und Veranstaltungen
+
+vieKonferenzen, Veranstaltungen
+
+vifKonferenzfolgen bzw. -reihen, Veranstaltungsfolgen bzw. -reihen w
+
+wWerke
+
+widDruckermarken
+
+wieExpression
+
+wifFassung eines Werks der Musik (ab Juli 2014 nicht mehr verwendet)
+
+wimWerke der Musik
+
+winSammlungen
+
+wipProvenienzmerkmale
+
+wisSchriftdenkmäler
+
+witWerke
+
+Entitätsidentifikator
+Jede Entität ist über mindestens einen Identifikator (GND-ID) eindeutig identifizierbar. Jeder Identifikator besteht maximal aus den Zeichen 0 bis 9, X und einem Bindestrich. Ein Identifikator für eine Entität vom Entitätstyp p besteht aus 9 oder 10 Zeichen, er beginnt immer mit einer 1, gefolgt von 8 oder 9 Ziffern, und endet mit einem Prüfzeichen 0–9 oder X.
+Katalogisierungslevel
+Jeder Datensatz ist mit einem Katalogisierungslevel zwischen 1 und 6 verknüpft. Je niedriger die Zahl, desto höher ist der Level des GND-Eintrags und desto besser ist der Datensatz aufgearbeitet. Standard bei der Neuanlage eines Personendatensatzes ist zunächst Level 3 (Tp3).
+Ansetzung von Sachbegriffen
+Die Ansetzung der bevorzugten Benennung stützt sich grundsätzlich auf die in der „Liste der fachlichen Nachschlagewerke für die Gemeinsame Normdatei“ aufgeführten Werke.[7] Die Vorzugsbenennung von Sachbegriffen in der GND folgt  dem allgemeinen Sprachgebrauch, wie er in Enzyklopädien (Brockhaus, Meyer, hilfsweise auch Wikipedia) nachweisbar ist; ausnahmsweise wird auf Begriffe aus der Fachsprache abgestellt. Synonyme können als Varianten oder sogenannte Quasisynonyme in die Einträge aufgenommen werden. Solange es zu einem Thema nicht genügend Titel gibt, wird zunächst versucht, neue Sachverhalte durch die Kombination mehrerer bereits verfügbarer Sachbegriffe in einer Schlagwortfolge auszudrücken, um Neuansetzungen so weit wie möglich zu vermeiden (sogenannte Zerlegungskontrolle). Dadurch wird die Kontinuität zur Beschlagwortung eines Themas in der älteren Literatur gewahrt, so dass ein Bezug zu älteren Titeln hergestellt werden kann. Erst wenn die Literatur zu einem Thema einen gewissen Umfang erreicht hat, wird ein neuer Sachbegriff eingeführt. Ändert sich der Sprachgebrauch, kann die Vorzugsbenennung angepasst werden.
+Umfang
+Mengenangaben sind in den Jahresberichten der DNB und den Datenauszügen der GND[8] zu finden.
+Anzahl Entitäten nach Entitätentyp im Zeitablauf
+Die Gemeinsame Normdatei enthält rund 9,1 Mio. Datensätze folgender Entitätentypen:
+
+Entitäten in der GND: Anzahl nach Entitätentyp im Zeitablauf
+
+Entitätentyp / Datum
+Personen (individualisiert)
+Personennamen (nicht individualisiert)
+Personen und Personennamen (gesamt)
+Körperschaften
+Konferenzen und Veranstaltungen
+Geografika
+Sachbegriffe
+Werke
+gesamt
+
+Entitätencode
+p
+n
+–
+k
+v
+g
+s
+w
+–
+
+Juni 2013
+2.882.000
+4.628.000
+7.510.000
+1.172.000
+587.000
+293.000
+202.000
+193.000
+9.957.000
+
+2015[9]
+keine Angabe
+keine Angabe
+8.669.790
+1.240.852
+619.610
+289.449
+205.586
+244.480
+11.269.767
+
+2016[10]
+keine Angabe
+keine Angabe
+10.546.959
+1.498.606
+769.067
+295.027
+207.149
+287.204
+13.604.012
+
+2017[11]
+keine Angabe
+keine Angabe
+11.551.274
+1.493.823
+786.180
+300.138
+209.003
+331.310
+14.671.728
+
+2018[12]
+keine Angabe
+keine Angabe
+12.032.087
+1.487.938
+803.612
+305.543
+211.339
+367.574
+15.208.093
+
+2019[13]
+keine Angabe
+keine Angabe
+12.265.826
+1.490.830
+826.579
+310.860
+212.775
+405.899
+15.512.769
+
+Februar 2020[14]
+5.251.171
+7.046.133
+12.297.304
+1.491.072
+829.548
+311.357
+212.895
+410.736
+15.552.912
+
+Juni 2020[15]
+5.350.953
+weggefallen
+5.350.953
+1.491.358
+836.410
+313.058
+213.257
+425.718
+8.630.754
+
+2020[16]
+5.467.413
+weggefallen
+5.467.413
+1.493.057
+846.449
+315.389
+213.655
+451.414
+8.787.377
+
+2021[17]
+5.719.095
+weggefallen
+5.719.095
+1.511.016
+858.330
+319.409
+204.074
+485.878
+9.097.802
+
+
+Identifikatoren und Umlenksätze
+Stand 13. Juni 2021 gibt es 465.790 Umlenksätze, veröffentlicht im Format RDF (JSON-LD) auf open.dnb.de/opendata. Damit sind einige Datensätze über mehrere GND-Identifikatoren referenzierbar.
+
+Umlenksätze im Zeitablauf
+
+Datum
+Anzahl
+Anmerkung
+
+13.04.2021461.335
+
+13.06.2021465.790
+
+13.11.2021472.485GND, Umlenksaetze ohne Tu
+
+Tripel
+Die Dateien "authorities_lds" enthalten Stand: 13. Juni 2021 13:20 Uhr UTC in 8.920.450 Datensätzen 163.131.042 Tripel.[18]
+
+authorities_lds
+Zeitpunkt
+Datensaetze
+Tripel
+
+13.06.2021 13:20 Uhr UTC8.920.450163.131.042
+
+13.10.2021 12:20 Uhr UTC9.014.666165.639.860
+
+Nutzung und Schnittstellen
+Die Gemeinsame Normdatei wird bei der Deutschen Nationalbibliothek gehalten. Die Bibliotheksverbünde haben den GND-Grundbestand einmalig in ihre Verbundsysteme eingespielt und beziehen seitdem die Aktualisierungen der Normdatei über das OAI-Verfahren. Die GND wird nicht nur von Bibliotheken, sondern auch von Archiven (bisher v. a. von wissenschaftlichen und Literaturarchiven), Museen und Redaktionen von Nachschlagewerken bearbeitet und erweitert. Die Mitarbeit erfolgt entweder über Bibliotheksverbünde oder nach Absprache mit der Deutschen Nationalbibliothek. Die Nutzung durch staatliche und kommunale Archive läuft (Stand 2015) erst an.
+Die GND-Normdaten stehen auf der Website der DNB in den Formaten MARC 21 Authority, MARC21-xml und RDFxml entgeltfrei unter der Lizenz CC0 1.0 zur Verfügung.
+Institutionenübergreifende Integration von Normdaten
+Zusammenführung verschiedener Quellen zu Franz Beckenbauer mittels des BEACON-Formats
+Im Dezember 2012 wurde unter dem Namen Institutionenübergreifende Integration von Normdaten (IN2N) ein Kooperationsprojekt zwischen der Deutschen Nationalbibliothek (DNB) und dem Deutschen Filminstitut (DIF) gestartet. Ziel des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes ist es, Institutionen außerhalb des Bibliothekswesens bei der Nutzung der GND zu unterstützen und in die Erschließung einzubeziehen.[19] Unter anderem wurden im Rahmen des Projektes bereits die Datensätze aus filmportal.de mit den Personenartikeln aus Wikipedia abgeglichen.[20]
+Ende 2014 wurden die Normdaten des DIF in die GND eingespielt. In den Monaten davor wurden unter anderem bereits Daten des Ibero-Amerikanischen Instituts (Berlin) und der Forschungsstelle Osteuropa an der Universität Bremen in die GND übernommen. Seit dem 6. Mai 2016 können Wikipedianer, die an einer entsprechenden Schulung teilgenommen haben, über das „GND-Webformular“ Normdaten für Personen anlegen. Die dazugehörige Bibliothekskennung lautet Wikimedia Deutschland (DE-B1592).
+Literatur
+Renate Behrens-Neumann: Die Gemeinsame Normdatei (GND). Ein Projekt kommt zum Abschluss. In: Dialog mit Bibliotheken. Band 24, Heft 1, 2012, ISSN 0936-1138, S. 25–28, (PDF; 130 kB).
+Eva-Maria Gulder: Die Gemeinsame Normdatei (GND). Bayerische Staatsbibliothek München (Normdatenredaktion), September 2011, (PDF; 2,84 MB).
+Thekla Kluttig: Gemeinsame Normdatei und Archive – was soll das? In: Clemens Rehm, Monika Storm, Andrea Wettmann (Hrsg.): Nachlässe – Neue Wege der Überlieferung im Verbund. Gemeinsame Frühjahrstagung FG 1 und FG 6 für alle Fachgruppen im VdA. 7. Mai 2013, Staatsarchiv Chemnitz (= Veröffentlichungen des Sächsischen Staatsarchivs. Reihe A: Archivverzeichnisse, Editionen und Fachbeiträge. 17). Mitteldeutscher Verlag, Halle (Saale) 2014, ISBN 978-3-95462-388-4, S. 85–88.
+Barbara Pfeifer: Vom Projekt zum Einsatz. Die gemeinsame Normdatei (GND). In: Klaus-Rainer Brintzinger, Ulrich Hohoff (Hrsg.): Bibliotheken: Tore zur Welt des Wissens. 101. Deutscher Bibliothekartag in Hamburg 2012. Olms, Hildesheim u. a. 2013, ISBN 978-3-487-14888-5, S. 80–91.
+Fabian Steeg, Adrian Pohl, Pascal Christoph: lobid-gnd – Eine Schnittstelle zur Gemeinsamen Normdatei für Mensch und Maschine. In: Informationspraxis. Band 5, Nr. 1, 2019, ISSN 2297-3249, doi:10.11588/ip.2019.1.52673 (uni-heidelberg.de). 
+Brigitte Wiechmann: Die Gemeinsame Normdatei (GND). Rückblick und Ausblick. In: Dialog mit Bibliotheken. Band 24, Heft 2, 2012, S. 20–22, (PDF; 465 kB).
+Weblinks
+Homepage
+Suche über Online-GND (Dienst des Bibliotheksservice-Zentrum Baden-Württemberg)
+Informationsseite zur Gemeinsamen Normdatei (Deutsche Nationalbibliothek)
+Institutionenübergreifende Integration von Normdaten (IN2N, Deutsche Nationalbibliothek und Deutsches Filminstitut)
+Suche über DNB-Portal (Deutsche Nationalbibliothek)
+Informationsseite zur GND im DNB-Wiki
+Informationsseite zur GND im BSZ-Wiki
+Auswahl von auf der GND basierenden Datenbanken, Lexika etc. (Bernhard Ebneth, NDB)
+Wikipedia:BEACON (ermöglicht die Zusammenführung von Quellen zu einer GND)
+GND-Explorer (Beta-Version)
+lobid-gnd – Rechercheoberfläche des hbz mit Linked-Open-Data-Schnittstelle für die GND
+WebGND – veranschaulicht die Beziehungen zwischen den GND-Einträgen untereinander und mit dem Web
+GND für Kulturdaten (GND4C)
+Einzelnachweise
+↑  Renate Behrens, Christine Frodl: Erste Meilensteine im RDA-Projekt. In: Dialog mit Bibliotheken. Band 26, Heft 1, 2014, S. 25–31, hier S. 28, (PDF; 310 kB).↑  GND: Liste der Codierungen in Unterfeld $4 – alphabetisch nach Code (Memento vom 23. September 2015 im Internet Archive).↑  Die Abkürzung „Tn“ steht für Thesaurus Name und bezeichnet nicht individualisierte Namensdatensätzen. In VIAF als „undifferentiated“ gekennzeichnet.↑  „Abschaffung von Tn-Normdaten in der GND mit Auswirkung auf die Titeldaten der DNB“, 28. Mai 2020. Abrufdatum: 14. Juli 2020.↑  GND-Entitätencodierung Vergaberichtlinien (Memento vom 23. September 2015 im Internet Archive) (Stand: 21. Juni 2013).↑  „Entitätencodierung – Vergaberichtlinien“ (Stand: 15. November 2018)↑  „Liste der fachlichen Nachschlagewerke für die Gemeinsame Normdatei (GND)“ (DNB 1037142683).↑  https://data.dnb.de/opendata/↑  Deutsche Nationalbibliothek – Jahresbericht 2015, S. 49. Abgerufen am 3. Juni 2016.↑  Deutsche Nationalbibliothek – Jahresbericht 2016, S. 51. Abgerufen am 13. April 2019.↑  Deutsche Nationalbibliothek – Jahresbericht 2017, S. 51. Abgerufen am 13. April 2019.↑  Deutsche Nationalbibliothek – Jahresbericht 2018, S. 49. Abgerufen am 27. Januar 2020.↑  Deutsche Nationalbibliothek – Jahresbericht 2019, S. 49. Abgerufen am 24. Juni 2020.↑  data.dnb.de, Stand: 13. Februar 2020. Abrufdatum: 2. Juli 2020.↑  data.dnb.de, Stand: 22. Juni 2020. Abrufdatum: 15. Juli 2020.↑  Deutsche Nationalbibliothek – Jahresbericht 2020, S. 49. Abgerufen am 3. Juli 2021.↑  Deutsche Nationalbibliothek – Jahresbericht 2021, S. 49. (DNB 1257467816)↑  https://data.dnb.de/opendata/↑  IN2N (Memento vom 12. August 2015 im Internet Archive), Deutsches Filminstitut, Abfragedatum: 21. November 2013.↑  Alexander Haffner: Institutionenübergreifende Integration von Normdaten (IN2N). In: Dialog mit Bibliotheken. Band 25, Heft 2, 2013, S. 42–45, (PDF; 54 kB).
+Normdaten (Werk): GND: 7749153-1 (OGND, AKS) | VIAF: 188136221 
+
+
+
+

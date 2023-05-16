@@ -1,0 +1,2796 @@
+
+Physikalische GrößeMessschieber zur Messung der Länge
+Balkenwaage zur Messung der Masse durch Vergleich ihres Gewichts mit demjenigen von bekannten Gewichtsstücken
+Stoppuhr zur Messung der Zeit, Maßeinheit: Sekunde
+Strommesser zur Messung der Stromstärke, Maßeinheit: Ampere
+Thermometer zur Messung der Temperatur, Maßeinheit: Grad Celsius
+Eine physikalische Größe ist eine an einem Objekt der Physik quantitativ bestimmbare Eigenschaft eines Vorgangs oder Zustands. Beispiele solcher Größen sind Länge, Masse, Zeit, Stromstärke. Jeder spezielle Wert einer physikalischen Größe (Größenwert) wird als Produkt aus einem Zahlenwert (auch Maßzahl)[1] und einer Maßeinheit angegeben. Vektorielle Größen werden durch Größenwert und Richtung angegeben.[2]
+Der Begriff physikalische Größe im heutigen Verständnis wurde von Julius Wallot im Jahr 1922 eingeführt und setzte sich ab 1930 langsam durch.[3] Das führte zu einer begrifflich klaren Unterscheidung zwischen Größengleichungen, Zahlenwertgleichungen und zugeschnittenen Größengleichungen (siehe Zahlenwertgleichung).[4] Eine Größengleichung ist die mathematische Darstellung eines physikalischen Gesetzes, das Zustände eines physikalischen Systems und deren Änderungen beschreibt. Sie stellt den dabei geltenden Zusammenhang zwischen verschiedenen physikalischen Größen dar, wobei in der Regel für jede dieser Größen ein Formelzeichen steht. Größengleichungen gelten unabhängig von den gewählten Maßeinheiten.
+Diejenigen physikalischen Größen, die als Basis eines Größensystems festgelegt sind, heißen Basisgrößen.
+Grundlagen
+Ein Vergleich von zwei Dingen erfordert stets ein Kriterium, anhand dessen der Vergleich stattfindet (Tertium Comparationis). Dies muss ein Merkmal (oder Eigenschaft) sein, das beiden Dingen zu eigen ist. Als physikalische Größe bezeichnet man ein Merkmal dann, wenn dieses einen Wert besitzt, sodass das Verhältnis zweier Merkmalswerte ein reeller Zahlenfaktor (Verhältnisgröße)[5] ist. Ein Vergleich anhand einer Größe ist somit quantifizierbar. Den Vergleichsvorgang zur Bestimmung des Zahlenfaktors bezeichnet man als Messung. Die Messbarkeit eines Merkmals, d. h. die Angabe einer eindeutigen und reproduzierbaren Messvorschrift für einen Vergleich, ist gleichwertig mit der Definition einer physikalischen Größe.
+Alle Merkmale eines Objektes fallen in zwei Klassen, physikalische Größen und alle übrigen. Die Physik beschäftigt sich ausschließlich mit der erstgenannten Klasse. Sie stellt allgemeine Zusammenhänge zwischen Größenwerten auf, also Zusammenhänge, die für alle Träger dieser Größe gelten. Als Träger bezeichnet man hierbei alle Objekte, die die betrachtete Größe als Merkmal besitzen. Physikalische Zusammenhänge sind somit unabhängig von der konkreten Beschaffenheit eines Trägers.
+Die folgenden Abschnitte gehen auf einzelne Begriffe ein, die im Zusammenhang mit physikalischen Größen verwendet werden.
+Dimension
+→ Hauptartikel: Dimension (Größensystem)
+Wenn der Quotient zweier Größenwerte verschiedener physikalischer Größen eine reelle Zahl ist, dann handelt es sich um physikalische Größen gleicher Dimension. In jeder Gleichung zwischen physikalischen Größen müssen beide Seiten von gleicher Dimension sein (Dimensionsbetrachtung).
+Der Begriff Dimension ist in Verbindung mit einem Größensystem zu betrachten. Die Dimension stellt die jeweilige physikalische Größe qualitativ im Größensystem dar. Die Dimension einer abgeleiteten physikalischen Größe wird als Potenzprodukt von Dimensionen der Basisgrößen definiert. Dieses Potenzprodukt stützt sich auf die zugrundeliegenden Größengleichungen; eventuelle Zahlenfaktoren, mathematische Operationen wie Skalar- oder Vektorprodukt, Differenzialquotient, Integral, Stufe der zu den Größen gehörenden Tensoren bleiben unberücksichtigt. Auf diese Weise lässt sich eine qualitative Abhängigkeit der abgeleiteten Größe von den Basisgrößen darstellen.
+Beispiel:
+Im Internationalen Größensystem (ISQ) ist die abgeleitete physikalische Größe mechanische Arbeit als
+
+
+
+
+W
+:=
+∫
+
+
+
+F
+→
+
+
+
+⋅
+
+d
+
+
+
+
+r
+→
+
+
+
+
+
+{\displaystyle W:=\int {\vec {F}}\cdot \mathrm {d} {\vec {r}}}
+
+
+definiert. Die Dimension der mechanischen Arbeit lässt sich aus den Dimensionen der in dieser Größengleichung beteiligten Größen herleiten.
+
+
+
+
+
+d
+i
+m
+
+ 
+W
+≡
+
+d
+i
+m
+
+ 
+
+
+
+F
+→
+
+
+
+⋅
+
+d
+i
+m
+
+ 
+
+
+
+r
+→
+
+
+
+≡
+
+
+M
+L
+
+T
+
+−
+2
+
+
+
+
+⋅
+
+
+L
+
+
+≡
+
+
+M
+
+L
+
+2
+
+
+
+T
+
+−
+2
+
+
+
+
+
+
+{\displaystyle \mathrm {dim} \ W\equiv \mathrm {dim} \ {\vec {F}}\cdot \mathrm {dim} \ {\vec {r}}\equiv {\mathsf {MLT^{-2}}}\cdot {\mathsf {L}}\equiv {\mathsf {ML^{2}T^{-2}}}}
+
+
+Größenart
+Mit dem Begriff Größenart, auch Art einer Größe genannt, werden qualitative Eigenschaften physikalischer Größen einer gegebenen Dimension unterschieden. „Er wird allerdings nicht einheitlich definiert. Meist wird darunter etwas verstanden, was man aus einer physikalischen Größe erhält, wenn man von allen numerischen Faktoren absieht, aber Vektor- oder Tensorcharakter sowie Sachbezüge beibehält.“[6] Nach dem Internationalen Wörterbuch der Metrologie (VIM), 3. Auflage 2010, ist Größenart der „Aspekt, der untereinander vergleichbaren Größen gemeinsam ist“, und in einer Anmerkung heißt es: „Die Unterteilung des Oberbegriffs ‚Größe‘ nach der Größenart ist […] willkürlich“.[7] Größen gleicher Art lassen sich in sinnvoller Weise durch Addition und Subtraktion verknüpfen. Außerdem gelten für Größen gleicher Art die Ordnungsrelationen „größer“, „kleiner“ und „gleich“.
+Beispielsweise sind Breite, Höhe und Länge eines Quaders, Durchmesser eines Rohrs, Spannweite eines Vogels, Wellenlänge alles Größen der Größenart „Länge“; sie können mit der Länge eines Gliedermaßstabs verglichen werden. Ob auch noch die Niederschlagshöhe, angegeben als Volumen/Fläche, als hiermit gleichartig betrachtet wird, bleibt dem Anwender überlassen, obwohl auch sie leicht mit dem Metermaß messbar ist. Der Verbrauchsangabe bei Kraftfahrzeugen in „Liter pro 100 Kilometer“ wird man jedoch kaum die Größenart Fläche zusprechen, obwohl sie die Dimension einer Fläche hat.
+Zu diesem ambivalenten Begriff wird im Kohlrausch festgestellt: „Durch den Übergang vom CGS-System zum SI hat der Begriff Größenart an Bedeutung abgenommen. Im SI hat die Dimension eine zentrale Bedeutung.“[6]
+Größenwert
+Der Wert einer physikalischen Größe (Größenwert) ist nach allgemein verbreiteter Auffassung das Produkt aus einer Zahl und der physikalischen Einheit, die der betreffenden Größenart zugeordnet ist. Das Verhältnis von zwei Größenwerten gleichartiger Größen ist eine reelle Zahl.
+Vorsichtiger wurde dies innerhalb des deutschen Normenwerkes in der ersten Ausgabe „Schreibweise physikalischer Gleichungen“ der Norm DIN 1313 vom November 1931 dargestellt: Mit den in den physikalischen Gleichungen vorkommenden Formelzeichen kann so gerechnet werden, als ob sie die physikalischen „Größen“, d. h. benannte Zahlen bedeuteten. Sie werden dann zweckmäßigerweise als symbolische „Produkte“ aus den Zahlenwerten (Maßzahlen) und den Einheiten aufgefasst gemäß der Gleichung
+Physikalische Größe = Zahlenwert „mal“ Einheit.
+Man bezeichnet einen Unterschied um den Faktor 10 zwischen Werten derselben Größe als eine Größenordnung. 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ Größenordnungen entsprechen also einem Faktor von 
+
+
+
+
+10
+
+n
+
+
+
+
+{\displaystyle 10^{n}}
+
+.
+Es gibt eine Reihe von Größen, deren Größenwerte unveränderlich feststehen. Diese nennt man Naturkonstante, Universalkonstante oder auch physikalische Konstante (Beispiele: Lichtgeschwindigkeit im Vakuum, Elementarladung, Plancksche Konstante, Feinstrukturkonstante).
+Zahlenwert und Einheit
+Es ist zweckmäßig, das Verhältnis eines Größenwerts zu dem Wert einer gleichartigen, feststehenden und wohldefinierten Vergleichsgröße zu ermitteln. Den Vergleichsgrößenwert bezeichnet man als Maßeinheit oder kurz Einheit, das gemessene Verhältnis als Maßzahl oder Zahlenwert. Der Größenwert kann dann als Produkt aus Zahlenwert und Einheit dargestellt werden (siehe auch Abschnitt Schreibweise). Der Zahlenwert ist je nach Definition der Größe eine reelle Zahl – bei manchen Größen auf nicht negative Werte beschränkt – oder komplex; bei einigen Größen der Dimension Zahl wie z. B. manchen Quantenzahlen ist er immer ganzzahlig.
+Die Definition einer Einheit unterliegt der menschlichen Willkür. Eine Möglichkeit besteht in der Wahl eines bestimmten Objekts – eines sogenannten Normals – als Träger der Größe, dessen Größenwert als Einheit dient. Auch ein berechneter Größenwert kann gewählt werden, wofür allerdings ein geeigneter physikalischer Zusammenhang mit anderen Größenwerten bekannt sein muss (siehe auch Abschnitt Größengleichungen). Eine dritte Möglichkeit ist, den Wert einer physikalischen Konstanten als Einheit zu verwenden, sofern eine solche für die gewünschte Größe existiert.
+Theoretisch genügt es, für eine Größenart eine einzige Einheit zu definieren. Historisch bedingt hat sich aber häufig eine Vielzahl verschiedener Einheiten für die gleiche Größenart gebildet. Sie unterscheiden sich wie alle gleichartigen Größenwerte lediglich um einen reinen Zahlenfaktor.[8]
+Skalare, Vektoren und Tensoren
+→ Hauptartikel: Skalar, Vektor und Tensor
+Bestimmte physikalische Größen besitzen eine Orientierung im physikalischen Raum, der Größenwert hängt also von der Messrichtung ab. Beispielsweise ist die Geschwindigkeit eines Fahrzeugs typischerweise entlang einer Straße gerichtet; die gemessene Geschwindigkeit senkrecht zu dieser ist null – es handelt sich um eine vektorielle Größe. Die mechanische Spannung in einem Werkstück hängt stark von der betrachteten Schnittfläche ab – es gibt hier mehr als eine zu betrachtende Richtung, also ist zur Beschreibung ein Tensor (zweiter Stufe) nötig.
+Ein Tensor 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-ter Stufe lässt sich im kartesischen Koordinatensystem mit 
+
+
+
+
+3
+
+n
+
+
+
+
+{\displaystyle 3^{n}}
+
+ Elementen beschreiben und hat dabei bestimmte einfache Eigenschaften bei Koordinatentranslation bzw. -transformation. Dementsprechend kann er eine bestimmte Klasse physikalischer Größen beschreiben:[9]
+Ein Tensor 0. Stufe ist ein Skalar. Er beschreibt eine Größe, die richtungsunabhängig ist und einzig durch ihren Größenwert (als Zahl) bestimmt ist.
+Ein Tensor 1. Stufe ist durch drei Komponenten bestimmt. Jeder Vektor ist ein Tensor 1. Stufe.
+Ein Tensor 2. Stufe ist durch neun Komponenten bestimmt. Er wird meist durch eine 3×3-Matrix dargestellt. Mit „Tensor“ ohne Zusatz ist meist ein Tensor 2. Stufe gemeint.
+
+Größen verschiedener Stufen
+
+SkalarMasse; Temperatur
+
+Pseudoskalar[10]Helizität; Magnetischer Fluss
+
+VektorKraft; Verschiebung
+
+Pseudovektor[11]Drehmoment; Winkelbeschleunigung
+
+Tensor 2. StufeTrägheitstensor;[12] Verzerrungstensor[13]
+
+Tensor 3. StufePiezoelektrischer Tensor[14]
+
+Tensor 4. StufeElastizitätstensor
+
+Invarianzen
+Die Physik soll die beobachtete Natur beschreiben, unabhängig von einer speziellen mathematischen Darstellung. Daher muss eine physikalische Größe in jedem Fall unter Koordinatentransformationen invariant (unveränderlich) sein. So wie das System ihrer Größenwerte unabhängig von der Einheit ist, so sind auch die jeweiligen Richtungen unabhängig von der Wahl des Koordinatensystems.
+Tensoren haben unter Punktspiegelung ein für ihre Stufe charakteristisches Verhalten. So ändert sich eine skalarwertige Größe eines Objekts nicht, wenn man dieses Objekt an einem Punkt spiegelt. Eine vektorwertige Größe, wie etwa die Geschwindigkeit, zeigt nach der Punktspiegelung hingegen in die entgegengesetzte Richtung. Manche Größen verhalten sich zwar bei Drehung und Verschiebung wie Tensoren, weichen jedoch unter Punktspiegelung hiervon ab. Derartige Größen bezeichnet man als Pseudotensoren. Bei Pseudoskalaren ändert der Größenwert sein Vorzeichen. Bei Pseudovektoren wie etwa dem Drehimpuls dreht sich die Richtung durch eine Punktspiegelung des Objekts nicht um.
+Schreibweise
+Die folgenden Erläuterungen orientieren sich an den nationalen und internationalen Regelungen von Normungsorganisationen und Fachgesellschaften [z. B. DIN 1338, EN ISO 80000-1, Empfehlungen der International Union of Pure and Applied Physics (IUPAP)].
+Formel- und Einheitenzeichen
+Einer physikalischen Größe wird in mathematischen Gleichungen ein Schriftzeichen, das Formelzeichen zugeordnet. Dieses ist grundsätzlich willkürlich, jedoch existieren Konventionen (z. B. SI, DIN 1304, ÖNORM A 6438, ÖNORM A 6401 etc.) zur Bezeichnung bestimmter Größen. Häufig wird als Formelzeichen der Anfangsbuchstabe des lateinischen Namens einer Größe genommen. Auch Buchstaben aus dem griechischen Alphabet werden oft verwendet. Üblicherweise besteht ein Formelzeichen nur aus einem einzigen Buchstaben, der zur weiteren Unterscheidung mit einem oder mehreren Indizes versehen werden kann.
+Für Einheiten gibt es festgelegte Schriftzeichen, die Einheitenzeichen. Sie bestehen meistens aus einem oder mehreren lateinischen Buchstaben oder seltener aus einem Sonderzeichen wie z. B. einem Gradzeichen oder griechischen Buchstaben wie das Ω (großes Omega) für die Einheit Ohm. Bei Einheiten, die nach Personen benannt sind, wird der erste Buchstabe des Einheitenzeichens üblicherweise groß geschrieben.
+
+
+
+
+
+
+
+
+
+
+U
+
+
+
+=
+20
+
+
+V
+
+
+
+
+
+
+{
+U
+}
+
+
+
+
+=
+20
+
+
+
+
+
+
+[
+U
+]
+
+
+SI
+
+
+
+
+
+=
+
+V
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}U&=20\,\mathrm {V} \\\left\{U\right\}&=20\\\left[U\right]_{\text{SI}}&=\mathrm {V} \end{aligned}}}
+
+
+
+Angabe einer Spannung von 20 Volt.Oben: GrößenwertMitte: ZahlenwertUnten: Einheit
+
+Ein Größenwert wird immer als Produkt aus Zahlenwert und Einheit angegeben. Will man nur den Zahlenwert angeben, so setzt man das Formelzeichen in geschweifte Klammern. Will man nur die Einheit angeben, so setzt man das Formelzeichen in eckige Klammern. Formal lässt sich ein Größenwert also wie folgt schreiben:
+
+
+
+
+G
+=
+
+{
+G
+}
+
+
+
+[
+G
+]
+
+
+
+{\displaystyle G=\left\{G\right\}\;\left[G\right]}
+
+
+Das lässt sich am Beispiel der Atommasse gut verstehen. Die Masse 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ eines Atoms kann in atomaren Masseneinheiten gemessen werden
+
+
+
+
+m
+=
+
+A
+
+u
+
+
+
+
+u
+
+
+
+{\displaystyle m=A_{u}\;{\text{u}}}
+
+.
+
+
+
+
+
+A
+
+u
+
+
+
+
+{\displaystyle A_{u}}
+
+ ist der Zahlenwert {
+
+
+
+m
+
+
+{\displaystyle m}
+
+} und die atomare Masseneinheit 
+
+
+
+
+u
+
+
+
+{\displaystyle {\text{u}}}
+
+ die Einheit [
+
+
+
+m
+
+
+{\displaystyle m}
+
+] der physikalischen Größe 
+
+
+
+m
+
+
+{\displaystyle m}
+
+.
+Da der Zahlenwert von der gewählten Maßeinheit abhängt, ist die alleinige Darstellung des Formelzeichens in geschweiften Klammern nicht eindeutig. Deshalb ist für die Beschriftung von Tabellen und Koordinatenachsen die Darstellung „G/[G]“ (z. B. „m/kg“) oder „G in [G]“ (z. B. „m in kg“) üblich. Die Darstellung von Einheiten in eckigen Klammern (z. B. „m [kg]“) oder auch in runden Klammern (z. B. „m (kg)“) entspricht hingegen nicht der Norm DIN 1313[15] und wird in den Empfehlungen zum Einheitensystem SI nicht empfohlen.[16]
+Wenn die verwendeten Einheiten abhängig vom Einheitensystem sind, kann das Einheitensystem mit angegeben werden:
+
+
+
+
+
+
+
+
+
+
+[
+U
+]
+
+
+SI
+
+
+
+
+
+=
+
+V
+
+
+
+
+
+
+
+[
+U
+]
+
+
+CGS-ESU
+
+
+
+
+
+=
+
+S
+t
+a
+t
+V
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\left[U\right]_{\text{SI}}&=\mathrm {V} \\\left[U\right]_{\text{CGS-ESU}}&=\mathrm {StatV} \end{aligned}}}
+
+
+Formatierung
+Die Formatierung ist durch DIN 1338 geregelt. Demnach wird das Formelzeichen kursiv geschrieben, während das Einheitenzeichen mit aufrechter Schrift geschrieben wird, um es von Formelzeichen zu unterscheiden. Beispielsweise bezeichnet „m“ das Formelzeichen für die Größe „Masse“ und „m“ das Einheitenzeichen für die Maßeinheit „Meter“.
+Zwischen der Maßzahl und dem Einheitenzeichen wird ein Leerzeichen geschrieben. Eine Ausnahme von dieser Regel stellen die Gradzeichen dar, die ohne Zwischenraum direkt hinter die Maßzahl geschrieben werden („ein Winkel von 180°“), sofern keine weiteren Einheitenzeichen folgen („die Außentemperatur beträgt 23 °C“). Im Schriftsatz empfiehlt sich hierfür ein schmales Leerzeichen, das zusätzlich vor einem Zeilenumbruch geschützt werden sollte, damit Zahlenwert und Einheit nicht getrennt werden.
+In Formeln werden Vektoren häufig durch eine besondere Schreibweise gekennzeichnet. Dabei gibt es unterschiedliche Konventionen. Üblich sind Vektorpfeile über dem Buchstaben (
+
+
+
+
+
+
+a
+→
+
+
+
+
+
+{\displaystyle {\vec {a}}}
+
+), Fettdruck (
+
+
+
+
+a
+
+
+
+{\displaystyle {\boldsymbol {a}}}
+
+) oder Striche unter dem Formelzeichen (
+
+
+
+
+
+a
+_
+
+
+
+
+{\displaystyle {\underline {a}}}
+
+). Für Tensoren höherer Stufen werden Großbuchstaben in serifenloser Schrift (
+
+
+
+
+
+A
+
+
+
+
+{\displaystyle {\mathsf {A}}}
+
+), Frakturbuchstaben (
+
+
+
+
+
+A
+
+
+
+
+{\displaystyle {\mathfrak {A}}}
+
+) oder doppelte Unterstreichung (
+
+
+
+
+
+
+A
+_
+
+_
+
+
+
+
+{\displaystyle {\underline {\underline {A}}}}
+
+) verwendet. Welche Schreibweise gewählt wird, hängt auch davon ab, ob von Hand oder maschinell geschrieben wird, da sich Merkmale wie Fettdruck oder Serifen mit einer Handschrift nicht zuverlässig wiedergeben lassen.
+Es gibt von der Sprache und vom Fach abhängig unterschiedliche Traditionen zur Aufrecht- und Kursivschreibung im Zusammenhang mit Formeln. In modernerer Fachliteratur hat sich jedoch die Konvention durchgesetzt, nicht nur Größensymbole, sondern alles, was veränderlich ist, kursiv zu setzen; Einheitenzeichen, Elementsymbole, Erläuterungen usw. werden hingegen aufrecht gesetzt. Formelzeichen sowie veränderliche Indizes erscheinen also kursiv. Beispiel:
+„Die Gesamtmasse 
+
+
+
+
+m
+
+ges
+
+
+
+
+{\displaystyle m_{\text{ges}}}
+
+ des Autos beträgt:
+
+
+
+
+
+m
+
+ges
+
+
+
+=
+
+
+m
+
+A
+
+
++
+
+∑
+
+i
+
+
+
+m
+
+i
+
+
+
+=
+1500
+
+
+k
+g
+
+
+
+{\displaystyle m_{\text{ges}}\,=\,m_{\text{A}}+\sum _{i}m_{i}\,=1500\,\mathrm {kg} }
+
+
+Dabei ist 
+
+
+
+
+m
+
+A
+
+
+
+
+{\displaystyle m_{\text{A}}}
+
+ die Masse des Aufbaus und 
+
+
+
+
+m
+
+i
+
+
+
+
+{\displaystyle m_{i}}
+
+ die Masse von weiteren Komponenten.“
+Fehlerbehaftete Größen
+
+
+
+
+
+
+
+l
+=
+(
+10,007
+2
+±
+0,002
+3
+)
+
+
+m
+
+
+
+{\displaystyle l=(10{,}0072\pm 0{,}0023)\,\mathrm {m} }
+
+
+
+
+
+
+l
+=
+10,007
+2
+(
+23
+)
+
+
+m
+
+
+
+{\displaystyle l=10{,}0072(23)\,\mathrm {m} }
+
+
+
+
+
+
+l
+≈
+
+10
+
+,
+
+00
+
+7
+
+
+
+
+m
+
+
+
+{\displaystyle l\approx {10{,}00\mathbf {7} }\,\mathrm {m} }
+
+
+
+Angabe einer fehlerbehafteten Messgröße (der letzte Zahlenwert ist nur in dieser Genauigkeit sinnvoll)
+
+Bei fehlerbehafteten[17] Größenwerten wird der Zahlenwert mit seiner Messunsicherheit angegeben oder – je nach den Umständen – mit seinen Fehlergrenzen, siehe auch Messabweichung. Das Kenntlichmachen geschieht meistens durch ein „±“ nach dem fehlerbehafteten Zahlenwert, gefolgt von dem Fehlerwert (wobei Klammern erforderlich sind, sofern eine Einheit folgt, damit diese sich auf beide Werte bezieht). Die SI-Broschüre empfiehlt eine kürzere Form, bei der die Unsicherheit der letzten Ziffer(n) in Klammern hinzugefügt wird.[18] Auch der Fettdruck der unsicheren Ziffer des Zahlenwerts ist eine Möglichkeit.
+Die Anzahl der anzugebenden unsicheren Dezimalstellen des Zahlenwerts richtet sich nach dem Fehlerwert. Beginnt dieser mit einer 1 oder 2, so werden zwei Stellen notiert, ansonsten nur eine. Gegebenenfalls ist der Zahlenwert wie üblich zu runden, siehe DIN 1333; eine Fehlergrenze wird hingegen immer aufgerundet.
+Beispiele zur Kennzeichnung von Zusatzinformationen
+Zusätzliche Bezeichnungen oder Informationen dürfen grundsätzlich nicht im Größenwert einer physikalischen Größe (also weder in der Einheit noch beim Zahlenwert) auftauchen bzw. diesem hinzugefügt werden, da dies unsinnig wäre; sie dürfen nur in der Benennung oder Bezeichnung der physikalischen Größe, also im Formelzeichen, zum Ausdruck gebracht werden.
+Z. B. kann man das allgemein verwendete Formelzeichen 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ für die Frequenz in korrekter Notation mit einem 
+
+
+
+
+U
+
+
+
+{\displaystyle \mathrm {U} }
+
+ als Subskript ergänzen, um darauf hinzuweisen, dass eine Umdrehungsfrequenz (Drehzahl) gemeint ist:
+
+
+
+
+
+[
+
+f
+
+U
+
+
+]
+
+=
+
+
+s
+
+
+−
+1
+
+
+
+
+{\displaystyle \left[f_{\text{U}}\right]=\mathrm {s} ^{-1}}
+
+ (gesprochen „Die Einheit der (Umdrehungs-)Frequenz ist 1 pro Sekunde.“)
+
+
+
+
+
+f
+
+U, Motor
+
+
+=
+2000
+
+
+
+m
+i
+n
+
+
+−
+1
+
+
+
+
+{\displaystyle f_{\text{U, Motor}}=2000\,\mathrm {min} ^{-1}}
+
+ („Die Drehzahl des Motors beträgt 2000 pro Minute.“)
+Es kann auch ein eigenes, klar definiertes Formelzeichen eingesetzt werden. Um z. B. auf den doppelten Index im obigen Beispiel zugunsten einer leichteren Lesart zu verzichten, könnte man das ggf. einprägsamere Symbol 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ für „die Drehfrequenz, die Umdrehungszahl“ einführen und schreiben:
+
+
+
+
+
+U
+
+Motor
+
+
+=
+2000
+
+
+
+m
+i
+n
+
+
+−
+1
+
+
+
+
+{\displaystyle U_{\text{Motor}}=2000\,\mathrm {min} ^{-1}}
+
+ („Die Drehzahl des Motors beträgt 2000 pro Minute.“)
+Ohne weitere Erläuterung könnte man in der Regel z. B. auch
+
+
+
+
+
+h
+
+Auto
+
+
+=
+1
+
+,
+
+5
+
+
+m
+
+,
+ 
+
+b
+
+Auto
+
+
+=
+2
+
+,
+
+2
+
+
+m
+
+
+
+{\displaystyle h_{\text{Auto}}=1{,}5\,\mathrm {m} ,\ b_{\text{Auto}}=2{,}2\,\mathrm {m} }
+
+ („Die Höhe des Autos beträgt 1,5 Meter, die Breite des Autos beträgt 2,2 Meter.“)
+verwenden, da die Symbole für die zwei Spezialfälle Höhe und Breite eines Längenmaßes gemeinhin üblich sind.
+In der Praxis findet nicht immer eine saubere Unterscheidung zwischen Größenwert bzw. Einheit einer physikalischen Größe einerseits und bloßen Zusatzangaben andererseits statt, sodass es zu Vermischungen kommt. Die aufgeführte Umdrehungszahl ist ein häufiges Beispiel dafür. „Umdrehung“ ist dort keine Einheit, sondern beschreibt lediglich den die Frequenz hervorrufenden Prozess näher. Nicht zulässig, jedoch häufig vorkommend, ist deshalb etwa
+
+
+
+
+
+f
+
+Motor
+
+
+=
+2000
+
+
+U
+
+
+/
+
+
+m
+i
+n
+
+
+
+{\displaystyle f_{\text{Motor}}=2000\,\mathrm {U} /\mathrm {min} }
+
+ („Die Drehzahl des Motors beträgt 2000 Umdrehungen pro Minute“).
+Weitere Beispiele für häufig vorkommende falsche Schreib- bzw. Sprechweisen sind:[19]
+Neutronen-Flussdichte:
+Falsch: 
+
+
+
+j
+=
+1000
+
+
+n
+
+
+
+
+c
+m
+
+
+−
+2
+
+
+
+
+s
+
+
+−
+1
+
+
+
+
+{\displaystyle j=1000\,\mathrm {n} \,\mathrm {cm} ^{-2}\mathrm {s} ^{-1}}
+
+ bzw. „Die Flussdichte ist 1000 Neutronen pro Quadratzentimeter und Sekunde.“[20]
+Korrekt: 
+
+
+
+
+j
+
+
+n
+
+
+
+=
+1000
+
+
+
+c
+m
+
+
+−
+2
+
+
+
+
+s
+
+
+−
+1
+
+
+
+
+{\displaystyle j_{\mathrm {n} }=1000\,\mathrm {cm} ^{-2}\mathrm {s} ^{-1}}
+
+ bzw. „Die Neutronen-Flussdichte beträgt 1000 pro Quadratzentimeter und Sekunde.“
+Massekonzentration von Blei:
+Falsch: 
+
+
+
+n
+=
+20
+
+
+n
+g
+
+
+ Blei
+
+
+/
+
+
+
+m
+
+
+3
+
+
+
+
+{\displaystyle n=20\,\mathrm {ng} {\text{ Blei}}/\mathrm {m} ^{3}}
+
+ bzw. „… eine Konzentration von 20 Nanogramm Blei pro Kubikmeter“[20]
+Korrekt: 
+
+
+
+
+n
+
+Pb
+
+
+=
+20
+
+
+n
+g
+
+
+/
+
+
+
+m
+
+
+3
+
+
+
+
+{\displaystyle n_{\text{Pb}}=20\,\mathrm {ng} /\mathrm {m} ^{3}}
+
+ bzw. „Die Blei-Massekonzentration beträgt 20 Nanogramm pro Kubikmeter.“
+Durch eine Spule verursachte magnetische Feldstärke:
+Falsch: 
+
+
+
+
+[
+H
+]
+
+=
+
+A
+w
+
+
+/
+
+
+m
+
+
+
+{\displaystyle \left[H\right]=\mathrm {Aw} /\mathrm {m} }
+
+ bzw. „Die Einheit der magnetischen Feldstärke ist Ampere-Windungen pro Meter.“[20]
+Korrekt: 
+
+
+
+
+[
+H
+]
+
+=
+
+A
+
+
+/
+
+
+m
+
+
+
+{\displaystyle \left[H\right]=\mathrm {A} /\mathrm {m} }
+
+ bzw. „Die Einheit der magnetischen Feldstärke ist Ampere pro Meter.“
+Verknüpfung zwischen physikalischen Größen
+Größengleichungen
+
+
+
+
+
+
+
+
+
+
+F
+→
+
+
+
+=
+m
+
+
+
+a
+→
+
+
+
+
+
+{\displaystyle {\vec {F}}=m{\vec {a}}}
+
+
+
+Größengleichung, die die Gesetzmäßigkeit zwischen Kraft 
+
+
+
+
+
+
+F
+→
+
+
+
+
+
+{\displaystyle {\vec {F}}}
+
+, der Masse 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ und der Beschleunigung 
+
+
+
+
+
+
+a
+→
+
+
+
+
+
+{\displaystyle {\vec {a}}}
+
+ eines Körpers darstellt.
+
+Beispiel:
+
+
+
+m
+
+
+{\displaystyle m}
+
+ = 75 kg, 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ = 10 m/s2.
+
+
+
+
+F
+
+
+{\displaystyle F}
+
+ = 750 N = 750 kg·m/s2 = 
+
+
+
+m
+⋅
+a
+,
+
+
+{\displaystyle m\cdot a,}
+
+
+mit 1 N (= 1 Newton) = 1 kg·m/s2
+
+Die Darstellung von Naturgesetzen und technischen Zusammenhängen in mathematischen Gleichungen nennt man Größengleichungen. Die Formelzeichen einer Größengleichung haben die Bedeutung physikalischer Größen, sofern sie nicht als Symbole für mathematische Funktionen oder Operatoren gemeint sind. Größengleichungen gelten unabhängig von der Wahl der Einheiten. Trotzdem kann es vorkommen, dass die Gleichungen in verschiedenen Einheitensystemen unterschiedlich geschrieben werden. Beispielsweise hat die Vakuumlichtgeschwindigkeit in manchen Einheitensystemen definitionsgemäß den Wert 
+
+
+
+c
+=
+1
+
+
+{\displaystyle c=1}
+
+. Dadurch entfallen in vielen Gleichungen die konstanten Faktoren 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ und 
+
+
+
+
+c
+
+2
+
+
+
+
+{\displaystyle c^{2}}
+
+. Aus der berühmten Gleichung 
+
+
+
+E
+=
+m
+
+c
+
+2
+
+
+
+
+{\displaystyle E=mc^{2}}
+
+ würde in einem solchen Einheitensystem 
+
+
+
+E
+=
+m
+
+
+{\displaystyle E=m}
+
+, ohne dass sich die Aussage der Gleichung ändert.
+Größengleichungen verknüpfen verschiedene physikalische Größen und deren Größenwerte miteinander. Zur Auswertung muss man die Formelzeichen durch das Produkt aus Zahlenwert und Einheit ersetzen. Die verwendeten Einheiten sind dabei unerheblich.
+Rechenoperationen
+→ Hauptartikel: Operator (Mathematik)
+Für physikalische Größen sind nicht alle Rechenoperationen, die mit reinen Zahlen möglich wären, sinnvoll. Es hat sich erwiesen, dass eine geringe Anzahl Rechenoperationen ausreicht, um alle bekannten Naturgeschehen zu beschreiben.
+
+
+
+
+
+
+
+15
+
+
+s
+
+−
+3
+
+
+m
+
+
+
+{\displaystyle 15\,\mathrm {s} -3\,\mathrm {m} }
+
+
+
+
+
+
+5
+
+
+m
+
++
+10
+
+
+k
+g
+
+
+
+{\displaystyle 5\,\mathrm {m} +10\,\mathrm {kg} }
+
+
+
+
+
+
+log
+⁡
+
+(
+
+299
+
+792
+
+458
+
+
+
+
+
+m
+
+
+s
+
+
+
+
+
+)
+
+
+
+{\displaystyle \log \left({299\,792\,458\,{\tfrac {\mathrm {m} }{\mathrm {s} }}}\right)}
+
+
+
+
+
+
+sin
+⁡
+(
+5
+
+
+A
+
+)
+
+
+{\displaystyle \sin(5\,\mathrm {A} )}
+
+
+
+Unsinnige Rechenoperationen
+
+Addition und Subtraktion sind nur zwischen Größen der gleichen Größenart möglich. Die Dimension und damit auch die Einheit der Größe(n) bleiben dabei unverändert, die Maßzahlen werden addiert bzw. subtrahiert.
+Bsp.: 
+
+
+
+
+l
+
+1
+
+
++
+
+l
+
+2
+
+
+=
+2
+
+
+m
+
++
+3
+
+
+m
+
+=
+5
+
+
+m
+
+
+
+{\displaystyle l_{1}+l_{2}=2\,\mathrm {m} +3\,\mathrm {m} =5\,\mathrm {m} }
+
+
+Dies funktioniert jedoch nur dann, wenn die beiden Größen in der gleichen Einheit gemessen werden. Ist dies nicht der Fall, müssen beide vor der Addition bzw. Subtraktion noch auf dieselbe Einheit umgerechnet werden.
+Bsp.: 
+
+
+
+
+l
+
+1
+
+
++
+
+l
+
+2
+
+
+=
+2
+
+
+k
+m
+
++
+300
+
+
+m
+
+=
+2000
+
+
+m
+
++
+300
+
+
+m
+
+=
+2300
+
+
+m
+
+
+
+{\displaystyle l_{1}+l_{2}=2\,\mathrm {km} +300\,\mathrm {m} =2000\,\mathrm {m} +300\,\mathrm {m} =2300\,\mathrm {m} }
+
+
+Multiplikation und Division sind uneingeschränkt möglich. Die beiden Größen werden multipliziert, indem ihre Maßzahlen multipliziert und das Produkt der Einheiten gebildet wird. Für die Division gilt Entsprechendes. Das Ergebnis gehört also in aller Regel zu einer anderen Größenart als die beiden Faktoren, es sei denn, einer der Faktoren hat lediglich die Dimension Zahl.
+Bsp.: 
+
+
+
+M
+=
+r
+⋅
+F
+=
+2
+
+
+m
+
+⋅
+3
+
+
+N
+
+=
+6
+
+
+N
+m
+
+
+
+{\displaystyle M=r\cdot F=2\,\mathrm {m} \cdot 3\,\mathrm {N} =6\,\mathrm {Nm} }
+
+
+Bsp.: 
+
+
+
+v
+=
+
+
+s
+t
+
+
+=
+
+
+
+3
+
+
+m
+
+
+
+2
+
+
+s
+
+
+
+
+=
+1
+
+,
+
+5
+
+
+
+
+m
+
+
+s
+
+
+
+
+
+{\displaystyle v={\frac {s}{t}}={\frac {3\,\mathrm {m} }{2\,\mathrm {s} }}=1{,}5\,{\frac {\mathrm {m} }{\mathrm {s} }}}
+
+
+Potenzen können daher ebenso gebildet werden. Dies gilt sowohl für positive ganzzahlige als auch für negative und gebrochene Exponenten (also auch für Brüche und Wurzeln).
+Bsp.: 
+
+
+
+V
+=
+
+a
+
+3
+
+
+=
+(
+2
+
+
+m
+
+
+)
+
+3
+
+
+=
+8
+
+
+
+m
+
+
+3
+
+
+
+
+{\displaystyle V=a^{3}=(2\,\mathrm {m} )^{3}=8\,\mathrm {m} ^{3}}
+
+
+Bsp.: 
+
+
+
+f
+=
+
+T
+
+−
+1
+
+
+=
+(
+2
+
+
+s
+
+
+)
+
+−
+1
+
+
+=
+0
+
+,
+
+5
+
+
+
+s
+
+
+−
+1
+
+
+
+
+{\displaystyle f=T^{-1}=(2\,\mathrm {s} )^{-1}=0{,}5\,\mathrm {s} ^{-1}}
+
+
+Wird eine Größe potenziert, deren Einheit einen Vorsatz für dezimale Teile und Vielfache enthält, so muss der Exponent auf die gesamte Einheit (also auf das Produkt aus Vorfaktor und Einheit) angewendet werden. Beispielsweise ist ein Quadratkilometer nicht etwa 1000 Quadratmeter, sondern
+
+
+
+
+1
+
+
+
+k
+m
+
+
+2
+
+
+=
+1
+⋅
+
+1000
+
+2
+
+
+⋅
+
+
+m
+
+
+2
+
+
+=
+1
+
+000
+
+000
+
+
+
+m
+
+
+2
+
+
+
+
+{\displaystyle 1\,\mathrm {km} ^{2}=1\cdot 1000^{2}\cdot \mathrm {m} ^{2}=1\,000\,000\,\mathrm {m} ^{2}}
+
+.
+Transzendente Funktionen wie 
+
+
+
+exp
+
+
+{\displaystyle \exp }
+
+, 
+
+
+
+log
+
+
+{\displaystyle \log }
+
+, 
+
+
+
+sin
+
+
+{\displaystyle \sin }
+
+, 
+
+
+
+cos
+
+
+{\displaystyle \cos }
+
+, 
+
+
+
+tanh
+
+
+{\displaystyle \tanh }
+
+ usw. sind nur für reine Zahlen als Argument definiert. Sie können daher nur auf Größen der Dimension Zahl angewendet werden. Der Funktionswert hat ebenfalls die Dimension Zahl.
+Bsp.: 
+
+
+
+sin
+⁡
+
+
+π
+2
+
+
+=
+1
+
+
+{\displaystyle \sin {\frac {\pi }{2}}=1}
+
+
+Das Differential einer Größe ist von der gleichen Größenart wie die Größe selbst. Differential- und Integralrechnung ist uneingeschränkt möglich.
+Bsp.: 
+
+
+
+v
+=
+
+∫
+
+
+t
+
+1
+
+
+
+
+
+t
+
+2
+
+
+
+
+a
+⋅
+
+d
+
+t
+=
+
+∫
+
+0
+
+
+2
+
+
+s
+
+
+
+3
+
+
+
+
+m
+
+
+
+
+s
+
+
+
+2
+
+
+
+
+⋅
+
+d
+
+t
+=
+6
+
+
+
+
+m
+
+
+s
+
+
+
+
+
+{\displaystyle v=\int _{t_{1}}^{t_{2}}a\cdot \mathrm {d} t=\int _{0}^{2\,\mathrm {s} }3\,{\frac {\mathrm {m} }{{\mathrm {s} }^{2}}}\cdot \mathrm {d} t=6\,{\frac {\mathrm {m} }{\mathrm {s} }}}
+
+
+Ein Sachverhalt ist falsch dargestellt, wenn diese Rechenoperationen in unsinniger Weise auszuführen wären. Die entsprechende Kontrolle wird in der Dimensionsanalyse durchgeführt, um die Existenz einer noch unbekannten Gesetzmäßigkeit zu überprüfen.
+Zahlenwertgleichungen
+
+
+
+
+
+
+
+
+
+W
+C
+T
+
+=
+13
+
+,
+
+12
++
+0,621
+5
+
+T
+−
+11
+
+,
+
+37
+
+
+v
+
+0
+
+,
+
+16
+
+
++
+0,396
+5
+
+T
+
+
+v
+
+0
+
+,
+
+16
+
+
+
+
+{\displaystyle \mathrm {WCT} =13{,}12+0{,}6215\,T-11{,}37\,v^{0{,}16}+0{,}3965\,T\,v^{0{,}16}}
+
+
+mit
+WCT := Windchill-Temperatur in Grad Celsius
+
+
+
+
+T
+
+
+{\displaystyle T}
+
+ := Lufttemperatur in Grad Celsius
+
+
+
+
+v
+
+
+{\displaystyle v}
+
+ := Windgeschwindigkeit in Kilometer pro Stunde
+
+
+Zahlenwertgleichung zur Berechnung des Windchill-Effektes
+
+→ Hauptartikel: Zahlenwertgleichung
+In Zahlenwertgleichungen haben die Formelzeichen ausschließlich die Bedeutung von Zahlenwerten, d. h. von Maßzahlen bzgl. gewisser Maßeinheiten. Eine Zahlenwertgleichung ist nur bei Benutzung der dafür gewählten Einheiten gültig. Bei Benutzung von Größenwerten in anderen Einheiten ergeben sich meist Fehler. Es empfiehlt sich daher, Berechnungen grundsätzlich mit Größengleichungen durchzuführen und diese erst im letzten Schritt zahlenmäßig auszuwerten.
+Formeln in historischen Texten, „Faustformeln“ und empirische Formeln sind oft in Form von Zahlenwertgleichungen angegeben. In einigen Fällen stehen die Symbole für die zu benutzenden Einheiten mit in der Gleichung. Die dabei manchmal anzutreffende Verwendung von eckigen Klammern um die Einheitenzeichen, wie etwa 
+
+
+
+
+[
+V
+]
+
+
+
+{\displaystyle \mathrm {[V]} }
+
+ anstatt 
+
+
+
+
+V
+
+
+
+{\displaystyle \mathrm {V} }
+
+, ist nicht normgerecht: DIN 1313:1998-12, Kapitel 4.3 sieht für die Darstellung von Maßzahlen Formelzeichen in geschweiften Klammern oder die Division der Größen durch die jeweils gewünschte Maßeinheit vor. Mit Letzterem geht z. B.die obige Zahlenwertgleichung über in die zugeschnittene Größengleichung
+
+
+
+
+
+
+
+W
+C
+T
+
+
+
+
+
+∘
+
+
+
+C
+
+
+
+
+=
+13
+
+,
+
+12
++
+0,621
+5
+
+
+
+T
+
+
+
+
+∘
+
+
+
+C
+
+
+
+
+−
+11
+
+,
+
+37
+
+
+
+(
+
+
+v
+
+k
+m
+
+/
+
+h
+
+
+
+)
+
+
+0
+
+,
+
+16
+
+
++
+0,396
+5
+
+
+
+T
+
+
+
+
+∘
+
+
+
+C
+
+
+
+
+
+
+
+(
+
+
+v
+
+k
+m
+
+/
+
+h
+
+
+
+)
+
+
+0
+
+,
+
+16
+
+
+,
+
+
+{\displaystyle {\frac {\mathrm {WCT} }{^{\circ }\mathrm {C} }}=13{,}12+0{,}6215\,{\frac {T}{^{\circ }\mathrm {C} }}-11{,}37\,\left({\frac {v}{\mathrm {km/h} }}\right)^{0{,}16}+0{,}3965\,{\frac {T}{^{\circ }\mathrm {C} }}\,\left({\frac {v}{\mathrm {km/h} }}\right)^{0{,}16},}
+
+
+wobei die Formelzeichen nun für die physikalischen Größen selbst stehen:
+WCT := Windchill-Temperatur
+
+
+
+
+T
+
+
+{\displaystyle T}
+
+ := Lufttemperatur
+
+
+
+
+v
+
+
+{\displaystyle v}
+
+ := Windgeschwindigkeit
+Größen- und Einheitensysteme
+Größensysteme
+→ Hauptartikel: Größensystem
+Jedes Wissensgebiet der Technik und Naturwissenschaften verwendet einen beschränkten Satz an physikalischen Größen, die über Naturgesetze miteinander verknüpft sind. Wählt man aus diesen Größen wenige Basisgrößen aus, sodass sich alle anderen des betrachteten Gebietes als Potenzprodukte der Basisgrößen darstellen lassen, dann bilden alle Größen zusammen ein Größensystem, sofern außerdem keine Basisgröße aus den anderen Basisgrößen dargestellt werden kann. Die aus den Basisgrößen darstellbaren Größen heißen abgeleitete Größen, das jeweilige Potenzprodukt ihrer Dimensionen bezeichnet man als Dimensionsprodukt. Welche Größen man für die Basis wählt, ist grundsätzlich willkürlich und geschieht meistens nach praktischen Gesichtspunkten. Die Anzahl der Basisgrößen bestimmt den Grad des Größensystems. Beispielsweise ist das internationale Größensystem mit seinen sieben Basisgrößen ein Größensystem siebten Grades.
+Internationales Einheitensystem
+→ Hauptartikel: Internationales Einheitensystem
+Man benötigt für jede Größe eine Einheit, um Größenwerte angeben zu können. Daher entspricht jedem Größensystem ein Einheitensystem gleichen Grades, das sich analog aus voneinander unabhängigen Basiseinheiten und den aus diesen darstellbaren abgeleiteten Einheiten zusammensetzt. Die abgeleiteten Einheiten werden aus den Basiseinheiten durch Produkte von Potenzen dargestellt – im Unterschied zu Größensystemen eventuell ergänzt durch einen Zahlenfaktor. Man bezeichnet das Einheitensystem als kohärent, wenn alle Einheiten ohne diesen zusätzlichen Faktor gebildet werden können. In derartigen Systemen können alle Größengleichungen als Zahlenwertgleichungen aufgefasst und dementsprechend schnell ausgewertet werden.
+Das weltweit benutzte Internationale Einheitensystem (SI) ist ein kohärentes Einheitensystem siebten Grades, das auf dem Internationalen Größensystem fußt; jedoch ist das Internationale Größensystem später entwickelt worden als das SI. Das SI definiert zudem standardisierte Vorsätze für Maßeinheiten, allerdings sind die so gebildeten Vielfachen oder Teile einer SI-Einheit selbst nicht Teil des eigentlichen Einheitensystems, da dies der Kohärenz widerspräche. Beispielsweise ist ein fiktives Einheitensystem, das die Basiseinheiten Zentimeter (
+
+
+
+
+c
+m
+
+
+
+{\displaystyle \mathrm {cm} }
+
+) und Sekunde (
+
+
+
+
+s
+
+
+
+{\displaystyle \mathrm {s} }
+
+) sowie die abgeleitete Einheit Meter pro Sekunde (
+
+
+
+
+m
+
+/
+
+s
+
+
+
+{\displaystyle \mathrm {m/s} }
+
+) umfasst, nicht kohärent: Wegen 
+
+
+
+1
+
+
+
+
+m
+s
+
+
+
+=
+100
+
+
+c
+m
+⋅
+
+s
+
+−
+1
+
+
+
+
+
+{\displaystyle 1\,\mathrm {\tfrac {m}{s}} =100\,\mathrm {cm\cdot s^{-1}} }
+
+ benötigt man einen Zahlenfaktor (
+
+
+
+100
+
+
+{\displaystyle 100}
+
+) bei der Bildung dieses Systems.
+(Zu weiteren konkurrierenden Einheitensystemen siehe unten im Abschnitt Praktisch verwendete Maßsysteme.)
+Besondere Größen
+Quotienten- und Verhältnisgrößen
+Der Quotient zweier Größen ist eine neue Größe. Eine solche Größe bezeichnet man als Verhältnisgröße (oder Größenverhältnis), wenn die Ausgangsgrößen von der gleichen Größenart sind, ansonsten als Quotientengröße. Allgemeiner ist die Quotientengröße in der DIN-Norm 1313 vom Dezember 1998 definiert; danach wird nur verlangt, dass der Bruch aus Zählergröße und Nennergröße konstant ist. Von April 1978 bis November 1998 hingegen hatte das DIN in der Normausgabe vom April 1978 den Begriff Größenquotient spezieller nur für Brüche aus zwei Größen verschiedener Dimension empfohlen und von einem Größenverhältnis (einer Verhältnisgröße) lediglich verlangt, dass die Ausgangsgrößen von gleicher Dimension, aber nicht unbedingt gleicher Größenart sind. (Beispielsweise sind die elektrische Stromstärke und die magnetische Durchflutung von gleicher Dimension, aber verschiedener Größenart.)
+Häufig werden Quotientengrößen umgangssprachlich ungenau umschrieben. Beispielsweise ist eine Definition der Fahrtgeschwindigkeit als „zurückgelegter Weg je Zeiteinheit“ oder „zurückgelegter Weg je vergangener Zeit“ oder „Weg je Zeit“ nicht korrekt, denn die Geschwindigkeit hat nicht die Dimension eines Weges (Länge). Korrekt wäre „in einer Zeitspanne zurückgelegter Weg, geteilt durch diese Zeitspanne“. Die genannte verkürzte Ausdrucksweise ist zwar üblich und genügt, um einen anschaulichen Begriff von der jeweiligen Quotientengröße zu geben, aber die genaue Definition als Quotient sollte außerdem immer angegeben werden.
+
+
+
+
+
+
+
+
+v
+=
+
+
+V
+m
+
+
+
+
+{\displaystyle v={\frac {V}{m}}}
+
+
+„spezifisches Volumen“
+
+
+
+
+
+ρ
+=
+
+
+m
+V
+
+
+
+
+{\displaystyle \rho ={\frac {m}{V}}}
+
+„Massedichte“
+
+
+Benennung von bezogenen Größen
+
+Falls zwei Größen sich auf eine Eigenschaft des gleichen Objektes beziehen, nennt man die Quotientengröße auch bezogene Größe. Hierbei ist die Nennergröße die Bezugsgröße, während die Zählergröße den Schwerpunkt in der Namensgebung setzt. Insbesondere bezeichnet man eine bezogene Größe als …
+… spezifisch, wenn sie sich auf die Masse bezieht. (Einheit: z. B. „… pro Gramm“)
+… molar, wenn sie sich auf die Stoffmenge bezieht. (Einheit: z. B. „… pro Mol“)
+… -dichte, wenn sie sich auf das Volumen (oder als -flächendichte auf die Fläche bzw. als -längendichte auf die Länge) bezieht. (Einheit: z. B. „… pro Liter“, „… pro Quadratkilometer“ bzw. „… pro Zentimeter“)
+… -rate oder -geschwindigkeit, wenn sie sich auf eine Zeitspanne bezieht. (Einheit: z. B. „… pro Stunde“)
+Verhältnisgrößen haben grundsätzlich die Einheit Eins. Sie können daher nach obigen Rechenregeln als Argumente von transzendenten Funktionen auftreten. Der Name einer Verhältnisgröße enthält meistens ein Adjektiv wie relativ oder normiert oder er endet auf -zahl oder -wert. Beispiele sind die Reynolds-Zahl und der Strömungswiderstandskoeffizient.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+0
+
+
+
+
+
+/
+
+
+
+
+0
+
+
+
+
+=
+
+
+0
+
+,
+
+01
+
+
+
+
+1
+
+
+
+
+
+0
+
+
+
+
+
+/
+
+
+
+
+00
+
+
+
+
+=
+
+
+0,001
+
+
+
+
+1
+
+
+p
+p
+m
+
+
+
+=
+
+
+0,000
+
+001
+
+
+
+
+
+
+{\displaystyle {\begin{array}{lll}1\,{}^{0\!}\!/\!_{0}&=&0{,}01\\1\,{}^{0\!}\!/\!_{00}&=&0{,}001\\1\,\mathrm {ppm} &=&0{,}000\,001\end{array}}}
+
+
+
+
+Spezielle Verhältniseinheiten
+
+Verschiedene Verhältnisgrößen gehören nur in seltenen Fällen zur gleichen Größenart; manchmal werden daher zur besseren Trennung bei der Angabe ihres Größenwerts die Einheitenzeichen nicht gekürzt. Häufig werden Verhältnisgrößen in den Einheiten %, ‰ oder ppm angegeben.
+Eine besondere Stellung haben Verhältniseinheiten, wenn sie das Verhältnis gleicher Einheiten sind. Diese sind immer 1 und damit idempotent, d. h., sie können beliebig oft mit sich selbst multipliziert werden, ohne ihren Wert zu ändern. Einige idempotente Verhältniseinheiten tragen besondere Namen, wie beispielsweise die Winkeleinheit Radiant (rad). In kohärenten Einheitensystemen sind die Verhältniseinheiten immer 1, also idempotent. Bei idempotenten Verhältniseinheiten kann man die Zahlenwerte einfach multiplizieren. Beispiel: Aus den Angaben, dass 30 % der Erdoberfläche Landfläche sind und Asien 30 % der Landfläche darstellt, folgt nicht, dass 900 % der Erdoberfläche vom Kontinent Asien bedeckt sind, weil % nicht idempotent ist, also %2 nicht dasselbe wie % ist. Sagt man aber, dass ein Anteil von 0,3 der Erdoberfläche Landfläche ist und Asien einen Anteil von 0,3 der Landfläche einnimmt, kann man folgern, dass Asien 0,09 der Erdoberfläche ausmacht, weil hier die idempotente Einheit 1 verwendet wird.
+Feld- und Leistungsgrößen
+
+
+
+
+
+
+
+
+
+
+
+F
+
+2
+
+
+∼
+P
+
+
+
+⇔
+
+
+
+F
+
+1
+
+
+2
+
+
+
+F
+
+2
+
+
+2
+
+
+
+
+=
+
+
+
+P
+
+1
+
+
+
+P
+
+2
+
+
+
+
+
+
+
+
+ln
+⁡
+
+(
+
+
+
+F
+
+1
+
+
+
+F
+
+2
+
+
+
+
+)
+
+
+
+N
+p
+
+
+
+
+=
+
+
+1
+2
+
+
+ln
+⁡
+
+(
+
+
+
+P
+
+1
+
+
+
+P
+
+2
+
+
+
+
+)
+
+
+
+N
+p
+
+
+
+
+
+20
+lg
+⁡
+
+(
+
+
+
+F
+
+1
+
+
+
+F
+
+2
+
+
+
+
+)
+
+
+
+d
+B
+
+
+
+
+=
+10
+lg
+⁡
+
+(
+
+
+
+P
+
+1
+
+
+
+P
+
+2
+
+
+
+
+)
+
+
+
+d
+B
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}F^{2}\sim P&\Leftrightarrow {\frac {F_{1}^{2}}{F_{2}^{2}}}={\frac {P_{1}}{P_{2}}}\\\ln \left({\frac {F_{1}}{F_{2}}}\right)\,\mathrm {Np} &={\frac {1}{2}}\ln \left({\frac {P_{1}}{P_{2}}}\right)\,\mathrm {Np} \\20\lg \left({\frac {F_{1}}{F_{2}}}\right)\,\mathrm {dB} &=10\lg \left({\frac {P_{1}}{P_{2}}}\right)\,\mathrm {dB} \end{aligned}}}
+
+
+
+Zusammenhang zwischen Feldgrößen 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ und Leistungsgrößen 
+
+
+
+P
+
+
+{\displaystyle P}
+
+.
+
+Feldgrößen dienen der Beschreibung von physikalischen Feldern. Das Quadrat einer Feldgröße ist in linearen Systemen proportional zu dessen energetischem Zustand, der über eine Leistungsgröße erfasst wird. Ohne die genaue Gesetzmäßigkeit kennen zu müssen, folgt daraus unmittelbar, dass das Verhältnis zweier Leistungsgrößen gleich dem Quadrat des Verhältnisses der zugehörigen Feldgrößen ist. Dabei ist unerheblich, ob beide Leistungsgrößen unmittelbar für Leistung stehen oder damit verbundene Größen wie Energie, Intensität oder Leistungsdichte.
+In vielen technischen Bereichen sind die logarithmierten Verhältnisse von besonderem Interesse. Derartige Größen werden als Pegel oder Maß bezeichnet. Wird bei der Bildung der natürliche Logarithmus verwendet, so kennzeichnet man dieses durch die Einheit Neper (Np), ist es der dekadische Logarithmus, so nutzt man das Bel (B) oder häufiger sein Zehntel, das Dezibel (dB).
+Zustands- und Prozessgrößen
+Vor allem in der Thermodynamik wird zwischen Zustandsgrößen und Prozessgrößen unterschieden.
+Zustandsgrößen sind dabei physikalische Größen, die eine Eigenschaft eines Systemzustands repräsentieren. Man unterscheidet weiterhin zwischen extensiven und intensiven Größen. Extensive Größen wie Masse und Stoffmenge verdoppeln ihren Größenwert bei Systemverdopplung, intensive Größen wie Temperatur und Druck bleiben dabei konstant. Ebenfalls gebräuchlich ist die Unterscheidung zwischen stoffeigenen und systemeigenen Zustandsgrößen.
+Prozessgrößen hingegen beschreiben einen Vorgang, nämlich den Übergang zwischen Systemzuständen. Zu ihnen gehören insbesondere die Größen „Arbeit“ (
+
+
+
+W
+
+
+{\displaystyle W}
+
+) und „Wärme“ (
+
+
+
+Q
+
+
+{\displaystyle Q}
+
+). Um ihren Charakter als reine Vorgangsgrößen zum Ausdruck zu bringen, werden sie vielerorts ausschließlich als Differentiale angegeben, wobei ihnen häufig kein 
+
+
+
+
+d
+
+
+
+{\displaystyle \mathrm {d} }
+
+, sondern ein 
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ oder đ vorangestellt wird.
+Praktisch verwendete Maßsysteme
+Es werden verschiedene Maßsysteme verwendet:
+cgs-System:
+vor allem von Theoretikern und in den USA benutzt, mit drei Grundgrößen, in welchem alle Längen in Zentimetern und elektromagnetische Größen in Potenzen der Grund-Einheiten cm, g (= Gramm) und s (= Sekunde) angegeben werden. Es gibt hiervon mehrere Varianten
+mksA-System:
+in der praktischen Elektrotechnik eingeführtes System mit vier Grundeinheiten, Vorläufer des Internationalen Einheitensystems, enthält neben Meter (= m), Kilogramm (= kg) und Sekunde (= s) das Ampere (= A) als Einheit der Stromstärke; das Volt (= V) als Spannungseinheit ergibt sich über die definierte Gleichheit der elektrischen und mechanischen Energieeinheiten Wattsekunde und Newtonmeter (1 Ws = 1 V·A·s = 1 N·m = 1 kg·m2·s−2)
+Hochenergie-System (siehe bei Planck-Einheiten):
+alle Größen werden in Potenzen nur einer einzigen Einheit, der Energieeinheit eV, angegeben, z. B. Längen als reziproke Energien, genauer: in Einheiten von 
+
+
+
+ℏ
+c
+
+/
+
+
+e
+V
+
+
+
+{\displaystyle \hbar c/\mathrm {eV} }
+
+. Die Naturkonstanten 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ (Lichtgeschwindigkeit im Vakuum) und 
+
+
+
+ℏ
+
+
+{\displaystyle \hbar }
+
+ (reduzierte Plancksche Konstante) werden dabei durch Eins ersetzt.
+In den verschiedenen Maßsystemen sehen Naturgesetze, z. B. die Maxwellschen Gleichungen, formelmäßig verschieden aus; aber wie erwähnt sind die physikalischen Gesetze invariant gegen solche Änderungen. Insbesondere kann man jederzeit von einem Maßsystem in ein anderes umrechnen, auch wenn die dabei benutzten Zusammenhänge kompliziert sein können.
+Normen
+DIN 1301 Einheiten
+DIN 1313 Größen
+EN 80000, z. T. EN ISO 80000 Größen und Einheiten (ab 2008)
+Siehe auch
+Liste physikalischer Größen
+Literatur
+Allgemein
+Julius Wallot: Größengleichungen, Einheiten und Dimensionen. 2. verbesserte  Auflage. Johann Ambrosius Barth, Leipzig 1957 (220 S.). 
+Günther Oberdorfer: Das internationale Maßsystem und die Kritik seines Aufbaus. 2.  Auflage. Fachbuchverlag, Leipzig 1970 (129 S.). 
+Horst Teichmann: Physikalische Anwendungen der Vektor- und Tensorrechnung. (= BI-Hochschultaschenbücher. 39). 3. Auflage. Bibliographisches Institut, Mannheim u. a. 1973, ISBN 3-411-00039-2 (Speziell zum Absatz über Skalare, Vektoren und Tensoren).
+Erna Padelt, Hansgeorg Laporte: Einheiten und Grössenarten der Naturwissenschaften. 3., neubearbeitete  Auflage. Fachbuchverlag, Leipzig 1976 (378 S.). 
+Hans Förster: Einheiten, Groessen, Gleichungen und ihre praktische Anwendung: Mit 24 Tabellen. 3., verbesserte  Auflage. Fachbuchverlag, Leipzig 1976 (238 S.). 
+Detlef Kamke, Klaus Krämer: Physikalische Grundlagen der Maßeinheiten: Mit einem Anhang über Fehlerrechnung. 1. Auflage. Teubner, Stuttgart 1977, ISBN 3-519-03015-2 (218 S.). 
+Rolf Fischer, Klaus Vogelsang: Grössen und Einheiten in Physik und Technik. 6., völlig überarbeitete und erweiterte  Auflage. Verlag Technik, Berlin 1993, ISBN 3-341-01075-0 (VIII, 164 S.). 
+Friedrich Kohlrausch: Allgemeines über Messungen und ihre Auswertung. In: Volkmar Kose, Siegfried Wagner (Hrsg.): Praktische Physik. 24. neubearb. und erw. Auflage. Band 3. B. G. Teubner, Stuttgart 1996, ISBN 3-519-23000-3, 9.1 Begriffs- und Einheitensysteme, S. 3–19 (ptb.de [PDF; 3,9 MB; abgerufen am 24. November 2018] veröffentlicht durch die Physikalisch-Technische Bundesanstalt). 
+H. Fischer, H. Kaul: Mathematik für Physiker. Band 1, 7. Aufl., Vieweg u. Teubner 2011, ISBN 978-3-8348-1220-9.
+Hans Dieter Baehr: Physikalische Größen und ihre Einheiten – Eine Einführung für Studenten, Naturwissenschaftler und Ingenieure. (= Studienbücher Naturwissenschaft und Technik. Band 19) Bertelsmann Universitätsverlag, Düsseldorf 1974, ISBN 3-571-19233-8.
+Hans Rupp: Physikalische Größen, Formeln, Gesetze und Definitionen. 2. Auflage, Oldenbourg Schulbuchverlag, 1995, ISBN 3-486-87093-9.
+Paul A. Tipler: Physik. 3. korrigierter Nachdruck der 1. Auflage 1994, Spektrum Akademischer Verlag, Heidelberg/Berlin 2000, ISBN 3-86025-122-8.
+Speziell zur physikalischen Größenart
+Alfred Böge: Handbuch Maschinenbau. Vieweg+Teubner, 2011, ISBN 978-3-8348-1025-0 (eingeschränkte Vorschau in der Google-Buchsuche).
+DIN Deutsches Institut für Normung e. V. (Hrsg.): Klein: Einführung in die DIN-Normen. B.G. Teubner, 2001, ISBN 978-3-519-26301-2 (eingeschränkte Vorschau in der Google-Buchsuche).
+Weblinks
+Physikalische Größen- und Einheiten (PDF) – ausführliche Beschreibung zur Formatierung und Angabe von Größenwerten bei physikalischen Versuchen (210 kB).
+Einzelnachweise und Fußnoten
+↑   Julius Wallot, der sich um die Größenlehre sehr verdient gemacht hat, schreibt dazu: Statt „Zahlenwert“ sagt man auch „Maßzahl“. Ich kann diesen Sprachgebrauch nicht für zweckmäßig halten. Im Französischen ist „mesure“ üblich (auch „valeur numérique“), im Englischen „numerical value“ (auch „numerical measure“ und „numerical magnitude“). Auf technischen Zeichnungen steht „Maße in mm“ und die an einzelnen Strecken angeschriebenen Zahlen heißen „Maßzahlen“. Vor allem aber hat die (...) Definition des Zahlenwerts mit Maß und Messen nicht notwendig etwas zu tun; diese beiden Wörter sind in logischem Zusammenhang mit dem Begriff des Zahlenwerts überhaupt nicht vorgekommen. Das deutsche Wort „Zahlenwert“ ist auch für Ausländer leicht verständlich. (Julius Wallot, 1957, S. 50) ↑  R. Pitka et al.: Physik. Harri Deutsch, Frankfurt am Main. 2009, ISBN 978-3-8171-1852-6, S. 1 und 27 (eingeschränkte Vorschau in der Google-Buchsuche). ↑  Julius Wallot: Die physikalischen und technischen Einheiten. In: Elektrotechnische Zeitschrift. Band 43, 1922, S. 1329–1333, 1381–1386. ↑   Julius Wallot, 1957↑  DIN 1313 Dezember 1998: Größen.1 2   Friedrich Kohlrausch, 1996, Band 3, S. 4↑  Internationales Wörterbuch der Metrologie: Grundlegende und allgemeine Begriffe und zugeordnete Benennungen (VIM); deutsch-englische Fassung ISOIEC-Leitfaden 99:2007 = Vocabulaire international de métrologie. 3. Auflage. Beuth, Berlin 2010, ISBN 978-3-410-20070-3 (74 S.). ↑  Eine Ausnahme sind die gebräuchlichen Einheiten für Temperatur, die sich zusätzlich um einen konstanten additiven Term unterscheiden. Der Grund liegt in der abweichenden Definition des Nullpunktes.↑  H. Goldstein, C. P. Poole Jr., J. L. Safko Sr.: Klassische Mechanik. 3. Auflage, Wiley-VCH, 2012, ISBN 978-3-527-66207-4, Abschnitt 5.2: Tensoren.↑  Pseudoskalare sind Skalare, die bei der Raumspiegelung 
+
+
+
+
+
+
+r
+→
+
+
+
+→
+−
+
+
+
+r
+→
+
+
+
+
+
+{\displaystyle {\vec {r}}\to -{\vec {r}}}
+
+ ihr Vorzeichen umkehren. Beispiel: die Determinante (sog. Spatprodukt) aus 3 Vektoren.↑  Pseudovektoren sind Vektoren, die bei der Raumspiegelung 
+
+
+
+
+
+
+r
+→
+
+
+
+→
+−
+
+
+
+r
+→
+
+
+
+
+
+{\displaystyle {\vec {r}}\to -{\vec {r}}}
+
+ ihr Vorzeichen nicht umkehren. Beispiel: das Vektorprodukt aus 2 Vektoren.↑  Der Trägheitstensor vermittelt in Analogie zur Masse (bzw. zu einer tensoriellen Erweiterung) den Zusammenhang zwischen den Pseudovektoren Drehmoment und Winkelbeschleunigung. Der Vektor Kraft ist analog zum Pseudovektor Drehmoment, und das Gesetz Kraft = Masse × Beschleunigung ist analog zum Gesetz Drehmoment = Trägheitstensor × Winkelbeschleunigung.↑  Der Verzerrungstensor beschreibt in Abhängigkeit von der ersten Richtung die Verzerrung in eine zweite Richtung.↑  Jack R. Vinson, R. L. Sierakowski: The behavior of structures composed of composite materials. Kluwer Academic, ISBN 1-4020-0904-6, S. 76 (eingeschränkte Vorschau in der Google-Buchsuche).↑  DIN 1313, Dezember 1998: Größen. S. 5.↑  Ambler Thompson, Barry N. Taylor: Guide for the Use of the International System of Units (SI). In: NIST Special Publication. Band 811, 2008, S. 15 (physics.nist.gov [PDF; abgerufen am 3. Dezember 2012]). ↑  Anmerkung: Nach einschlägigen Normen und Regeln sollte der Begriff „Fehler“ in diesem Zusammenhang nicht verwendet werden. Besser sind demnach die Begriffe „Abweichung“ und „Unsicherheit“ (siehe EN ISO 80000-1, Kap. 7.3.4; „Glossar der Metrologie“; VIM und GUM)↑  
+SI-Broschüre 9. Auflage (2019), Kapitel 5.4.5. Bureau International des Poids et Mesures, 2019, abgerufen am 26. Juli 2021 (englisch, französisch). 
+↑  Unglücklicherweise lässt auch das deutsche und internationale Normenwerk gelegentlich Vermischungen zu, insbesondere bei Hilfsmaßeinheiten, z. B. „dB (C)“; hierbei ist das „C“ ein Hinweis auf das Messverfahren, nach dem das Pegelmaß ermittelt wird, das mit Hilfe der Hilfsmaßeinheit Dezibel angegeben wird.1 2 3  Die Ergänzungen für Neutronen, Blei und Windungen sind hier in den inkorrekten Formeln willkürlich teils kursiv, teils nicht kursiv gedruckt, da eine richtige Schreibweise ohnehin nicht möglich ist und beide Möglichkeiten vorkommen. Die entsprechenden korrekten Notationen hingegen befolgen auch die im Abschnitt Schreibweise erwähnten Regeln zur Kursivschreibung.
+
+
+
+Dieser Artikel wurde am 2. November 2006 in dieser Version in die Liste der lesenswerten Artikel aufgenommen.
+
+Normdaten (Sachbegriff): GND: 4076117-4 (OGND, AKS) 
+
+

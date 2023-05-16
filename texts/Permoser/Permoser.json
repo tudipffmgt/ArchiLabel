@@ -1,0 +1,1452 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.7571
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.607
+      }
+    ],
+    "start": 2268,
+    "end": 2277,
+    "found_term": "Hofkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.627
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6564
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6667
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6407
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.7931
+      },
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.6493
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6929
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.6393
+      }
+    ],
+    "start": 3707,
+    "end": 3723,
+    "found_term": "Friedhofskapelle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.7571
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.607
+      }
+    ],
+    "start": 3991,
+    "end": 4000,
+    "found_term": "Hofkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q157229",
+        "search_term": "Frauenkirche",
+        "confidence": 0.7571
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.607
+      }
+    ],
+    "start": 4043,
+    "end": 4052,
+    "found_term": "Hofkirche"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 1514,
+    "end": 1521,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6103
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6857
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6619
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6082
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7852
+      }
+    ],
+    "start": 1911,
+    "end": 1924,
+    "found_term": "Schlossgarten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6072
+      },
+      {
+        "wd_id": "Q1789892",
+        "search_term": "Kronentor",
+        "confidence": 0.6242
+      },
+      {
+        "aat_id": 300002613,
+        "wd_id": "Q657100",
+        "search_term": "Kolonnade",
+        "confidence": 0.6598
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.631
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.6388
+      },
+      {
+        "aat_id": 300006819,
+        "wd_id": "Q276173",
+        "search_term": "Pavillon",
+        "confidence": 0.7761
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6466
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6988
+      }
+    ],
+    "start": 2178,
+    "end": 2190,
+    "found_term": "Wallpavillon"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6103
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6857
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6619
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6082
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7852
+      }
+    ],
+    "start": 2462,
+    "end": 2475,
+    "found_term": "Schlossgarten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6103
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6857
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6619
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6082
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7852
+      }
+    ],
+    "start": 2639,
+    "end": 2652,
+    "found_term": "Schlossgarten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 3074,
+    "end": 3081,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6103
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6857
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6619
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6082
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7852
+      }
+    ],
+    "start": 3803,
+    "end": 3816,
+    "found_term": "Schlossgarten"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6072
+      },
+      {
+        "wd_id": "Q1789892",
+        "search_term": "Kronentor",
+        "confidence": 0.6242
+      },
+      {
+        "aat_id": 300002613,
+        "wd_id": "Q657100",
+        "search_term": "Kolonnade",
+        "confidence": 0.6598
+      },
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.631
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.6388
+      },
+      {
+        "aat_id": 300006819,
+        "wd_id": "Q276173",
+        "search_term": "Pavillon",
+        "confidence": 0.7761
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6466
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6988
+      }
+    ],
+    "start": 4077,
+    "end": 4089,
+    "found_term": "Wallpavillon"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 4136,
+    "end": 4143,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.7796
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6068
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6913
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.6156
+      }
+    ],
+    "start": 289,
+    "end": 295,
+    "found_term": "Statue"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6571
+      },
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.7077
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6383
+      },
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.7898
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6055
+      }
+    ],
+    "start": 3248,
+    "end": 3259,
+    "found_term": "Grabdenkmal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6147
+      },
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.6799
+      },
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.7564
+      }
+    ],
+    "start": 3624,
+    "end": 3631,
+    "found_term": "Grabmal"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.7796
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6068
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6913
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.6156
+      }
+    ],
+    "start": 4243,
+    "end": 4249,
+    "found_term": "Statue"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008077,
+        "wd_id": "Q1348006",
+        "search_term": "Häuserblock",
+        "confidence": 0.6054
+      }
+    ],
+    "start": 3215,
+    "end": 3230,
+    "found_term": "Friedrichstraße"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008077,
+        "wd_id": "Q1348006",
+        "search_term": "Häuserblock",
+        "confidence": 0.6066
+      }
+    ],
+    "start": 3831,
+    "end": 3842,
+    "found_term": "Hauptstraße"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.6098
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.8086
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7601
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6282
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6916
+      }
+    ],
+    "start": 3322,
+    "end": 3339,
+    "found_term": "Kreuzigungsgruppe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300028729,
+        "wd_id": "Q1772",
+        "search_term": "Epitaph",
+        "confidence": 0.6098
+      },
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.7322
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.8086
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.7601
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.6282
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6916
+      }
+    ],
+    "start": 4164,
+    "end": 4181,
+    "found_term": "Kreuzigungsgruppe"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6822
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6206
+      }
+    ],
+    "start": 1408,
+    "end": 1421,
+    "found_term": "Barockplastik"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.7847
+      },
+      {
+        "wd_id": "Q6149036",
+        "search_term": "Dekoration",
+        "confidence": 0.6152
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6089
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7273
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6103
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6289
+      },
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.6181
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.603
+      }
+    ],
+    "start": 1479,
+    "end": 1496,
+    "found_term": "Skulpturenschmuck"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6096
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.655
+      }
+    ],
+    "start": 1785,
+    "end": 1795,
+    "found_term": "Bildhauern"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.7024
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7113
+      },
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.6216
+      }
+    ],
+    "start": 2603,
+    "end": 2622,
+    "found_term": "Sandsteinskulpturen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6664
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7717
+      }
+    ],
+    "start": 4488,
+    "end": 4502,
+    "found_term": "Barockskulptur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002944,
+        "wd_id": "Q35473",
+        "search_term": "Fenster",
+        "confidence": 0.6039
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6351
+      },
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6499
+      },
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.6923
+      },
+      {
+        "aat_id": 300001280,
+        "wd_id": "Q12493",
+        "search_term": "Kuppel",
+        "confidence": 0.6916
+      },
+      {
+        "wd_id": "Q1501427",
+        "search_term": "Oktogon",
+        "confidence": 0.6343
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6537
+      },
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6453
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.647
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6683
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6822
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6269
+      }
+    ],
+    "start": 3958,
+    "end": 3965,
+    "found_term": "Gewölbe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.8078
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6307
+      }
+    ],
+    "start": 2244,
+    "end": 2250,
+    "found_term": "Kanzel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.8078
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6307
+      }
+    ],
+    "start": 3977,
+    "end": 3983,
+    "found_term": "Kanzel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.8078
+      },
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.7537
+      },
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6307
+      }
+    ],
+    "start": 4016,
+    "end": 4022,
+    "found_term": "Kanzel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003725,
+        "wd_id": "Q101687",
+        "search_term": "Altar",
+        "confidence": 0.6521
+      },
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q1244038",
+        "search_term": "Dorfkirche",
+        "confidence": 0.6706
+      },
+      {
+        "aat_id": 300007466,
+        "wd_id": "Q16970",
+        "search_term": "Kirchengebäude",
+        "confidence": 0.608
+      },
+      {
+        "aat_id": 300411522,
+        "wd_id": "Q33092688",
+        "search_term": "Einsiedelei",
+        "confidence": 0.6113
+      }
+    ],
+    "start": 4189,
+    "end": 4196,
+    "found_term": "Kapelle"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6219
+      },
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6203
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6047
+      }
+    ],
+    "start": 3488,
+    "end": 3495,
+    "found_term": "kniende"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 451,
+    "end": 456,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300003790,
+        "wd_id": "Q211775",
+        "search_term": "Kanzel",
+        "confidence": 0.6343
+      }
+    ],
+    "start": 2721,
+    "end": 2729,
+    "found_term": "barocken"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 214,
+    "end": 223,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 550,
+    "end": 559,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 2881,
+    "end": 2890,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 4653,
+    "end": 4662,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 4925,
+    "end": 4934,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 5665,
+    "end": 5674,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.6523
+      }
+    ],
+    "start": 6686,
+    "end": 6695,
+    "found_term": "Bildhauer"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q309250",
+        "search_term": "Hof",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1204,
+    "end": 1207,
+    "found_term": "Hof"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006891,
+        "wd_id": "Q23413",
+        "search_term": "Burg",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4708,
+    "end": 4712,
+    "found_term": "Burg"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q19841649",
+        "search_term": "Anbau",
+        "confidence": 1.0
+      }
+    ],
+    "start": 3766,
+    "end": 3771,
+    "found_term": "Anbau"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004590,
+        "wd_id": "Q108325",
+        "search_term": "Kapelle",
+        "confidence": 0.624
+      }
+    ],
+    "start": 503,
+    "end": 510,
+    "found_term": "Pfarrei"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.6663
+      }
+    ],
+    "start": 3161,
+    "end": 3171,
+    "found_term": "Ruhestätte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.7433
+      }
+    ],
+    "start": 3199,
+    "end": 3207,
+    "found_term": "Friedhof"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.6764
+      }
+    ],
+    "start": 4220,
+    "end": 4229,
+    "found_term": "Friedhofs"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.757
+      }
+    ],
+    "start": 4273,
+    "end": 4283,
+    "found_term": "Grabstätte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.7433
+      }
+    ],
+    "start": 4334,
+    "end": 4342,
+    "found_term": "Friedhof"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.8668
+      }
+    ],
+    "start": 348,
+    "end": 356,
+    "found_term": "Zwingers"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.8668
+      }
+    ],
+    "start": 2195,
+    "end": 2203,
+    "found_term": "Zwingers"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.8668
+      }
+    ],
+    "start": 4094,
+    "end": 4102,
+    "found_term": "Zwingers"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 0.8668
+      }
+    ],
+    "start": 4516,
+    "end": 4524,
+    "found_term": "Zwingers"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 737,
+    "end": 744,
+    "found_term": "Florenz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6198
+      }
+    ],
+    "start": 814,
+    "end": 821,
+    "found_term": "Bernini"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6175
+      }
+    ],
+    "start": 892,
+    "end": 898,
+    "found_term": "Medici"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.6888
+      }
+    ],
+    "start": 4411,
+    "end": 4420,
+    "found_term": "Elbbrücke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 3362,
+    "end": 3370,
+    "found_term": "heiligen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 4254,
+    "end": 4262,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1979154",
+        "search_term": "Modell",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4230,
+    "end": 4236,
+    "found_term": "Modell"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 1.0
+      }
+    ],
+    "start": 2141,
+    "end": 2147,
+    "found_term": "Nymphe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.8095
+      }
+    ],
+    "start": 1714,
+    "end": 1721,
+    "found_term": "Figuren"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.8095
+      }
+    ],
+    "start": 2013,
+    "end": 2020,
+    "found_term": "Figuren"
+  }
+]

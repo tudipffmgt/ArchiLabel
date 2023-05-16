@@ -1,0 +1,96 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.697
+      },
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6409
+      },
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.822
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.7286
+      }
+    ],
+    "start": 2422,
+    "end": 2436,
+    "found_term": "Marmorskulptur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6355
+      }
+    ],
+    "start": 46,
+    "end": 57,
+    "found_term": "Wandmalerei"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6248
+      }
+    ],
+    "start": 2076,
+    "end": 2084,
+    "found_term": "Veronese"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6248
+      }
+    ],
+    "start": 2698,
+    "end": 2706,
+    "found_term": "Veronese"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.7179
+      }
+    ],
+    "start": 2599,
+    "end": 2611,
+    "found_term": "korinthische"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.7084
+      }
+    ],
+    "start": 3010,
+    "end": 3022,
+    "found_term": "Hauptfiguren"
+  }
+]

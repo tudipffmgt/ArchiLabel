@@ -1,0 +1,338 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300004847,
+        "wd_id": "Q12518",
+        "search_term": "Turm",
+        "confidence": 0.6208
+      }
+    ],
+    "start": 1415,
+    "end": 1425,
+    "found_term": "Wasserturm"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6175
+      }
+    ],
+    "start": 1547,
+    "end": 1553,
+    "found_term": "Medici"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6043
+      }
+    ],
+    "start": 1639,
+    "end": 1647,
+    "found_term": "Vittoria"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1,
+    "end": 11,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 24,
+    "end": 34,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 115,
+    "end": 125,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6158
+      }
+    ],
+    "start": 168,
+    "end": 177,
+    "found_term": "Aphrodite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6053
+      }
+    ],
+    "start": 209,
+    "end": 216,
+    "found_term": "Nereide"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 404,
+    "end": 414,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 630,
+    "end": 640,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 743,
+    "end": 753,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 887,
+    "end": 897,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 916,
+    "end": 926,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 945,
+    "end": 955,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1234,
+    "end": 1244,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1440,
+    "end": 1450,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1697,
+    "end": 1707,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1797,
+    "end": 1807,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1829,
+    "end": 1839,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1884,
+    "end": 1894,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 1931,
+    "end": 1941,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 2028,
+    "end": 2038,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 2067,
+    "end": 2077,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.635
+      }
+    ],
+    "start": 2210,
+    "end": 2220,
+    "found_term": "Amphitrite"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.7119
+      }
+    ],
+    "start": 69,
+    "end": 82,
+    "found_term": "korinthischen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6156
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1430,
+    "end": 1435,
+    "found_term": "Figur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 0.6122
+      }
+    ],
+    "start": 1657,
+    "end": 1667,
+    "found_term": "verkörpert"
+  }
+]

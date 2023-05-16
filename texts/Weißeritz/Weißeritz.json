@@ -1,0 +1,615 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4980,
+    "end": 4987,
+    "found_term": "Galerie"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6388
+      },
+      {
+        "wd_id": "Q155107",
+        "search_term": "Zwinger",
+        "confidence": 1.0
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.6099
+      }
+    ],
+    "start": 1480,
+    "end": 1487,
+    "found_term": "Zwinger"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6132
+      },
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6455
+      },
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 0.6233
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6953
+      },
+      {
+        "wd_id": "Q267390",
+        "search_term": "Taschenbergpalais",
+        "confidence": 0.618
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.716
+      }
+    ],
+    "start": 1499,
+    "end": 1513,
+    "found_term": "Schlosskomplex"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008077,
+        "wd_id": "Q1348006",
+        "search_term": "Häuserblock",
+        "confidence": 0.6007
+      },
+      {
+        "aat_id": 300006054,
+        "wd_id": "Q543654",
+        "search_term": "Rathaus",
+        "confidence": 0.6102
+      }
+    ],
+    "start": 1665,
+    "end": 1675,
+    "found_term": "Innenstadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6174
+      },
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6785
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.633
+      }
+    ],
+    "start": 2486,
+    "end": 2496,
+    "found_term": "abgerissen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6174
+      },
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6785
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.633
+      }
+    ],
+    "start": 2551,
+    "end": 2561,
+    "found_term": "abgerissen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6174
+      },
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6785
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.633
+      }
+    ],
+    "start": 3096,
+    "end": 3106,
+    "found_term": "abgerissen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004188,
+        "wd_id": "Q1125776",
+        "search_term": "Gebäudetrakt",
+        "confidence": 0.6174
+      },
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6879
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6785
+      },
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.633
+      }
+    ],
+    "start": 3261,
+    "end": 3271,
+    "found_term": "abgerissen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005738,
+        "wd_id": "Q751876",
+        "search_term": "Schloss",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300184568,
+        "wd_id": "Q1436181",
+        "search_term": "Lustschloss",
+        "confidence": 0.6455
+      }
+    ],
+    "start": 941,
+    "end": 948,
+    "found_term": "Schloss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.6027
+      }
+    ],
+    "start": 3846,
+    "end": 3854,
+    "found_term": "Altstadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 6041,
+    "end": 6046,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006888,
+        "wd_id": "Q57821",
+        "search_term": "Befestigung",
+        "confidence": 0.8282
+      }
+    ],
+    "start": 732,
+    "end": 751,
+    "found_term": "Befestigungsanlagen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.7641
+      }
+    ],
+    "start": 3010,
+    "end": 3015,
+    "found_term": "Umbau"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.7256
+      }
+    ],
+    "start": 3112,
+    "end": 3115,
+    "found_term": "Bau"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.7256
+      }
+    ],
+    "start": 5992,
+    "end": 5995,
+    "found_term": "Bau"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.7703
+      }
+    ],
+    "start": 1713,
+    "end": 1725,
+    "found_term": "Marienbrücke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.7227
+      }
+    ],
+    "start": 2188,
+    "end": 2203,
+    "found_term": "Flügelwegbrücke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 4368,
+    "end": 4375,
+    "found_term": "Brücken"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 1.0
+      }
+    ],
+    "start": 4614,
+    "end": 4620,
+    "found_term": "Brücke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.6094
+      }
+    ],
+    "start": 4989,
+    "end": 5007,
+    "found_term": "Weißeritztalbrücke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6747
+      }
+    ],
+    "start": 136,
+    "end": 143,
+    "found_term": "Zufluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7416
+      }
+    ],
+    "start": 191,
+    "end": 201,
+    "found_term": "Quellfluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7581
+      }
+    ],
+    "start": 240,
+    "end": 249,
+    "found_term": "Flusslauf"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7368
+      }
+    ],
+    "start": 310,
+    "end": 322,
+    "found_term": "Quellflüssen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6659
+      }
+    ],
+    "start": 363,
+    "end": 369,
+    "found_term": "fließt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6659
+      }
+    ],
+    "start": 497,
+    "end": 503,
+    "found_term": "fließt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6545
+      }
+    ],
+    "start": 562,
+    "end": 568,
+    "found_term": "mündet"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6498
+      }
+    ],
+    "start": 821,
+    "end": 828,
+    "found_term": "Mündung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6498
+      }
+    ],
+    "start": 1039,
+    "end": 1046,
+    "found_term": "Mündung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6498
+      }
+    ],
+    "start": 1899,
+    "end": 1906,
+    "found_term": "Mündung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6081
+      }
+    ],
+    "start": 1950,
+    "end": 1960,
+    "found_term": "Unterlaufs"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6498
+      }
+    ],
+    "start": 2145,
+    "end": 2152,
+    "found_term": "Mündung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6751
+      }
+    ],
+    "start": 3686,
+    "end": 3695,
+    "found_term": "Flussbett"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6498
+      }
+    ],
+    "start": 5107,
+    "end": 5114,
+    "found_term": "Mündung"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6498
+      }
+    ],
+    "start": 5140,
+    "end": 5147,
+    "found_term": "Mündung"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1623285",
+        "search_term": "Hofstelle",
+        "confidence": 0.601
+      }
+    ],
+    "start": 2406,
+    "end": 2411,
+    "found_term": "Mühle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1623285",
+        "search_term": "Hofstelle",
+        "confidence": 0.601
+      }
+    ],
+    "start": 2466,
+    "end": 2471,
+    "found_term": "Mühle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1623285",
+        "search_term": "Hofstelle",
+        "confidence": 0.601
+      }
+    ],
+    "start": 2692,
+    "end": 2697,
+    "found_term": "Mühle"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q11755880",
+        "search_term": "Wohngebäude",
+        "confidence": 0.6312
+      }
+    ],
+    "start": 4089,
+    "end": 4096,
+    "found_term": "Häusern"
+  }
+]

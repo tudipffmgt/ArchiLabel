@@ -1,0 +1,83 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300417950,
+        "wd_id": "Q17489160",
+        "search_term": "Büste",
+        "confidence": 0.6115
+      },
+      {
+        "aat_id": 300047230,
+        "wd_id": "Q245117",
+        "search_term": "Relief",
+        "confidence": 0.7055
+      },
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6451
+      }
+    ],
+    "start": 56,
+    "end": 66,
+    "found_term": "Weihrelief"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7899
+      }
+    ],
+    "start": 4365,
+    "end": 4372,
+    "found_term": "heilige"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6158
+      }
+    ],
+    "start": 2466,
+    "end": 2475,
+    "found_term": "Aphrodite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6158
+      }
+    ],
+    "start": 2523,
+    "end": 2532,
+    "found_term": "Aphrodite"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047600,
+        "wd_id": "Q179700",
+        "search_term": "Statue",
+        "confidence": 0.6156
+      },
+      {
+        "aat_id": 300189808,
+        "wd_id": "Q29527347",
+        "search_term": "Figur",
+        "confidence": 1.0
+      }
+    ],
+    "start": 240,
+    "end": 245,
+    "found_term": "Figur"
+  }
+]

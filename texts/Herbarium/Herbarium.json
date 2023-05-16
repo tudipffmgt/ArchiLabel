@@ -1,0 +1,495 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1496790",
+        "search_term": "Wallpavillon",
+        "confidence": 0.6414
+      },
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6401
+      },
+      {
+        "aat_id": 300004324,
+        "wd_id": "Q2451751",
+        "search_term": "Treppenhaus",
+        "confidence": 0.6208
+      },
+      {
+        "wd_id": "Q1627767",
+        "search_term": "Laubengang",
+        "confidence": 0.6137
+      },
+      {
+        "aat_id": 300006819,
+        "wd_id": "Q276173",
+        "search_term": "Pavillon",
+        "confidence": 0.6071
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.7008
+      },
+      {
+        "aat_id": 300002588,
+        "wd_id": "Q170552",
+        "search_term": "Balkon",
+        "confidence": 0.6347
+      }
+    ],
+    "start": 13125,
+    "end": 13137,
+    "found_term": "Wintergarten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6379
+      }
+    ],
+    "start": 7307,
+    "end": 7317,
+    "found_term": "botanische"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6338
+      }
+    ],
+    "start": 12797,
+    "end": 12808,
+    "found_term": "botanischem"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 13199,
+    "end": 13205,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6687
+      }
+    ],
+    "start": 13400,
+    "end": 13411,
+    "found_term": "Botanischen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 13412,
+    "end": 13418,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6687
+      }
+    ],
+    "start": 13745,
+    "end": 13756,
+    "found_term": "botanischen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 13757,
+    "end": 13763,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6687
+      }
+    ],
+    "start": 15769,
+    "end": 15780,
+    "found_term": "botanischen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.7508
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6013
+      }
+    ],
+    "start": 15781,
+    "end": 15787,
+    "found_term": "Gärten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6224
+      }
+    ],
+    "start": 17255,
+    "end": 17261,
+    "found_term": "Jardin"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6684
+      }
+    ],
+    "start": 17663,
+    "end": 17674,
+    "found_term": "Botanischer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 17675,
+    "end": 17681,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6379
+      }
+    ],
+    "start": 17849,
+    "end": 17859,
+    "found_term": "Botanische"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6379
+      }
+    ],
+    "start": 18627,
+    "end": 18637,
+    "found_term": "botanische"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6684
+      }
+    ],
+    "start": 22359,
+    "end": 22370,
+    "found_term": "Botanischer"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 1.0
+      },
+      {
+        "aat_id": 300006804,
+        "wd_id": "Q952885",
+        "search_term": "Orangerie",
+        "confidence": 0.6468
+      }
+    ],
+    "start": 22371,
+    "end": 22377,
+    "found_term": "Garten"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008090,
+        "wd_id": "Q1107656",
+        "search_term": "Garten",
+        "confidence": 0.6687
+      }
+    ],
+    "start": 22454,
+    "end": 22465,
+    "found_term": "Botanischen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 11690,
+    "end": 11699,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 1.0
+      }
+    ],
+    "start": 14966,
+    "end": 14971,
+    "found_term": "Basis"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 1.0
+      }
+    ],
+    "start": 15285,
+    "end": 15290,
+    "found_term": "Basis"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.695
+      },
+      {
+        "aat_id": 300000994,
+        "wd_id": "Q12277",
+        "search_term": "Bogen",
+        "confidence": 0.6783
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6073
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6015
+      }
+    ],
+    "start": 9661,
+    "end": 9666,
+    "found_term": "Bögen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300264605,
+        "wd_id": "Q29052406",
+        "search_term": "Pfeiler",
+        "confidence": 0.695
+      },
+      {
+        "aat_id": 300000994,
+        "wd_id": "Q12277",
+        "search_term": "Bogen",
+        "confidence": 0.6783
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6073
+      },
+      {
+        "aat_id": 300002580,
+        "wd_id": "Q186637",
+        "search_term": "Arkade",
+        "confidence": 0.6015
+      }
+    ],
+    "start": 14089,
+    "end": 14094,
+    "found_term": "Bögen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300000994,
+        "wd_id": "Q12277",
+        "search_term": "Bogen",
+        "confidence": 1.0
+      }
+    ],
+    "start": 5664,
+    "end": 5669,
+    "found_term": "Bogen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300000994,
+        "wd_id": "Q12277",
+        "search_term": "Bogen",
+        "confidence": 1.0
+      }
+    ],
+    "start": 7178,
+    "end": 7183,
+    "found_term": "Bogen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 13489,
+    "end": 13496,
+    "found_term": "Florenz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6175
+      }
+    ],
+    "start": 13984,
+    "end": 13990,
+    "found_term": "Medici"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6281
+      }
+    ],
+    "start": 21327,
+    "end": 21332,
+    "found_term": "della"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6648
+      }
+    ],
+    "start": 21436,
+    "end": 21442,
+    "found_term": "Civico"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002060,
+        "wd_id": "Q217164",
+        "search_term": "Fußboden",
+        "confidence": 0.6161
+      }
+    ],
+    "start": 8280,
+    "end": 8291,
+    "found_term": "Holzplatten"
+  }
+]

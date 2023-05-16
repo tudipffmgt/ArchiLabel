@@ -1,0 +1,159 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 1075,
+    "end": 1086,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.662
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6238
+      }
+    ],
+    "start": 1423,
+    "end": 1440,
+    "found_term": "architektonischen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6167
+      }
+    ],
+    "start": 1600,
+    "end": 1611,
+    "found_term": "Architektur"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6386
+      }
+    ],
+    "start": 1653,
+    "end": 1661,
+    "found_term": "Baukunst"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300047090,
+        "wd_id": "Q860861",
+        "search_term": "Skulptur",
+        "confidence": 0.7457
+      }
+    ],
+    "start": 2449,
+    "end": 2457,
+    "found_term": "Sculptur"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6268
+      }
+    ],
+    "start": 725,
+    "end": 737,
+    "found_term": "Pinturicchio"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 954,
+    "end": 961,
+    "found_term": "Florenz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6268
+      }
+    ],
+    "start": 2287,
+    "end": 2299,
+    "found_term": "Pinturicchio"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6429
+      }
+    ],
+    "start": 2349,
+    "end": 2356,
+    "found_term": "Melozzo"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6046
+      }
+    ],
+    "start": 2595,
+    "end": 2602,
+    "found_term": "Barocci"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.6282
+      }
+    ],
+    "start": 3161,
+    "end": 3168,
+    "found_term": "Florenz"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300076641,
+        "wd_id": "Q854429",
+        "search_term": "Portal",
+        "confidence": 0.7379
+      }
+    ],
+    "start": 3425,
+    "end": 3437,
+    "found_term": "Themenportal"
+  }
+]

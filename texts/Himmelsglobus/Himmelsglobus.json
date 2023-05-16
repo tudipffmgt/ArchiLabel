@@ -1,0 +1,26 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 0.6363
+      }
+    ],
+    "start": 1516,
+    "end": 1525,
+    "found_term": "Grundlage"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6308
+      }
+    ],
+    "start": 1495,
+    "end": 1509,
+    "found_term": "fertiggestellt"
+  }
+]

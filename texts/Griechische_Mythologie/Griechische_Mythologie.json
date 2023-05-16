@@ -1,0 +1,377 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.6273
+      }
+    ],
+    "start": 17779,
+    "end": 17786,
+    "found_term": "speisen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.6366
+      }
+    ],
+    "start": 17830,
+    "end": 17836,
+    "found_term": "kochte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300004514,
+        "wd_id": "Q43164",
+        "search_term": "Küche",
+        "confidence": 0.6931
+      }
+    ],
+    "start": 24165,
+    "end": 24171,
+    "found_term": "Speise"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300248835,
+        "wd_id": "Q20460",
+        "search_term": "Kruzifix",
+        "confidence": 0.6081
+      }
+    ],
+    "start": 25788,
+    "end": 25797,
+    "found_term": "hölzernes"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 12731,
+    "end": 12736,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 15249,
+    "end": 15254,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 1.0
+      }
+    ],
+    "start": 23307,
+    "end": 23312,
+    "found_term": "Stadt"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006891,
+        "wd_id": "Q23413",
+        "search_term": "Burg",
+        "confidence": 1.0
+      }
+    ],
+    "start": 25696,
+    "end": 25700,
+    "found_term": "Burg"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q2202145",
+        "search_term": "Neubau",
+        "confidence": 0.6166
+      },
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.6231
+      },
+      {
+        "aat_id": 300004792,
+        "wd_id": "Q41176",
+        "search_term": "Gebäude",
+        "confidence": 0.6227
+      }
+    ],
+    "start": 21617,
+    "end": 21624,
+    "found_term": "erbaute"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005923,
+        "wd_id": "Q203443",
+        "search_term": "Grabstein",
+        "confidence": 0.655
+      }
+    ],
+    "start": 11862,
+    "end": 11874,
+    "found_term": "Begräbnisort"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6574
+      }
+    ],
+    "start": 13436,
+    "end": 13442,
+    "found_term": "Flügel"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6258
+      }
+    ],
+    "start": 19547,
+    "end": 19554,
+    "found_term": "Flügeln"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q63759229",
+        "search_term": "Seitenflügel",
+        "confidence": 0.6574
+      }
+    ],
+    "start": 25332,
+    "end": 25338,
+    "found_term": "Flügel"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300005512,
+        "wd_id": "Q2651004",
+        "search_term": "Palazzo",
+        "confidence": 0.636
+      }
+    ],
+    "start": 2881,
+    "end": 2891,
+    "found_term": "Cristofano"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300007836,
+        "wd_id": "Q12280",
+        "search_term": "Brücke",
+        "confidence": 0.6207
+      }
+    ],
+    "start": 23853,
+    "end": 23863,
+    "found_term": "überqueren"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.7378
+      }
+    ],
+    "start": 23757,
+    "end": 23767,
+    "found_term": "Grenzfluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 1.0
+      }
+    ],
+    "start": 23995,
+    "end": 24000,
+    "found_term": "Fluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6216
+      }
+    ],
+    "start": 15213,
+    "end": 15221,
+    "found_term": "hölzerne"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6038
+      }
+    ],
+    "start": 7438,
+    "end": 7445,
+    "found_term": "Eurybia"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 7513,
+    "end": 7520,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6158
+      }
+    ],
+    "start": 7854,
+    "end": 7863,
+    "found_term": "Aphrodite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6158
+      }
+    ],
+    "start": 8312,
+    "end": 8321,
+    "found_term": "Aphrodite"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 8950,
+    "end": 8957,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 9578,
+    "end": 9585,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 9586,
+    "end": 9593,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.7721
+      }
+    ],
+    "start": 9715,
+    "end": 9722,
+    "found_term": "Nymphen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6118
+      }
+    ],
+    "start": 9791,
+    "end": 9798,
+    "found_term": "Najaden"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q373916",
+        "search_term": "Nymphe",
+        "confidence": 0.6342
+      }
+    ],
+    "start": 10376,
+    "end": 10382,
+    "found_term": "Thetis"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300076641,
+        "wd_id": "Q854429",
+        "search_term": "Portal",
+        "confidence": 1.0
+      }
+    ],
+    "start": 28216,
+    "end": 28222,
+    "found_term": "Portal"
+  }
+]

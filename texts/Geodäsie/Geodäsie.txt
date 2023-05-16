@@ -1,0 +1,195 @@
+
+GeodäsieDie Geodäsie (von altgriechisch γεωδαισία geōdaisía, deutsch ‚Erd-, Landverteilung‘; von γῆ gē, deutsch ‚Erde‘ sowie δαΐζειν daïzein, deutsch ‚zerteilen‘)[1] ist nach der Definition von Friedrich Robert Helmert (1843–1917, Begründer der theoretischen Geodäsie) und nach DIN 18709-1 die „Wissenschaft von der Ausmessung und Abbildung der Erdoberfläche“. Dies umfasst die Bestimmung der geometrischen Figur der Erde, ihres Schwerefeldes und der Orientierung der Erde im Weltraum.
+In der wissenschaftlichen Systematik ist die Geodäsie vor allem den Ingenieurwissenschaften zugeordnet. Besonders deutlich wird dies an den Universitäten und Fachhochschulen, an denen das Geodäsiestudium oft nicht dem Fachbereich der Naturwissenschaften, sondern dem Bauingenieurwesen zugeordnet ist. Des Weiteren stellt die Geodäsie das Bindeglied zwischen Astronomie und Geophysik dar. Der Fachmann für Geodäsie ist der Geodät oder Geometer.
+In der Mathematik verwendet man den Begriff geodätisch für die theoretisch kürzeste Verbindung zwischen zwei Punkten auf gekrümmten Flächen – die geodätische Linie, welche auf der Erdkugel einem Großkreis (Orthodrome) entspricht.
+Titelseite eines Buches über Landvermessung von 1616
+Gliederung
+Die Geodäsie wurde bis etwa 1930 in zwei Bereiche unterteilt:
+Die höhere Geodäsie umfasst (als physikalische, mathematische und astronomische Geodäsie) auch Erdmessung, Landesvermessung und die astronomischen Methoden.
+Die niedere Geodäsie (die mit ebenen Rechenflächen auskommt) umfasst einfache Bau- und Katastervermessung; sie wird heute eher als allgemeine Geodäsie, angewandte Geodäsie, praktische Geodäsie oder Stückvermessung bezeichnet.
+Die Ingenieurgeodäsie verwendet je nach geforderter Genauigkeit Methoden beider Bereiche.
+Um 1950 etablierte sich die Luftbildmessung als eigenes Fach unter dem Namen Photogrammetrie – seit den 1990er-Jahren meist mit der Fernerkundung als Doppelfach gesehen. Ab 1958 entstand die Satellitengeodäsie.
+Die Datenbanken der Landes- beziehungsweise Katastervermessung entwickelten sich zu Geoinformationssystemen (GIS)[2] oder Landinformationssystemen (LIS) weiter.
+Alle diese Teilfächer sind jedoch meist in einem Hochschulstudiengang vereint, der auch die Kartografie oder zumindest Teile davon sowie eine Reihe weiterer Haupt- und Nebenfächer umfasst (z. B. Bodenordnung) und zum Beruf des Vermessungsingenieurs oder Geoinformatikers führt (vergl. auch Geomatik bzw. Geomatikingenieur). In Nordamerika (und der englischen Fachliteratur) wird jedoch zwischen Geodesy und Surveying unterschieden, die in dortigen Studienplänen kaum mehr zusammenhängen. Die Bezeichnung Surveying entspricht unserem Wort Vermessung.
+Diese in Europa akademisch ausgebildeten Fachleute sind neben den oben angegebenen Aufgaben oft auch in Grundstücksbewertung, Bauwesen, EDV, Kartografie, Navigation und den raumbezogenen Informationssystemen tätig, während in der Immobilienwirtschaft – mit Ausnahme des Katasters – eher andere Ausbildungen vorherrschen. Die öffentlich bestellten Vermessungsingenieure (ÖbVIs), in Österreich Zivilingenieure genannt, haben neben dem Liegenschaftswesen auch das Recht, in technischen Bereichen der Geophysik tätig zu sein.
+Grundlagen und Teilgebiete
+Die Geodäsie liefert mit ihren Vermessungsergebnissen (z. B. aus Kataster- und Landesvermessung, Ingenieurgeodäsie, Photogrammetrie und Fernerkundung) die Grundlagen für zahlreiche andere Fachgebiete und Tätigkeiten:
+im Bereich der Geo- und Naturwissenschaften zum Beispiel für die Astronomie, Physik und Ozeanografie, für Geoinformatik und Kataster, für Landkarten (neben topografischen auch thematische Karten) der Geologie, Geophysik und Kartografie, sowie für verschiedenste Dokumentationen, etwa der Archäologie.
+in der Technik vor allem für Bauwesen und Architektur, für verschiedene Ziviltechniker, den Ingenieurbau, die Funk- und Geotechnik und diesbezügliche Datenbanken oder Informationssysteme.
+Die Anomalien des Erdschwerefeldes im Meeresniveau (1 mgal ≈ 1 Millionstel der Schwerkraft). Sie dienen zur Bestimmung der genauen Erdfigur (Geoid) und des Aufbaus der Erdkruste.
+Die sogenannte höhere Geodäsie (mathematische Geodäsie, Erdmessung und physikalische Geodäsie) beschäftigt sich unter anderem mit der mathematischen Erdfigur, präzisen Referenzsystemen und der Bestimmung von Geoid und Erdschwerefeld. Zur Geoidbestimmung werden verschiedene Messverfahren verwendet: Gravimetrie, geometrische und dynamische Methoden der Satellitengeodäsie und die Astrogeodäsie. Die Kenntnis der Schwere ist nötig, um ein genaues Höhensystem zu etablieren, zum Beispiel bezüglich der Nordsee (so genannte NN-Höhen, siehe auch Amsterdamer Pegel) oder der Adria. Das amtliche Höhensystem in Deutschland ist im Deutschen Haupthöhennetz (DHHN) verkörpert.
+Das Geoid (bzw. sein Gradient, die Lotabweichung) dient auch zur Definition und Reduktion weiträumiger Messungen und Koordinaten auf der Erdoberfläche. Zur Triangulierung und für längere Verbindungslinien nähert man den Meeresspiegel durch ein Referenzellipsoid an und berechnet sie mittels geodätischer Linien, die auch in der Mathematik (Differentialgeometrie), der Navigation und beim Aufspannen leichter Gewölbe (geodätische Kuppel) Anwendung finden. Geoid und Schwerefeld sind ferner für die angewandte Geophysik und zur Berechnung von Satellitenbahnen wichtig.
+Ebenfalls der höheren Geodäsie ist jener Bereich der Landesvermessung zuzuordnen, bei dem es um regionale Vermessungen und ihre Bezugssysteme geht. Diese Aufgaben wurden früher terrestrisch gelöst, nun aber zunehmend mit dem GPS und anderen Satellitenmethoden.
+Die so genannte niedere Geodäsie umfasst die Aufnahme von Lageplänen für Bauplanung, Dokumentation und Erstellung digitaler Modelle für technische Projekte, die topografische Aufnahme des Geländes, die Katastervermessung und Bereiche des Facilitymanagement.
+Wenn sich im Laufe der Zeit die Eigentumsverhältnisse der Grundstücke verkompliziert haben (durch Teilung beim Kauf und Verkauf oder Vererbung), dann wird eine sogenannte Bodenordnung notwendig. Ihr wichtigstes Instrument ist die Flurbereinigung, in Österreich Melioration genannt. Sie dient auch der gleichmäßigen Verteilung von Belastungen, wenn Flächen für Großprojekte (Autobahnen, Neubaustrecken) aufgebracht werden müssen (Unternehmensflurbereinigung).
+Mit Ingenieurvermessung bezeichnet man die technische, nicht amtliche Vermessung (z. B. Gebäudeabsteckungen, Ingenieurnivellements, Einrichtung von Großmaschinen etc.)
+Bei der Erfüllung geodätischer Aufgaben im Untertage- und auch Übertage-Bergbau spricht man von Markscheidewesen oder Bergvermessung.
+Zu den Spezialgebieten der Geodäsie zählen auch die Meeresgeodäsie, Seevermessung und Aufnahme hydrografischer Profile von Flüssen, die ozeanografische Altimetrie mit Satelliten sowie Kooperationen im Bereich der Navigation.
+Unterschieden wird auch zwischen den Teilgebieten Vermessungstechnik als technischem Teil (Instrumentenkunde) sowie dem nichttechnischen Teil Vermessungswesen als Sammelbegriff für die Bereiche der höheren und niederen Geodäsie. Das Kataster- und Liegenschaftswesen gehört nicht zur Vermessungstechnik, obwohl deutsche Gerichte wie das Oberlandesgericht Düsseldorf (OLG) im Beschluss I-10 W 62/06 entgegen der an deutschen Hochschulen und Universitäten herrschenden Lehrmeinung davon ausgehen.
+Geschichte
+Altertum und Mittelalter
+Ihren Ursprung hat die Geodäsie in der Notwendigkeit, Land aufzuteilen, Grundstücks- und Eigentumsgrenzen zu definieren und Landesgrenzen zu dokumentieren. Ihre Geschichte reicht bis in die „hydraulische Gesellschaft“ des alten Ägypten zurück, wo der Beruf des Geodäten alljährlich nach der Nilüberschwemmung für einige Wochen zum wichtigsten des Landes wurde.
+Der Mensch hat sich auch seit jeher mit den Gestirnen und insbesondere mit der Gestalt der Erde auseinandergesetzt. Zuerst nahm man an, die Erde sei eine vom Ozean umflossene Scheibe. Pythagoras von Samos (um 500 v. Chr.) erklärte zwar, die Erde sei eine Kugel, doch beweisen konnte er seine These nicht. Dies gelang erst Aristoteles (um 350 v. Chr.). Er bewies die These an folgenden drei praktischen Beispielen:
+Nur eine Kugel kann bei Mondfinsternis stets einen runden Schatten auf den Mond werfen.
+Bei einer Reise in nord-südlicher Richtung kann das Auftauchen neuer Gestirne nur durch die Kugelform der Erde erklärt werden.
+Alle fallenden Gegenstände streben einen gemeinsamen Mittelpunkt an, nämlich den Erdmittelpunkt.
+Bemerkenswert war die Gradmessung des hellenistischen Gelehrten Eratosthenes zwischen Alexandria und Syene (heutiges Assuan) um 240 v. Chr. Sie ergab den Erdumfang zu 252.000 Stadien, was dem wahren Wert trotz der unsicheren Entfernung (Schätzung 5000 Stadien) auf etwa zehn Prozent nahekam. Der Wissenschaftler und alexandrinische Bibliotheksdirektor schätzte den Erdumfang aus dem um 7,2 Grad unterschiedlichen Sonnenstand.
+Wie in Ägypten waren auch die vermessungstechnischen Leistungen der Maya erstaunlich, wo die Geodäsie offenbar stark mit Astronomie und Kalenderrechnung zusammenhing.
+Auch schwierige Tunnel-Vermessungen sind aus dem 1. Jahrtausend v. Chr. überliefert, wie etwa im 6. Jahrhundert v. Chr. der Tunnel des Eupalinos auf Samos.
+Wichtige Marksteine der antiken Geodäsie waren auch die ersten Weltkarten aus Griechenland, die Sternwarten im Mittleren Osten und diverse Messinstrumente an einigen Zentren des östlichen Mittelmeeres. 1023 ermittelte al-Bīrūnī – ein Universalgelehrter der damaligen islamischen Welt – mit einem von ihm erfundenen neuen Messverfahren den Radius der Erdkugel am Ufer des Kabulflusses, damals Indus genannt, ziemlich genau zu 6339,6 Kilometer (der Radius am Äquator der Erde beträgt tatsächlich 6378,1 Kilometer). Damals wurde im Arabien des 11. Jahrhunderts der Bau von Sonnenuhren und Astrolabien zu höchster Blüte getrieben, worauf ab 1300 auch europäische Wissenschaftler wie Peuerbach aufbauen konnten.
+Neuzeit
+Lithographiesteine im Archiv des Bayerischen Landesamtes für Vermessung und Geoinformation
+Mit dem Aufbruch in die Neuzeit sorgten die Bedürfnisse von Kartografie und Navigation für einen erneuten Entwicklungsschub, beispielsweise in der Uhren- und Geräteproduktion von Nürnberg oder den Mess- und Rechenmethoden der Seefahrer Portugals. In diese Epoche fällt auch die Entdeckung der Winkelfunktionen (Indien und Wien) und der Triangulation (Snellius um 1615). Neue Messinstrumente wie der Messtisch (Prätorius, Nürnberg 1590), das „Pantometrum“ des Jesuiten Athanasius Kircher und das Fernrohr/Mikroskop ermöglichten der Geodäsie die ersten wirklich präzisen Landesvermessungen durch Jean Picard u. a.
+Ab etwa 1700 verbesserten sich die Landkarten erneut durch exakte Rechenmethoden (mathematische Geodäsie). Mit der Gradmessung entlang des Pariser Meridians durch Jean-Dominique Cassini, seinen Sohn Jacques Cassini und andere begann die großräumige Erdmessung, die 1740 mit der Bestimmung der ellipsoidischen Erdradien durch die Franzosen Bouguer und Maupertuis einen ersten Höhepunkt erlebte. Die Cassinis vermaßen ganz Frankreich geodätisch und legten damit die Grundlage für die Erstellung der Carte de Cassini durch César François Cassini de Thury und Jean Dominique Comte de Cassini. Es folgte die Englisch-Französische Trigonometrische Vermessung und daran anschließend die Trigonometrische Vermessung von Großbritannien und Irland.
+Um die Ergebnisse verschiedener Projekte und Landesvermessungen besser kombinieren zu können, entwickelten Roger Joseph Boscovich, Carl Friedrich Gauß und andere schrittweise die Ausgleichsrechnung, die seit etwa 1850 auch der Etablierung präziser Bezugssysteme und der Vermessung des Weltraums (kosmische Geodäsie) zugutekam.
+Für die Geodäsie des 19. und 20. Jahrhunderts waren die wichtigsten Stationen:
+die Einführung des Meters, des Greenwicher Nullmeridians und ab 1950 eines globalen Zeitsystems, das auf Funktechnik und Quarzuhren beruhte
+die Geoid- und Schweremessung sowie Querverbindungen zur Geophysik
+Erhöhung der Messgenauigkeit auf etwa das Hundertfache (dm ⇒ mm pro km), wozu Weiterentwicklungen von Theodolit und Winkelmessung, die optische und später elektrooptische/elektronische Distanzmessung beitrugen
+Ab 1960 der zunehmende Einsatz von künstlichen Erdsatelliten und die Entwicklung der Satellitengeodäsie, die erstmals interkontinentale Messungen ermöglichte und um 1990 die globalen Systeme (wie GPS) verwirklichte
+Ab etwa 1980 Radioastronomie mittels Interferometrie (VLBI) als Basis hochpräziser Referenzsysteme wie ITRF, ETRS89 für globale Geodäsie und für die Geodynamik der Erdkruste.
+Ergebnisse geodätischer Arbeiten
+Festpunktfelder für Lage, Höhe und Schwere
+Lage- und Höhenkoordinaten von Objektpunkten und Vermessungspunkten
+Dimensionen (Breite, Länge, Höhe) von Objekten
+Form- und Gestaltabweichungen von Objekten (Planarität, Krümmung …)
+Orientierung von Objekten (z. B. nach geographisch Nord, Neigung gegen Vertikale)
+Ausrichtung von Objekten (Abstände, Fluchten, Horizontieren …)
+Deformationsüberwachung an Objekten (siehe Geodynamik und Ingenieurgeodäsie)
+Karten und Pläne
+Orthofotos
+Daten für Geo-Informationssysteme
+Digitale Geländemodelle und darauf beruhende Darstellungen, zum Beispiel Perspektiv-Ansichten
+Visualisierung technischer Objekte.
+Messinstrumente, Geräte und Ausrüstung
+Wichtige Messinstrumente und Geräte
+(Anm.: Das Vermessungswesen spricht eher von Instrumenten, die Photogrammetrie jedoch von Geräten.)
+Maßband und Schnurlot (Messung von horizontalen Strecken)
+Winkelprisma und Fluchtstab (Messung von Fluchten und rechten Winkeln)
+Theodolit (Messung von Horizontalrichtungen und Vertikalwinkeln)
+Tachymeter (Messung von Horizontalrichtungen und Vertikalwinkeln sowie Raumstrecken)
+Nivellier (Messung von Höhendifferenzen)
+Gravimeter (Messung der Erdbeschleunigung)
+GNSS-Empfänger (GPS-, GLONASS-, BeiDou- oder Galileo-Empfänger) (Messung von Raumstrecken zu mehreren Satellitenpositionen)
+Laserscanner (automatische Messung von Polarelemente, zwei Ablenkwinkel und eine Raumstrecke, zu Oberflächen in der Umgebung)
+Messkammer (Photogrammetrie) (Messung von reflektierter Strahlung – Fotos, Bilder)
+Spezial- und Hilfsgeräte
+Distanzer, EDM-Aufsatz
+Doppelpentagonprisma (Winkelprisma)
+Fluchtstab oder Fluchtstange
+Kreiselkompass
+LaserDisto
+Lasertracker
+Lattenrichter
+Lot (mechanische Lote: Senkblei/Senkel/Schnurlot, Lotstab; optisches Lot)
+Meridianrichtungskreisel
+Messband, Maßband oder Bandmaß
+Prisma beziehungsweise Reflektor
+
+
+Stativ (Holz, Metall)
+Vermarkungsmaterial
+Historische Geräte der Antike
+Groma
+Chorobates
+Dioptra
+Skiotherikós Gnomon
+Historische Geräte der Neuzeit
+Basislatte
+Bordakreis
+Bussolentachymeter
+Kippregel
+Kreuzscheibe
+Messlatte
+Messtisch
+Sextant
+Mess- und Rechenmethoden
+Richtungs- und Winkelmessung
+Distanzmessung (elektrooptische Distanzmessung), Dopplernavigation und Inertialnavigation
+Höhenmessung (nivellitisch oder trigonometrisch, weniger genau barometrisch bzw. Altimetrie)
+Photogrammetrie (terrestrisch, Luftbildmessung)
+Fernerkundung
+Gravimetrie (Schweremessung) und Gradiometrie
+Satellitengeodäsie
+Messverfahren im Detail (alphabetisch)
+Absteckung
+Astronomische Ortsbestimmung
+Digitale Bildverarbeitung
+Fernerkundung
+Freie Standpunktwahl oder freie Stationierung
+relative und absolute Gravimetrie
+GNSS (Global Navigation Satellite System): Differential-GPS (DGPS)
+Gradiometrie
+Laserscanning
+Netzmessung
+Nivellement
+Polarpunktaufnahme
+Polygonierung (Polygonzug)
+Photogrammetrie
+Profilaufnahme
+Schnittmethoden: Geradenschnitt (Kreuzpeilung), Rückwärtsschnitt, Vorwärtsschnitt, Bogenschnitt (Bogenschlag)
+SLR (Satellite Laser Ranging)
+SST (Satellite to Satellite Tracking)
+Spiegeln, Staffeln
+Triangulation (Geodäsie), Trilateration
+VLBI (Very Long Baseline Interferometry)
+Rechenverfahren und Rechenhilfsmittel
+Geodätisches Rechnen an PC und programmierbaren Taschenrechnern
+geodätische Software, Vermessungs-Software
+Helmert-Transformation und räumliche Methoden der Koordinaten-Transformation (z. B. 7-Parameter-Transformation bei GPS-Netzen)
+Rechenmodelle für Messgeräte-Kalibrierung, Eichung und Metrologie
+Ausgleichungsrechnung und statistische Testmethoden
+Mathematische Geodäsie und kartographische Projektionen
+Koordinaten-Datenbanken, digitale Terrainmodelle (DTM), digitale Verschneidungsprogramme
+digitaler Kataster und Grundbuch, Facilitymanagement
+Geoinformationssysteme (GIS) und LIS und andere raumbezogene Datenbanken wie etwa der Leitungskataster
+IGS, International GPS Service für genaue Satellitenbahnen und DGPS
+SAPOS und andere Regionaldienste für Satellitenpositionierung.
+Referenzsysteme
+Häufig verwendete Referenzellipsoide
+Liste einiger Datumsdefinitionen
+Organisationen
+National
+Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland – AdV (Deutschland)
+Bund der Öffentlich bestellten Vermessungsingenieure – BDVI (Deutschland)
+Bundesamt für Eich- und Vermessungswesen – BEV Wien (Österreich)
+Bundesamt für Kartographie und Geodäsie – BKG (Deutschland)
+Bundesamt für Landestopografie – swisstopo (Schweiz)
+Deutsche Geodätische Kommission
+Deutsches Geodätisches Forschungsinstitut
+DVW – Gesellschaft für Geodäsie, Geoinformation und Landmanagement e.V. – DVW (Deutschland)
+Interessengemeinschaft Geodäsie IGG (Deutschland)
+KonGeoS – Konferenz der GeodäsieStudierenden
+Landesvermessungsämter (Deutschland)
+Schweizerische Geodätische Kommission – SGC – Swiss Geodetic Commission
+Verband Deutscher Vermessungsingenieure – VDV (Deutschland)
+International
+Fédération Internationale des Géomètres (FIG)
+International Association of Geodesy (IAG)
+International Geodetic Student Organisation (IGSO)
+Bedeutende Geodäten
+Siehe auch: Liste bedeutender Geodäten
+Veranstaltungen
+Siehe auch: Tag der Geodäsie
+Literatur
+Willi Freeden, Reiner Rummel (Hrsg.): Handbuch der Geodäsie. Springer Spektrum, ISSN 2522-8161, doi:10.1007/978-3-662-46900-2 (6 Bände). 
+Hans-Gert Kahle: Einführung in die höhere Geodäsie. 2., erweiterte Auflage. Verlag der Fachvereine, Zürich 1988, ISBN 3-7281-1655-6.
+Heribert Kahmen: Angewandte Geodäsie: Vermessungskunde. 20. Auflage. Walter de Gruyter, 2005, ISBN 3-11-018464-8. 
+Karl Ledersteger: Astronomische und physikalische Geodäsie. (= Handbuch der Vermessungskunde. 5). 10. Auflage. Metzler, Stuttgart 1969.
+Wolfgang Torge: Geodäsie. 2. Auflage. De Gruyter, Berlin 2003, ISBN 3-11-017545-2.
+Wolfgang Torge: Geschichte der Geodäsie in Deutschland. 2. Auflage. De Gruyter, Berlin 2009, ISBN 978-3-11-020719-4.
+Handbuch der Vermessungskunde.
+Weblinks
+Commons: Geodäsie – Sammlung von Bildern, Videos und Audiodateien
+Wikibooks: Mehrere Bücher zum Thema Geowissenschaften – Lern- und Lehrmaterialien
+Wiktionary: Geodäsie – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Literatur von und über Geodäsie im Katalog der Deutschen Nationalbibliothek
+Geodäsie. In: Meyers Konversations-Lexikon. 4. Auflage. Band 7, Verlag des Bibliographischen Instituts, Leipzig/Wien 1885–1892,  S. 124.
+Arbeitsplatz Erde Eine allgemeinverständliche Einführung in die Geodäsie bzw. das Vermessungswesen, betreut von allen maßgeblichen geodätischen Berufsverbänden Deutschlands
+Auf den Spuren der Grazer Geodäsie – Querschnitt, Erdmessung, Episoden
+Einzelnachweise
+↑  Wilhelm Pape, Max Sengebusch (Bearb.): Handwörterbuch der griechischen Sprache. 3. Auflage, 6. Abdruck. Vieweg & Sohn, Braunschweig 1914 (zeno.org [abgerufen am 28. Dezember 2021]). ↑  Nutzung von GIS in der Vermessung und Geodäsie. In: GIS für das Vermessungswesen. Auf esri.de, abgerufen am 11. September 2020.
+Normdaten (Sachbegriff): GND: 4020202-1 (OGND, AKS) | LCCN: sh85053969 | NDL: 00571404 
+
+
+

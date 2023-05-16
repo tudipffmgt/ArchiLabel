@@ -1,0 +1,53 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300008389,
+        "wd_id": "Q515",
+        "search_term": "Stadt",
+        "confidence": 0.7255
+      }
+    ],
+    "start": 797,
+    "end": 803,
+    "found_term": "Städte"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.6382
+      }
+    ],
+    "start": 1774,
+    "end": 1783,
+    "found_term": "Zuflusses"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300150555,
+        "wd_id": "Q43115",
+        "search_term": "Heiliger",
+        "confidence": 0.7488
+      }
+    ],
+    "start": 927,
+    "end": 935,
+    "found_term": "Heiligen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q1395899",
+        "search_term": "Hoftheater",
+        "confidence": 0.6121
+      }
+    ],
+    "start": 10948,
+    "end": 10961,
+    "found_term": "Kapellmeister"
+  }
+]

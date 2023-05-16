@@ -1,0 +1,27 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q3476515",
+        "search_term": "Bauplastik",
+        "confidence": 0.6355
+      }
+    ],
+    "start": 891,
+    "end": 902,
+    "found_term": "Wandmalerei"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300001324,
+        "wd_id": "Q189771",
+        "search_term": "Gewölbe",
+        "confidence": 0.6281
+      }
+    ],
+    "start": 669,
+    "end": 678,
+    "found_term": "gewölbten"
+  }
+]

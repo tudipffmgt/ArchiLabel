@@ -1,0 +1,168 @@
+[
+  {
+    "labels": [
+      {
+        "aat_id": 300075767,
+        "wd_id": "Q164419",
+        "search_term": "Galerie",
+        "confidence": 1.0
+      }
+    ],
+    "start": 3440,
+    "end": 3447,
+    "found_term": "Galerie"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6248
+      }
+    ],
+    "start": 64,
+    "end": 75,
+    "found_term": "Kolbenpumpe"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6586
+      }
+    ],
+    "start": 1550,
+    "end": 1561,
+    "found_term": "angetrieben"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6586
+      }
+    ],
+    "start": 2740,
+    "end": 2751,
+    "found_term": "angetrieben"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.7788
+      }
+    ],
+    "start": 192,
+    "end": 199,
+    "found_term": "Anlagen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q13226383",
+        "search_term": "Anlage",
+        "confidence": 0.7788
+      }
+    ],
+    "start": 4584,
+    "end": 4591,
+    "found_term": "Anlagen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 1.0
+      }
+    ],
+    "start": 308,
+    "end": 313,
+    "found_term": "Fluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 0.761
+      }
+    ],
+    "start": 499,
+    "end": 506,
+    "found_term": "Flüssen"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6056
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6162
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.631
+      }
+    ],
+    "start": 1332,
+    "end": 1342,
+    "found_term": "umlaufende"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002704,
+        "wd_id": "Q695992",
+        "search_term": "Wandnische",
+        "confidence": 0.6216
+      }
+    ],
+    "start": 3449,
+    "end": 3457,
+    "found_term": "Hölzerne"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300265418,
+        "wd_id": "Q811979",
+        "search_term": "Bauwerk",
+        "confidence": 0.722
+      }
+    ],
+    "start": 4561,
+    "end": 4569,
+    "found_term": "Bauwerke"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300006179,
+        "wd_id": "Q483453",
+        "search_term": "Zierbrunnen",
+        "confidence": 0.8356
+      }
+    ],
+    "start": 1906,
+    "end": 1913,
+    "found_term": "Brunnen"
+  }
+]

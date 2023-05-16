@@ -1,0 +1,332 @@
+[
+  {
+    "labels": [
+      {
+        "wd_id": "Q1251403",
+        "search_term": "Gasse",
+        "confidence": 0.6207
+      }
+    ],
+    "start": 9336,
+    "end": 9342,
+    "found_term": "Straße"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.614
+      }
+    ],
+    "start": 19667,
+    "end": 19675,
+    "found_term": "Drehzahl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 19869,
+    "end": 19874,
+    "found_term": "Motor"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 19930,
+    "end": 19935,
+    "found_term": "Motor"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.614
+      }
+    ],
+    "start": 19973,
+    "end": 19981,
+    "found_term": "Drehzahl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6051
+      }
+    ],
+    "start": 19986,
+    "end": 19992,
+    "found_term": "Motors"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 20342,
+    "end": 20347,
+    "found_term": "Motor"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 20400,
+    "end": 20405,
+    "found_term": "Motor"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.614
+      }
+    ],
+    "start": 20443,
+    "end": 20451,
+    "found_term": "Drehzahl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6051
+      }
+    ],
+    "start": 20456,
+    "end": 20462,
+    "found_term": "Motors"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 21349,
+    "end": 21354,
+    "found_term": "Motor"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6527
+      }
+    ],
+    "start": 21407,
+    "end": 21412,
+    "found_term": "Motor"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.614
+      }
+    ],
+    "start": 21458,
+    "end": 21466,
+    "found_term": "Drehzahl"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6051
+      }
+    ],
+    "start": 21471,
+    "end": 21477,
+    "found_term": "Motors"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300378890,
+        "wd_id": "Q34132",
+        "search_term": "Zylinder",
+        "confidence": 0.6308
+      }
+    ],
+    "start": 21491,
+    "end": 21502,
+    "found_term": "Umdrehungen"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 1.0
+      }
+    ],
+    "start": 1502,
+    "end": 1507,
+    "found_term": "Basis"
+  },
+  {
+    "labels": [
+      {
+        "wd_id": "Q82383",
+        "search_term": "Basis",
+        "confidence": 1.0
+      }
+    ],
+    "start": 31917,
+    "end": 31922,
+    "found_term": "Basis"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300000885,
+        "wd_id": "Q391414",
+        "search_term": "Bauteil",
+        "confidence": 0.6422
+      }
+    ],
+    "start": 9492,
+    "end": 9501,
+    "found_term": "Werkstück"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300002526,
+        "wd_id": "Q183061",
+        "search_term": "Fassade",
+        "confidence": 0.6104
+      },
+      {
+        "wd_id": "Q811438",
+        "search_term": "Baukörper",
+        "confidence": 0.6369
+      },
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6083
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6339
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.606
+      }
+    ],
+    "start": 5476,
+    "end": 5483,
+    "found_term": "Quaders"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300008707,
+        "wd_id": "Q4022",
+        "search_term": "Fluss",
+        "confidence": 1.0
+      }
+    ],
+    "start": 10514,
+    "end": 10519,
+    "found_term": "Fluss"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6094
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6293
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6001
+      }
+    ],
+    "start": 14373,
+    "end": 14385,
+    "found_term": "geschweiften"
+  },
+  {
+    "labels": [
+      {
+        "aat_id": 300001788,
+        "wd_id": "Q328092",
+        "search_term": "Gesims",
+        "confidence": 0.6094
+      },
+      {
+        "aat_id": 300002737,
+        "wd_id": "Q175112",
+        "search_term": "Pilaster",
+        "confidence": 0.6293
+      },
+      {
+        "aat_id": 300002268,
+        "wd_id": "Q163972",
+        "search_term": "Dachtraufe",
+        "confidence": 0.6001
+      }
+    ],
+    "start": 30342,
+    "end": 30354,
+    "found_term": "geschweiften"
+  }
+]
