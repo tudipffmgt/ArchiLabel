@@ -14,7 +14,8 @@ Citation:
 @article{ArchiLabel2023,
     author = {Bruschke, J. and Kröber, C. and Maiwald, F. and Utescher, R. and Pattee, A.},
     title = {Introducing a Multimodal Dataset for the Research of Architectural Elements},
-    journal = {journal},
+    journal = {Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.},
+    volume = {tba},
     year = {2023},
 }
 ```
