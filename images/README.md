@@ -8,3 +8,5 @@ Each annotation follows a naming convention incorporating both AAT and Wikidata 
 The images are provided together with a JSON file following the [COCO data segmentation format](https://cocodataset.org/#format-data).
 
 The images have been retrieved from the [Deutsche Fotothek](https://www.deutschefotothek.de/) and are licensed under Creative Commons and Public Domain.
+
+- 01_kronentor
